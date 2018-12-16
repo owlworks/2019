@@ -1,0 +1,22 @@
+- session = data.keynote_session[github_id]
+.timetable__section.timetable__section--session
+  %ul.category
+    %li.label 基調講演
+    - unless github_id.start_with?("undefined")
+      %li @#{github_id}
+  %h3.title= session[:title]
+  %ul.speaker
+    - if session[:belongs]
+      %li= session[:belongs]
+    %li= session[:name]
+  - if session[:description]
+    .description
+      = simple_format session[:description]
+  - if session[:ama_id] || session[:presentation_url]
+    %ul.links
+      %li
+        %i.fas.fa-comment
+        = link_to "質疑応答", "https://railsdm.herokuapp.com/issues/#{session[:ama_id]}"
+      %li
+        %i.fas.fa-link
+        = link_to "講演資料", session[:presentation_url]

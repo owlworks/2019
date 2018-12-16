@@ -1,0 +1,11 @@
+- session = data.pr[id]
+.timetable__section.timetable__section--session
+  %ul.category
+    %li.label.label--pr PR
+  - if session[:title]
+    %h3.title
+      = session[:title]
+  %ul.speaker
+    - if session[:belongs]
+      %li= session[:belongs]
+    %li= session[:name]
