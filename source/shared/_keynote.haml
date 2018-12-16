@@ -1,0 +1,23 @@
+.container.container--keynote
+  .row.center-xs
+    .col-xs-12
+      %h2.title KEYNOTE
+  .row.center-sm
+    .col-xs-12.col-sm-7
+      .row.center-xs
+        - data.keynote.each do |record|
+          .col-xs-6
+            = image_tag "keynote/#{record[:github]}.jpg", alt: "takahashim", class: "thumbnail--keynote"
+            .userinfo
+              %p.username
+                = record[:github]
+              %ul.links
+                %li
+                  = link_to "https://github.com/#{record[:github]}", target: "_blank" do
+                    %i.fab.fa-github
+                - if record[:twitter]
+                  %li
+                    = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank" do
+                      %i.fab.fa-twitter
+        .col-xs-6
+          = image_tag "keynote/undernegotiation.png", alt: "UNDER NEGOTIATION", class: "thumbnail--keynote"

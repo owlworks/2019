@@ -1,0 +1,19 @@
+.container.container--speaker
+  .row.center-xs
+    .col-xs-12
+      %h2.title SPEAKER
+  .row.center-xs.center-md
+    - data.speaker.each do |record|
+      .col-xs-4.col-md-2
+        = image_tag "speaker/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--speaker"
+        .userinfo
+          %p.username
+            = record[:github]
+          %ul.links
+            %li
+              = link_to "https://github.com/#{record[:github]}", target: "_blank" do
+                %i.fab.fa-github
+            - if record[:twitter]
+              %li
+                = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank" do
+                  %i.fab.fa-twitter

@@ -1,0 +1,27 @@
+- session = data.lunch_session[id]
+.timetable__section.timetable__section--session
+  %ul.category
+    %li.label.label--lunch_session ランチ付セッション: #{label}
+    - if session[:sponsor_name]
+      %li by #{sponsor_name}
+  - if session[:title]
+    %h3.title
+      = session[:title]
+  %ul.speaker
+    - if session[:belongs]
+      %li= session[:belongs]
+    %li= session[:name]
+  - if session[:description]
+    .description
+      = simple_format session[:description]
+  - if session[:ama_id] || session[:presentation_url]
+    %ul.links
+      %li
+        %i.fas.fa-comment
+        = link_to "質疑応答", "https://railsdm.herokuapp.com/issues/#{session[:ama_id]}"
+      %li
+        %i.fas.fa-link
+        = link_to "講演資料", session[:presentation_url]
+  .caution
+    %p
+      本セッションのランチは受付時に渡された整理券との引換となります。数量限定となりますので、あらかじめご了承ください。
