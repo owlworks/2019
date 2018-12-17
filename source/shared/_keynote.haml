@@ -7,7 +7,7 @@
       .row.center-xs
         - data.keynote.each do |record|
           .col-xs-6
-            = image_tag "keynote/#{record[:github]}.jpg", alt: "takahashim", class: "thumbnail--keynote"
+            = image_tag "keynote/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--keynote"
             .userinfo
               %p.username
                 = record[:github]
