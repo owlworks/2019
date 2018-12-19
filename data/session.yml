@@ -238,6 +238,14 @@ r7kamura:
   ama_id: null
   presentation_url: null
 
+radioboo:
+  title: TBA
+  belongs: 株式会社ミクシィ
+  name: 酒井 篤
+  description: null
+  ama_id: null
+  presentation_url: null
+
 risacan:
   title: TBA
   belongs: 株式会社SmartHR
@@ -426,14 +434,6 @@ yui-knk:
   title: TBA
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
-  description: null
-  ama_id: null
-  presentation_url: null
-
-undefined1:
-  title: TBA
-  belongs: 株式会社ミクシィ
-  name: 未定
   description: null
   ama_id: null
   presentation_url: null
