@@ -10,8 +10,25 @@
 .container.container--sponsor
   .row.center-xs
     .col-xs-12
+      %h2.title PLATINUM SPONSORS
+  - data.platinum_sponsor.each do |sponsor|
+    .row
+      .col-xs-12
+        .sponsor
+          .row
+            .col-xs-3.col-sm-2
+              = image_tag "sponsor/#{sponsor[:id]}.png"
+            .col-xs-9.col-sm-10
+              %p.label= sponsor[:label]
+              %h3= link_to sponsor[:name], sponsor[:url]
+              .description
+                %p= sponsor[:description]
+
+.container.container--sponsor
+  .row.center-xs
+    .col-xs-12
       %h2.title SPECIAL SPONSORS
-  - data.sponsor.each do |sponsor|
+  - data.special_sponsor.each do |sponsor|
     .row
       .col-xs-12
         .sponsor
