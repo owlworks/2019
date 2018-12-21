@@ -1,8 +1,17 @@
 .container.container--sponsor
   .row.center-xs
     .col-xs-12
-      %h2.title SPONSOR
-  -# data.sponsor.each do |sponsor|
+      %h2.title SPONSORSHIP
+  .row.center-xs
+    .col-xs-12
+      .comingsoon
+        %p 19年1月上旬にスポンサーメニューを公開します。
+
+.container.container--sponsor
+  .row.center-xs
+    .col-xs-12
+      %h2.title SPECIAL SPONSORS
+  - data.sponsor.each do |sponsor|
     .row
       .col-xs-12
         .sponsor
@@ -14,10 +23,3 @@
               %h3= link_to sponsor[:name], sponsor[:url]
               .description
                 %p= sponsor[:description]
-  .row.center-xs
-    .col-xs-12
-      .comingsoon
-        %p We'll open sponsorship in early January.
-        %p Please note that we don't have a after party for the event, instead we have some drinkups held by sponsors.
-        %p 19年1月上旬にスポンサーメニューを公開予定。
-        %p なお、今回はイベント全体での懇親会の開催を行わず、スポンサー主催のドリンクアップを、いくつかの会場にて実施する予定です。
