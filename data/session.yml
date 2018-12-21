@@ -6,6 +6,14 @@
   ama_id: null
   presentation_url: null
 
+aeroastro:
+  title: TBA
+  belongs: 株式会社ディー・エヌ・エー
+  name: 越智 琢正
+  description: null
+  ama_id: null
+  presentation_url: null
+
 banyan:
   title: TBA
   belongs: Quipper LTD
@@ -434,14 +442,6 @@ yui-knk:
   title: TBA
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
-  description: null
-  ama_id: null
-  presentation_url: null
-
-undefined2:
-  title: TBA
-  belongs: 株式会社ディー・エヌ・エー
-  name: 未定
   description: null
   ama_id: null
   presentation_url: null

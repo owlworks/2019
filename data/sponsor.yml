@@ -35,6 +35,13 @@
   description: |
     コーヒーの香りに包まれながらRailsと開発者をおもてなす、そんな温かみのある風景を今回はSpeeeがお届けします。
 
+- id: link_and_motivation
+  label: "DAY 2: Track A 進行/ランチ提供"
+  name: 株式会社リンクアンドモチベーション
+  url: https://www.motivation-cloud.com/
+  description: |
+    リンクアンドモチベーションは、テクノロジー企業化に向けて第二創業期を迎えており、開発体制の強化に向けて採用を加速化しています
+
 - id: finc
   label: "DAY 2: Track B 進行/ランチ提供"
   name: 株式会社FiNC Technologies
