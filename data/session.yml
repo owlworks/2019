@@ -14,6 +14,14 @@ aeroastro:
   ama_id: null
   presentation_url: null
 
+amatsuda:
+  title: TBA
+  belongs: Ruby/Rails コミッター
+  name: 松田 明
+  description: null
+  ama_id: null
+  presentation_url: null
+
 banyan:
   title: TBA
   belongs: Quipper LTD
@@ -442,6 +450,14 @@ yui-knk:
   title: TBA
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
+  description: null
+  ama_id: null
+  presentation_url: null
+
+undefined:
+  title: TBA
+  belongs: null
+  name: 未定
   description: null
   ama_id: null
   presentation_url: null

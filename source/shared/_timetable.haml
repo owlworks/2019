@@ -147,12 +147,24 @@
           %p 17:20
       .col-xs-12.col-md-11
         .row
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "amatsuda", label: "A-11" }
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "undefined", label: "B-11" }
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "undefined", label: "C-11" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 18:00
+      .col-xs-12.col-md-11
+        .row
           .col-xs-12.col-md-12
             = partial "shared/pr", locals: { id: "undefined1" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 17:25
+          %p 18:05
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -160,7 +172,15 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 17:35
+          %p 18:10
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined2" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 18:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -168,7 +188,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:05
+          %p 18:50
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -205,11 +225,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "moro", label: "A-11" }
+            = partial "shared/session", locals: { github_id: "moro", label: "A-12" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "taiki-t", label: "B-11" }
+            = partial "shared/session", locals: { github_id: "taiki-t", label: "B-12" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "masa-iwasaki", label: "C-11" }
+            = partial "shared/session", locals: { github_id: "masa-iwasaki", label: "C-12" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -217,11 +237,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "willnet", label: "A-12" }
+            = partial "shared/session", locals: { github_id: "willnet", label: "A-13" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "ffu_", label: "B-12" }
+            = partial "shared/session", locals: { github_id: "ffu_", label: "B-13" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "kokuyouwind", label: "C-12" }
+            = partial "shared/session", locals: { github_id: "kokuyouwind", label: "C-13" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -229,11 +249,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "koichiroo", label: "A-13" }
+            = partial "shared/session", locals: { github_id: "koichiroo", label: "A-14" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "y-yagi", label: "B-13" }
+            = partial "shared/session", locals: { github_id: "y-yagi", label: "B-14" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "idesaku", label: "C-13" }
+            = partial "shared/session", locals: { github_id: "idesaku", label: "C-14" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -241,11 +261,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "koic", label: "A-14" }
+            = partial "shared/session", locals: { github_id: "koic", label: "A-15" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "radioboo", label: "B-14" }
+            = partial "shared/session", locals: { github_id: "radioboo", label: "B-15" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "risacan", label: "C-14" }
+            = partial "shared/session", locals: { github_id: "risacan", label: "C-15" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -253,11 +273,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/lunch_session", locals: { id: "undefined4", label: "A-15" }
+            = partial "shared/lunch_session", locals: { id: "undefined4", label: "A-16" }
           .col-xs-12.col-md-4
-            = partial "shared/lunch_session", locals: { id: "undefined5", label: "B-15" }
+            = partial "shared/lunch_session", locals: { id: "undefined5", label: "B-16" }
           .col-xs-12.col-md-4
-            = partial "shared/lunch_session", locals: { id: "undefined6", label: "C-15" }
+            = partial "shared/lunch_session", locals: { id: "undefined6", label: "C-16" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -265,11 +285,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "joker1007", label: "A-16" }
+            = partial "shared/session", locals: { github_id: "joker1007", label: "A-17" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "f440", label: "B-16" }
+            = partial "shared/session", locals: { github_id: "f440", label: "B-17" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "yoshuki", label: "C-16" }
+            = partial "shared/session", locals: { github_id: "yoshuki", label: "C-17" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -277,11 +297,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "unak", label: "A-17" }
+            = partial "shared/session", locals: { github_id: "unak", label: "A-18" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "ryopeko", label: "B-17" }
+            = partial "shared/session", locals: { github_id: "ryopeko", label: "B-18" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "komagata", label: "C-17" }
+            = partial "shared/session", locals: { github_id: "komagata", label: "C-18" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -289,11 +309,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "banyan", label: "A-18" }
+            = partial "shared/session", locals: { github_id: "banyan", label: "A-19" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "sinamon129", label: "B-18" }
+            = partial "shared/session", locals: { github_id: "sinamon129", label: "B-19" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "yasaichi", label: "C-18" }
+            = partial "shared/session", locals: { github_id: "yasaichi", label: "C-19" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -301,11 +321,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "knu", label: "A-19" }
+            = partial "shared/session", locals: { github_id: "knu", label: "A-20" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "mtsmfm", label: "B-19" }
+            = partial "shared/session", locals: { github_id: "mtsmfm", label: "B-20" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "pipopotamasu", label: "C-19" }
+            = partial "shared/session", locals: { github_id: "pipopotamasu", label: "C-20" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -313,11 +333,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "hokaccha", label: "A-20" }
+            = partial "shared/session", locals: { github_id: "hokaccha", label: "A-21" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "hanachin", label: "B-20" }
+            = partial "shared/session", locals: { github_id: "hanachin", label: "B-21" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "ursm", label: "C-20" }
+            = partial "shared/session", locals: { github_id: "ursm", label: "C-21" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -325,11 +345,11 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "k0kubun", label: "A-21" }
+            = partial "shared/session", locals: { github_id: "k0kubun", label: "A-22" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "284km", label: "B-21" }
+            = partial "shared/session", locals: { github_id: "284km", label: "B-22" }
           .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "sinsoku", label: "C-21" }
+            = partial "shared/session", locals: { github_id: "sinsoku", label: "C-22" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -349,7 +369,15 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:15
+          %p 18:10
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined4" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 18:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -357,7 +385,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:45
+          %p 18:50
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
