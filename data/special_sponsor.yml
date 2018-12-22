@@ -46,3 +46,10 @@
   url: https://smarthr.co.jp/
   description: |
     SmartHR は全て Ruby on Rails 製で AWS + Heroku 上で動作しています。新プロダクトも開発中！
+
+- id: esa
+  label: "デザイン協力"
+  name: esa
+  url: https://esa.io/
+  description: |
+    esa は「情報を育てる」という視点で作られた、 自律的なチームづくりを支援するドキュメント共有サービスです。
