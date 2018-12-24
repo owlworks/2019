@@ -27,6 +27,38 @@
           %p 10:30
       .col-xs-12.col-md-11
         .row
+          .col-xs-12.col-md-12
+            = partial "shared/special_session"
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 10:35
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined2" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 10:40
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined2" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 10:45
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined2" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 11:00
+      .col-xs-12.col-md-11
+        .row
           .col-xs-12.col-md-4
             = partial "shared/session", locals: { github_id: "onk", label: "A-1" }
           .col-xs-12.col-md-4
@@ -36,7 +68,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 11:10
+          %p 11:40
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -48,7 +80,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 11:50
+          %p 12:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -60,19 +92,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 12:30
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "rust", label: "A-4" }
-          .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "yancya", label: "B-4" }
-          .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "m-nakamura145", label: "C-4" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 13:10
+          %p 13:00
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -88,6 +108,18 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "rust", label: "A-4" }
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "yancya", label: "B-4" }
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "m-nakamura145", label: "C-4" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 14:40
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-4
             = partial "shared/session", locals: { github_id: "mrkn", label: "A-6" }
           .col-xs-12.col-md-4
             = partial "shared/session", locals: { github_id: "TakatoshiMaeda", label: "B-6" }
@@ -96,7 +128,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 14:40
+          %p 15:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -108,7 +140,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 15:20
+          %p 16:00
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -120,7 +152,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 16:00
+          %p 16:40
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -132,7 +164,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 16:40
+          %p 17:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -144,7 +176,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 17:20
+          %p 18:00
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -156,7 +188,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:00
+          %p 18:40
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -164,27 +196,11 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:05
+          %p 18:45
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
             = partial "shared/pr", locals: { id: "undefined2" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 18:10
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-12
-            = partial "shared/pr", locals: { id: "undefined2" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 18:20
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-12
-            = partial "shared/keynote_session", locals: { github_id: "takahashim" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -192,8 +208,51 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined2" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 18:55
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/keynote_session", locals: { github_id: "takahashim" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 19:25
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
             .timetable__section.timetable__section--session
               %p 閉会
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 19:45
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            .timetable__section.timetable__section--session
+              %p 懇親会
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 21:30
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            .timetable__section.timetable__section--session
+              %p 片付け
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 22:00
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            .timetable__section.timetable__section--session
+              %p 撤収
 
 .container.container--timetable
   .row.center-xs
@@ -391,3 +450,30 @@
           .col-xs-12.col-md-12
             .timetable__section.timetable__section--session
               %p 閉会
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 19:10
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            .timetable__section.timetable__section--session
+              %p 懇親会
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 21:30
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            .timetable__section.timetable__section--session
+              %p 片付け
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 22:00
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            .timetable__section.timetable__section--session
+              %p 撤収

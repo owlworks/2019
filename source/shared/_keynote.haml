@@ -3,10 +3,10 @@
     .col-xs-12
       %h2.title KEYNOTE
   .row.center-sm
-    .col-xs-12.col-sm-7
+    .col-xs-12.col-sm-9
       .row.center-xs
         - data.keynote.each do |record|
-          .col-xs-6
+          .col-xs-4
             = image_tag "keynote/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--keynote"
             .userinfo
               %p.username
@@ -19,5 +19,5 @@
                   %li
                     = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank" do
                       %i.fab.fa-twitter
-        .col-xs-6
+        .col-xs-4
           = image_tag "keynote/undernegotiation.png", alt: "UNDER NEGOTIATION", class: "thumbnail--keynote"
