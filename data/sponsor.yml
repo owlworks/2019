@@ -29,7 +29,7 @@
     「伝えることを、もっと簡単に。」するため、マニュアル作成・共有プラットフォーム『Teachme Biz』を運営するスタートアップ
 
 - id: speee
-  label: "DAY 1: ドリンク提供"
+  label: "DAY 1: コーヒー・水 提供"
   name: 株式会社Speee
   url: https://speee.jp/
   description: |
@@ -56,8 +56,22 @@
   description: |
     SmartHR は全て Ruby on Rails 製で AWS + Heroku 上で動作しています。新プロダクトも開発中！
 
+- id: medpeer
+  label: "DAY 2: コーヒー・水 提供"
+  name: メドピア株式会社
+  url: https://medpeer.co.jp/
+  description: |
+    メドピアは現役医師が経営するヘルステックカンパニーです。Ruby on Railsで新規プロダクトを積極的に展開しています。
+
+- id: lovegraph
+  label: "カンファレンス撮影協力"
+  name: ヒストリ by Lovegraph
+  url: https://lovegraph.me/articles/5993
+  description: |
+    会社とそこで働く人たちの姿を写真に残す、法人向けの出張撮影サービスです。
+
 - id: esa
-  label: "デザイン協力"
+  label: "名札・イベントプログラム制作"
   name: esa
   url: https://esa.io/
   description: |
