@@ -32,7 +32,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 10:35
+          %p 11:05
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -40,7 +40,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 10:40
+          %p 11:10
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -48,7 +48,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 10:45
+          %p 11:15
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -56,7 +56,15 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 11:00
+          %p 11:20
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-12
+            = partial "shared/pr", locals: { id: "undefined2" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 11:40
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -68,7 +76,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 11:40
+          %p 12:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -77,18 +85,6 @@
             = partial "shared/session", locals: { github_id: "yahonda", label: "B-2" }
           .col-xs-12.col-md-4
             = partial "shared/session", locals: { github_id: "tawachan", label: "C-2" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 12:20
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "hsbt", label: "A-3" }
-          .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "upinetree", label: "B-3" }
-          .col-xs-12.col-md-4
-            = partial "shared/session", locals: { github_id: "itkrt2y", label: "C-3" }
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
@@ -108,6 +104,18 @@
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "hsbt", label: "A-3" }
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "upinetree", label: "B-3" }
+          .col-xs-12.col-md-4
+            = partial "shared/session", locals: { github_id: "itkrt2y", label: "C-3" }
+    .row
+      .col-xs-12.col-md-1
+        .timetable__section.timetable__section--time
+          %p 14:40
+      .col-xs-12.col-md-11
+        .row
+          .col-xs-12.col-md-4
             = partial "shared/session", locals: { github_id: "rust", label: "A-4" }
           .col-xs-12.col-md-4
             = partial "shared/session", locals: { github_id: "yancya", label: "B-4" }
@@ -116,7 +124,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 14:40
+          %p 15:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -128,7 +136,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 15:20
+          %p 16:00
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -140,7 +148,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 16:00
+          %p 16:40
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -152,7 +160,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 16:40
+          %p 17:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -164,7 +172,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 17:20
+          %p 18:00
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -176,7 +184,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:00
+          %p 18:40
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-4
@@ -188,31 +196,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 18:40
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-12
-            = partial "shared/pr", locals: { id: "undefined1" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 18:45
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-12
-            = partial "shared/pr", locals: { id: "undefined2" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 18:50
-      .col-xs-12.col-md-11
-        .row
-          .col-xs-12.col-md-12
-            = partial "shared/pr", locals: { id: "undefined2" }
-    .row
-      .col-xs-12.col-md-1
-        .timetable__section.timetable__section--time
-          %p 18:55
+          %p 19:20
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -220,7 +204,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 19:25
+          %p 19:50
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
@@ -229,7 +213,7 @@
     .row
       .col-xs-12.col-md-1
         .timetable__section.timetable__section--time
-          %p 19:45
+          %p 20:00
       .col-xs-12.col-md-11
         .row
           .col-xs-12.col-md-12
