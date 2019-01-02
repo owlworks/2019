@@ -30,6 +30,14 @@ banyan:
   ama_id: null
   presentation_url: null
 
+emorima:
+  title: TBA
+  belongs: 株式会社ケーシーエスキャロット
+  name: 江森 真由美
+  description: null
+  ama_id: null
+  presentation_url: null
+
 f440:
   title: TBA
   belongs: 株式会社SmartHR
@@ -458,14 +466,6 @@ yui-knk:
   title: TBA
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
-  description: null
-  ama_id: null
-  presentation_url: null
-
-undefined:
-  title: TBA
-  belongs: null
-  name: 未定
   description: null
   ama_id: null
   presentation_url: null
