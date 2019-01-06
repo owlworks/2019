@@ -7,9 +7,10 @@ takahashim:
   presentation_url: null
 
 jeremy:
-  title: TBA
-  belongs: null
-  name: 未定
-  description: null
+  title: Rails 6, Progress and Maturity
+  belongs: Basecamp
+  name: Jeremy Daer
+  description: |
+    Let's preview what's new in the Rails 6 beta! We'll examine how Rails 6 makes its biggest steps forward by extracting strong patterns from mature apps and breathing new life into them: Action Text and Action Mailbox frameworks, multi-database support, parallel testing, and more.
   ama_id: null
   presentation_url: null
