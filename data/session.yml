@@ -246,6 +246,14 @@ ota42y:
   ama_id: null
   presentation_url: null
 
+owlworks:
+  title: TBA
+  belongs: M3, Inc.
+  name: 山井 康輔
+  description: null
+  ama_id: null
+  presentation_url: null
+
 pipopotamasu:
   title: TBA
   belongs: メドピア株式会社
@@ -466,14 +474,6 @@ yui-knk:
   title: TBA
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
-  description: null
-  ama_id: null
-  presentation_url: null
-
-undefined3:
-  title: TBA
-  belongs: M3, Inc.
-  name: 未定
   description: null
   ama_id: null
   presentation_url: null
