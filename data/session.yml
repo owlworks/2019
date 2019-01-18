@@ -111,10 +111,11 @@ joker1007:
   presentation_url: null
 
 k0kubun:
-  title: TBA
+  title: JIT on Rails
   belongs: トレジャーデータ株式会社
   name: 国分 崇志
-  description: null
+  description: |
+    Ruby 2.6ではJITでRailsを速くすることができなかったため、Ruby 2.7のJITではRailsのようなユースケースを高速化することをゴールに置いています。本発表では、それが現時点でどれくらい上手くいきそうか、といった話をしようと思います。
   ama_id: null
   presentation_url: null
 
@@ -159,10 +160,11 @@ kokuyouwind:
   presentation_url: null
 
 komagata:
-  title: TBA
+  title: プログラミングスクールを作ってみた
   belongs: 合同会社フィヨルド
   name: 駒形 真幸
-  description: null
+  description: |
+    フィヨルドブートキャンプというプログラミングスクールをはじめて1年経っての難しさや今後の取り組みについてお話します。
   ama_id: null
   presentation_url: null
 
@@ -255,10 +257,11 @@ owlworks:
   presentation_url: null
 
 pipopotamasu:
-  title: TBA
+  title: Railsフロントエンドボイラープレート「medpacker」の紹介
   belongs: メドピア株式会社
   name: 村上 大和
-  description: null
+  description: |
+    メドピア社内で使っているRails用フロントエンドボイラープレート「medpacker」を紹介します。medpackerはassets pipelineやwebpackerに依存しないRailsのフロントエンドを提供します。本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
   ama_id: null
   presentation_url: null
 
