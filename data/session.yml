@@ -94,6 +94,14 @@ idesaku:
   ama_id: null
   presentation_url: null
 
+ikedaosushi:
+  title: TBA
+  belongs: 株式会社 Kaizen Platform
+  name: 池田 雄太郎
+  description: null
+  ama_id: null
+  presentation_url: null
+
 itkrt2y:
   title: TBA
   belongs: タケユー・ウェブ株式会社
@@ -301,14 +309,6 @@ rust:
   title: TBA
   belongs: 株式会社タレンティオ
   name: 小川 伸一郎
-  description: null
-  ama_id: null
-  presentation_url: null
-
-ryopeko:
-  title: TBA
-  belongs: 株式会社 Kaizen Platform
-  name: 関口 亮一
   description: null
   ama_id: null
   presentation_url: null
