@@ -79,10 +79,15 @@ hokaccha:
   presentation_url: null
 
 hsbt:
-  title: TBA
+  title: What's new in RubyGems 3.0
   belongs: GMOペパボ株式会社
   name: 柴田 博志
-  description: null
+  description: |
+    I released RubyGems 3.0 in last year. RubyGems 3 is bundled with Ruby 2.6 that is the latest stable version of the Ruby language. You can use it easily today.
+
+    The new version of RubyGems has many of improvements, bug fixes and some incompatibilities. I put them into the changelog that is https://blog.rubygems.org/2018/12/19/3.0.0-released.html. But its changelog was generated from github pull-request. So it's not human-readable article.
+
+    I will describe the details of RubyGems 3.0 changes and the future plan of RubyGems 4.0.
   ama_id: null
   presentation_url: null
 
