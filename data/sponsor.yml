@@ -7,6 +7,20 @@
     <br>
     最大3500時間の無料トライアルは<a href="https://cloud.oracle.com/ja_JP/tryit?source=:ex:sn:::RC_JPMK181105P00022:Railsdm2019&SC=:ex:sn:::RC_JPMK181105P00022:Railsdm2019&pcode=JPMK181105P00022">こちら</a>
 
+- id: repro
+  label: "DAY 1: 懇親会 寿司提供"
+  name: Repro Inc.
+  url: https://repro.io/
+  description: |
+    数千万DAUを取り扱うマーケティングツール。大規模データ処理からAIを使った機能開発をしたいエンジニア絶賛募集中。
+
+- id: storesjp
+  label: "DAY 2: 懇親会 寿司提供"
+  name: STORES.jp
+  url: https://stores.jp/
+  description: |
+    私たちは、最短2分で驚くほど簡単にオンラインストアがつくれるサービス「STORES.jp」を開発・運営しています。
+
 - id: quipper
   label: "DAY 1: Track A 進行/ランチ提供"
   name: Quipper Limited
@@ -71,8 +85,36 @@
     会社とそこで働く人たちの姿を写真に残す、法人向けの出張撮影サービスです。
 
 - id: esa
-  label: "名札"
+  label: "名札制作/名札提供"
   name: esa
   url: https://esa.io/
   description: |
     esa は「情報を育てる」という視点で作られた、 自律的なチームづくりを支援するドキュメント共有サービスです。
+
+- id: rakuten
+  label: "DAY 2: 懇親会 ケータリング提供"
+  name: フリマアプリ ラクマ
+  url: https://fril.jp/
+  description: |
+    心理的安全性の高いチームでユーザーファーストな開発してみませんか？ラクマで最高のチームを作ってみたいマネージャーも積極採用中！
+
+- id: freee
+  label: "DAY 2: 懇親会 ケータリング提供"
+  name: freee株式会社
+  url: https://www.freee.co.jp/
+  description: |
+    freee株式会社は2012年7月創業。「クラウド会計ソフト freee」（シェアNo.1）を提供しています。
+
+- id: yasslab
+  label: "DAY 2: 懇親会 ビール提供"
+  name: YassLab 株式会社
+  url: https://yasslab.jp/
+  description: |
+    RailsチュートリアルやRailsガイドを運営している、沖縄と東京を拠点とした完全リモートワーク制のソフトウェア開発会社です。
+
+- id: esm
+  label: "懇親会 日本酒提供"
+  name: 株式会社永和システムマネジメント
+  url: https://agile.esm.co.jp
+  description: |
+    Rubyとアジャイルの組み合わせが実現するシステム開発は「楽しさ」とビジネス価値がある――私たちはそう信じて行動を続けています。
