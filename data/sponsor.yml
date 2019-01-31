@@ -49,6 +49,27 @@
   description: |
     コーヒーの香りに包まれながらRailsと開発者をおもてなす、そんな温かみのある風景を今回はSpeeeがお届けします。
 
+- id: sonicgarden
+  label: "DAY 1: 懇親会 ケータリング提供"
+  name: 株式会社ソニックガーデン
+  url: https://www.sonicgarden.jp/
+  description: |
+    お客様を顧問プログラマとしてサポートする「納品のない受託開発」を完全リモートチームで実現しています。ぜひ、サイトをご覧ください。
+
+- id: tokubai
+  label: "DAY 1: 懇親会 スイーツ提供"
+  name: 株式会社トクバイ
+  url: https://corp.tokubai.co.jp/
+  description: |
+    毎日の「買い物を、かしこく、たのしく」するためのB2B2Cサービスを提供しています。共に開発してくれる仲間を募集しています:-)
+
+- id: esm
+  label: "DAY 1: 懇親会 日本酒提供"
+  name: 株式会社永和システムマネジメント
+  url: https://agile.esm.co.jp
+  description: |
+    Rubyとアジャイルの組み合わせが実現するシステム開発は「楽しさ」とビジネス価値がある――私たちはそう信じて行動を続けています。
+
 - id: link_and_motivation
   label: "DAY 2: Track A 進行/ランチ提供"
   name: 株式会社リンクアンドモチベーション
@@ -77,27 +98,6 @@
   description: |
     メドピアは現役医師が経営するヘルステックカンパニーです。Ruby on Railsで新規プロダクトを積極的に展開しています。
 
-- id: lovegraph
-  label: "カンファレンス撮影協力"
-  name: ヒストリ by Lovegraph
-  url: https://lovegraph.me/articles/5993
-  description: |
-    会社とそこで働く人たちの姿を写真に残す、法人向けの出張撮影サービスです。
-
-- id: esa
-  label: "名札制作/名札提供"
-  name: esa
-  url: https://esa.io/
-  description: |
-    esa は「情報を育てる」という視点で作られた、 自律的なチームづくりを支援するドキュメント共有サービスです。
-
-- id: sonicgarden
-  label: "DAY 1: 懇親会 ケータリング提供"
-  name: 株式会社ソニックガーデン
-  url: https://www.sonicgarden.jp/
-  description: |
-    お客様を顧問プログラマとしてサポートする「納品のない受託開発」を完全リモートチームで実現しています。ぜひ、サイトをご覧ください。
-
 - id: rakuten
   label: "DAY 2: 懇親会 ケータリング提供"
   name: フリマアプリ ラクマ
@@ -119,16 +119,23 @@
   description: |
     RailsチュートリアルやRailsガイドを運営している、沖縄と東京を拠点とした完全リモートワーク制のソフトウェア開発会社です。
 
-- id: esm
-  label: "DAY 1, 2: 懇親会 日本酒提供"
-  name: 株式会社永和システムマネジメント
-  url: https://agile.esm.co.jp
-  description: |
-    Rubyとアジャイルの組み合わせが実現するシステム開発は「楽しさ」とビジネス価値がある――私たちはそう信じて行動を続けています。
-
 - id: clipla
-  label: "DAY 1, 2: 懇親会 ワイン提供"
+  label: "DAY 2: 懇親会 ワイン提供"
   name: クリニカル・プラットフォーム株式会社
   url: https://clinical-platform.com/
   description: |
     クラウド型電子カルテ「CLIPLA（クリプラ）」を提供しています。最大週4日リモートワークで柔軟な勤務スタイルを実践中！
+
+- id: lovegraph
+  label: "カンファレンス撮影協力"
+  name: ヒストリ by Lovegraph
+  url: https://lovegraph.me/articles/5993
+  description: |
+    会社とそこで働く人たちの姿を写真に残す、法人向けの出張撮影サービスです。
+
+- id: esa
+  label: "名札制作/名札提供"
+  name: esa
+  url: https://esa.io/
+  description: |
+    esa は「情報を育てる」という視点で作られた、 自律的なチームづくりを支援するドキュメント共有サービスです。
