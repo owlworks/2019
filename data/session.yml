@@ -452,10 +452,11 @@ yancya:
   presentation_url: null
 
 yasaichi:
-  title: TBA
+  title: Ruby on Railsの正体と向き合い方
   belongs: ピクスタ株式会社
   name: 後藤 優一
-  description: null
+  description: |
+    過去のRails Developers Meetupでは、”Rails Way”の内側あるいは外側でどのようにコードを整理するかについての話がいくつかありましたが、そもそもなぜこのような工夫が必要になるのかについて述べたものはありませんでした。本発表は、DHH氏の過去のインタビューや著作での発言を取り上げながら、この問に対して答えようとするものです。まず最初に、彼が解決したかった問題と、そのために取ったアプローチを明らかにします。次に、このアプローチが機能しなくなるような状況を示します。最後に、その対処方法について私の考えを話します。
   ama_id: null
   presentation_url: null
 

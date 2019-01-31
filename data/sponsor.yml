@@ -91,6 +91,13 @@
   description: |
     esa は「情報を育てる」という視点で作られた、 自律的なチームづくりを支援するドキュメント共有サービスです。
 
+- id: sonicgarden
+  label: "DAY 1: 懇親会 ケータリング提供"
+  name: 株式会社ソニックガーデン
+  url: https://www.sonicgarden.jp/
+  description: |
+    お客様を顧問プログラマとしてサポートする「納品のない受託開発」を完全リモートチームで実現しています。ぜひ、サイトをご覧ください。
+
 - id: rakuten
   label: "DAY 2: 懇親会 ケータリング提供"
   name: フリマアプリ ラクマ
@@ -113,8 +120,15 @@
     RailsチュートリアルやRailsガイドを運営している、沖縄と東京を拠点とした完全リモートワーク制のソフトウェア開発会社です。
 
 - id: esm
-  label: "懇親会 日本酒提供"
+  label: "DAY 1, 2: 懇親会 日本酒提供"
   name: 株式会社永和システムマネジメント
   url: https://agile.esm.co.jp
   description: |
     Rubyとアジャイルの組み合わせが実現するシステム開発は「楽しさ」とビジネス価値がある――私たちはそう信じて行動を続けています。
+
+- id: clipla
+  label: "DAY 1, 2: 懇親会 ワイン提供"
+  name: クリニカル・プラットフォーム株式会社
+  url: https://clinical-platform.com/
+  description: |
+    クラウド型電子カルテ「CLIPLA（クリプラ）」を提供しています。最大週4日リモートワークで柔軟な勤務スタイルを実践中！
