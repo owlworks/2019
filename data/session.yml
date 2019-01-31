@@ -149,10 +149,11 @@ knu:
   presentation_url: null
 
 koic:
-  title: TBA
+  title: Ruby コミュニティの歩き方
   belongs: 株式会社永和システムマネジメント
   name: 伊藤 浩一
-  description: null
+  description: |
+    みんな大好き Ruby のコミュニティと、それに関係する (もしくはあまり関係しない) あれこれについて、ものすごくいい話。
   ama_id: null
   presentation_url: null
 
@@ -375,10 +376,13 @@ taogawa:
   presentation_url: null
 
 tawachan:
-  title: TBA
+  title: 少人数でサービスをすばやく開発するためのRails活用事例
   belongs: ピクシブ株式会社
   name: 大多和 祐介
-  description: null
+  description: |
+    当セッションでは、弊社サービス「pixiv chatstory」が少人数ですばやく、しかしバグは少なく開発していくために採用していているアーキテクチャについてお話します。Ruby/RailsはAPIサーバーとしてHeroku上で使用しているので、このあたりの話を中心にしたいと思います。
+
+    キーワード: Rails, Heroku, Swagger, CloudFront, ImageFlux, Firebase, PWA, Angular, Ionic, ReactNative, Expo.io
   ama_id: null
   presentation_url: null
 
@@ -431,10 +435,11 @@ y-yagi:
   presentation_url: null
 
 yahonda:
-  title: TBA
+  title: Active Record Oracle enhanced adapterのこれまでとこれから
   belongs: freee株式会社
   name: 本多 康夫
-  description: null
+  description: |
+    Active Record Oracle enhanced adapterのメンテナーとして、Rails 3.2から最新の5.2までの開発の歴史を振り返り、Rails 6にむけた展望をお話しします。
   ama_id: null
   presentation_url: null
 
