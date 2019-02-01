@@ -56,12 +56,26 @@
   description: |
     お客様を顧問プログラマとしてサポートする「納品のない受託開発」を完全リモートチームで実現しています。ぜひ、サイトをご覧ください。
 
+- id: opt
+  label: "DAY 1: 懇親会 ケータリング提供"
+  name: 株式会社オプト
+  url: https://opt-technologies.jp/
+  description: |
+    オプトではエンジニアドリブンな組織のもと、アドテクノロジーを中心としたプロダクトの開発を行っています。エンジニア絶賛募集中！
+
 - id: tokubai
   label: "DAY 1: 懇親会 スイーツ提供"
   name: 株式会社トクバイ
   url: https://corp.tokubai.co.jp/
   description: |
     毎日の「買い物を、かしこく、たのしく」するためのB2B2Cサービスを提供しています。共に開発してくれる仲間を募集しています:-)
+
+- id: sansan
+  label: "DAY 1: 懇親会 ビール提供"
+  name: Sansan株式会社
+  url: https://jp.corp-sansan.com/
+  description: |
+    「出会いからイノベーションを生み出す」をミッションに、名刺でつながるビジネスSNS「Eight」をRuby on Railsで開発しています。
 
 - id: esm
   label: "DAY 1: 懇親会 日本酒提供"
@@ -111,6 +125,13 @@
   url: https://www.freee.co.jp/
   description: |
     freee株式会社は2012年7月創業。「クラウド会計ソフト freee」（シェアNo.1）を提供しています。
+
+- id: legalforce
+  label: "DAY 2: 懇親会 ケータリング提供"
+  name: 株式会社LegalForce
+  url: https://legalforce.co.jp
+  description: |
+    言語処理で契約書を自動でチェックできるサービスを開発しています。RailsやHanamiで法務の世界を変えたいエンジニア募集中！
 
 - id: yasslab
   label: "DAY 2: 懇親会 ビール提供"
