@@ -63,6 +63,13 @@
   description: |
     オプトではエンジニアドリブンな組織のもと、アドテクノロジーを中心としたプロダクトの開発を行っています。エンジニア絶賛募集中！
 
+- id: linkers
+  label: "DAY 1: 懇親会 ケータリング提供"
+  name: リンカーズ株式会社
+  url: https://www.linkers-net.co.jp/
+  description: |
+    「マッチングで世界を変える」ことを目指し、ビジネスマッチングプラットフォーム「Linkers」を展開しています。
+
 - id: tokubai
   label: "DAY 1: 懇親会 スイーツ提供"
   name: 株式会社トクバイ
@@ -132,6 +139,13 @@
   url: https://legalforce.co.jp
   description: |
     言語処理で契約書を自動でチェックできるサービスを開発しています。RailsやHanamiで法務の世界を変えたいエンジニア募集中！
+
+- id: cookpad
+  label: "DAY 2: 懇親会 スイーツ提供"
+  name: クックパッド株式会社
+  url: https://info.cookpad.com/
+  description: |
+    私たちは「毎日の料理を楽しみにする」というミッションのもと、レシピサービス 「クックパッド」や新規事業の開発に取り組んでいます。
 
 - id: yasslab
   label: "DAY 2: 懇親会 ビール提供"

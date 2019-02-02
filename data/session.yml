@@ -55,10 +55,11 @@ ffu_:
   presentation_url: null
 
 gotchane:
-  title: TBA
+  title: jQuery + Sass な SPA Rails アプリを React + CSS in JS にリプレースした話
   belongs: 株式会社ソニックガーデン
   name: 後藤 雅之, 石澤 佳祐
-  description: null
+  description: |
+    Railsアプリケーションの開発において、React/Vue.js 等のモダンなフレームワークが台頭し、これまで主流だった  jQuery、Sass で運用されているサービスをリプレースする事例が増えてきています。その一方で、リプレースを検討しつつも、開発規模が大きすぎたり、リソースの確保ができなかったりという理由で、リプレースが進まないケースも多く存在するかと思います。本セッションでは、そんな既存サービスのリプレースを検討しているエンジニアにとって、SonicGarden の価値観の一つである小口化という考え方を元に、限られたリソースの中でも着々とリプレースを進めていった知見についてお話ししたいと思います。
   ama_id: null
   presentation_url: null
 
@@ -71,10 +72,11 @@ hanachin:
   presentation_url: null
 
 hokaccha:
-  title: TBA
+  title: 巨大なモノリシックRailsアプリケーションのマイクロサービス化戦略
   belongs: クックパッド株式会社
   name: 外村 和仁
-  description: null
+  description: |
+    クックパッドのRailsアプリケーションは世界でも有数な巨大モノリックアプリケーションです。その巨大さゆえに、機能の追加やメンテナンスがまともにできる状態ではありませんでした。その問題を解決するためにコード削減やシステム分割などの様々な施策を積み重ね、ようやく成果が出てきました。そのような施策で得られた知見や今後の展望について紹介します。
   ama_id: null
   presentation_url: null
 
@@ -183,18 +185,22 @@ komagata:
   presentation_url: null
 
 kyuden:
-  title: TBA
-  belongs: 株式会社ミニマル・テクノロジーズ
+  title: Red-Black Tree for Ruby
+  belongs: Wovn Technologies, Inc
   name: 久田 真寛
-  description: null
+  description: |
+    平衡二分探索木の一種であり連想配列の実装としても用いられる赤黒木というツリー構造があります。 例えばJavaではTreeMapという赤黒木をベースとした連想配列が提供されていますが、Rubyではこの種の連想配列は提供されていません。
+
+    このセッションではRubyのC拡張として実装した赤黒木の実装を用いて、その性能や有効なユースケースなどについて話します。
   ama_id: null
   presentation_url: null
 
 m-nakamura145:
-  title: TBA
+  title: オンライン予約徹底解説
   belongs: 株式会社トレタ
   name: 中村 真人
-  description: null
+  description: |
+    皆さんはご飯を食べに行くときにどうやって予約をしていますか? 飲食店のオンライン予約は身近なテーマですが、その複雑さや設計について語られることは少ないです。本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
   ama_id: null
   presentation_url: null
 
@@ -312,10 +318,11 @@ rlho:
   presentation_url: null
 
 rust:
-  title: TBA
+  title: talentio をなんとかしようと頑張ってきた18ヶ月の旅路
   belongs: 株式会社タレンティオ
   name: 小川 伸一郎
-  description: null
+  description: |
+    talentio.com は 2016年のサービスリリースから3年あまりが経ち、アーキテクチャも古く、メンテナンスされていないコードがあるなど、開発や運用の生産性を低下させかねない状況になっていました。そんな状況の中で、悪戦苦闘しながら近代化してきた旅路をお話します。
   ama_id: null
   presentation_url: null
 
@@ -427,10 +434,11 @@ willnet:
   presentation_url: null
 
 y-yagi:
-  title: TBA
+  title: Roda and Rails
   belongs: Railsコミッター
   name: y-yagi
-  description: null
+  description: |
+    「Roda」というweb frameworkについての紹介をします。普段Railsをお使いの皆様への使いどころについてお話出来ればと思います。
   ama_id: null
   presentation_url: null
 
@@ -461,18 +469,19 @@ yasaichi:
   presentation_url: null
 
 yoshuki:
-  title: TBA
+  title: 問わず語りの個人事業主
   belongs: フリーランス
   name: MIKAMI Yoshiyuki
-  description: null
+  description: |
+    TBA
   ama_id: null
   presentation_url: null
 
 yoshiori:
-  title: TBA
+  title: DevOps,Immutable Infrastructure,microservices そして Chaos Engineering へ
   belongs: クックパッド株式会社
   name: 庄司 嘉織
-  description: null
+  description: TBA
   ama_id: null
   presentation_url: null
 
