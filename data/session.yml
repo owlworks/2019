@@ -402,10 +402,11 @@ ujihisa:
   presentation_url: null
 
 unak:
-  title: TBA
+  title: Webアプリケーションの開発運用で当たり前に必要とされる画像変換の中身
   belongs: ピクシブ株式会社
   name: 中村 宇作
-  description: null
+  description: |
+    Webアプリケーションの開発にあたっては、現代においては大量の画像を扱わないといけないことは明らかである。その際には、サイズ変換・フォーマット変換・転送量削減といったあたりは当然に必要となる。単純に見えて実は落とし穴がいっぱいなこうした画像変換の中身について、技術的側面から説明する(※デザインの話はしません)。
   ama_id: null
   presentation_url: null
 
@@ -426,10 +427,13 @@ ursm:
   presentation_url: null
 
 willnet:
-  title: TBA
+  title: Clean Test Code, Revised
   belongs: 株式会社ウィルネット
   name: 前島 真一
-  description: null
+  description: |
+    およそ2年前、第1回目のRails Developers Meetupで「Clean Test Code」というタイトルで登壇しました。当時それなりに反響があったと感じていますが、現実世界で厳しいテストコードを見る機会はまだまだ多く、当時話した「きれいなテストコードを書くためのコツ」は十分に普及されているとは言い難い状況です。
+
+    前回の登壇から2年たち、その間得たフィードバックから前回の「Clean Test Code」をもう少し前に進めることができそうです。この発表で厳しいテストコードが少しでも減り、RailsエンジニアのQOLが少しでも上がることを願っております。
   ama_id: null
   presentation_url: null
 
@@ -486,10 +490,11 @@ yoshiori:
   presentation_url: null
 
 youchan:
-  title: TBA
+  title: OpalでつくるBrowserアプリケーション
   belongs: 株式会社レトリバ
   name: 大崎 瑶
-  description: null
+  description: |
+    OpalはRubyからJavaScriptに変換するコンパイラです。OpalをつかうとRubyでBrowserで動くアプリケーションを作ることができます。私はこれまでOpalでリッチなBrowserアプリケーションを書くためのフレームワークを作ってきました。本トークではこれらのフレームワークを紹介します。
   ama_id: null
   presentation_url: null
 
