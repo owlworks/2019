@@ -287,10 +287,13 @@ pipopotamasu:
   presentation_url: null
 
 r7kamura:
-  title: TBA
+  title: Railsアップグレード百景
   belongs: フリーランス
   name: 中村 涼
-  description: null
+  description: |
+    これまで自分が担当してきた幾つかのRailsアプリのアップデートを振り返り、遭遇してきた問題から特に良かったものをピックアップし、コードを交えながら紹介していきます。
+
+    Railsのバージョンを上げるということについて、より現実的な話をお伝えできればと思います。主にRails 4、5、6を対象としています。
   ama_id: null
   presentation_url: null
 
@@ -336,10 +339,11 @@ siman-man:
   presentation_url: null
 
 sinamon129:
-  title: TBA
+  title: ガチスタートアップ1人目のバックエンドエンジニアのリアルな戦略と奮闘
   belongs: RiLi Inc.
   name: 片山 潮美
-  description: null
+  description: |
+    2018年7月に1人目のバックエンドエンジニアとして入社し、WordPressで動いていた既存システムをRuby・Ruby on Rails・GCP（GKE）でフルリニューアルしました。その際の技術選択の戦略・システム構成と、リニューアル後のメリットデメリット・同僚がjoinして改善された部分をメインに、その後の職域を超えてのスタートアップでのリアルな奮闘もお話できればと思います。
   ama_id: null
   presentation_url: null
 
@@ -420,10 +424,10 @@ upinetree:
   presentation_url: null
 
 ursm:
-  title: TBA
+  title: 私が愛した eBook Store
   belongs: 株式会社えにしテック
-  name: Keita Urashima
-  description: null
+  name: 浦嶌 啓太
+  description: 2018年2月、オーム社の電子書籍ストア「オーム社 eBook Store」が8年に亘る歴史に幕を閉じました。開発者であった立場から eBook Store がどうやって作られていたかをお話しします。
   ama_id: null
   presentation_url: null
 
