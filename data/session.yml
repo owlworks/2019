@@ -269,10 +269,11 @@ ota42y:
   presentation_url: null
 
 owlworks:
-  title: TBA
+  title: AskDoctorsの13年目を支える技術
   belongs: M3, Inc.
   name: 山井 康輔
-  description: null
+  description: |
+    AskDoctorsはエムスリーが提供する医療系Webサービスの一つです。2005年の提供開始からの13年間で何度か大規模改修を経て、現在はその大部分がRuby on Railsへと置き換えられています。本セッションではサービスの開発運用で発生した課題や今後の取り組みについてお話します。
   ama_id: null
   presentation_url: null
 
@@ -482,7 +483,7 @@ yoshuki:
   presentation_url: null
 
 yoshiori:
-  title: DevOps,Immutable Infrastructure,microservices そして Chaos Engineering へ
+  title: DevOps, Immutable Infrastructure, microservices そして Chaos Engineering へ
   belongs: クックパッド株式会社
   name: 庄司 嘉織
   description: TBA
