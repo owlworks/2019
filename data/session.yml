@@ -626,9 +626,10 @@ youchan:
   presentation_url: null
 
 yui-knk:
-  title: TBA
+  title: 作って学ぶRDBMS
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
-  description: null
+  description: |
+    最近PostgreSQLのコードを読みながら小さなDBを少しずつ実装しています。この発表ではステップバイステップでDBを作って行く工程についてお話したいと思います。
   ama_id: null
   presentation_url: null
