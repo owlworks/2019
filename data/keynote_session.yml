@@ -1,8 +1,13 @@
 takahashim:
-  title: TBA
+  title: まだ40代後半のプログラマの話、あるいは50代プログラマについて考える
   belongs: 一般社団法人日本Rubyの会 代表理事
   name: 高橋 征義
-  description: null
+  description: |
+    「プログラマ35歳定年説」などという言葉もあるように、熟練プログラマのキャリアについては以前から困難が語られていました。
+
+    Rails developersである私たちにとっても、それは無縁ではありません。
+
+    本セッションでは、Ruby歴約20年のRubyistから見た、中年を過ぎてもプログラマを続けていくことの壁とその乗り越え方、そもそも乗り越えるべきか否か、というか「乗り越える」とは何なのかについて、Railsプログラマの方をターゲットにしてお話しします。
   ama_id: null
   presentation_url: null
 

@@ -7,10 +7,10 @@
   presentation_url: null
 
 aeroastro:
-  title: TBA
+  title: Rails meets Protocol Buffers - for Schema First Development
   belongs: 株式会社ディー・エヌ・エー
   name: 越智 琢正
-  description: null
+  description: TBA
   ama_id: null
   presentation_url: null
 
@@ -23,10 +23,12 @@ amatsuda:
   presentation_url: null
 
 banyan:
-  title: TBA
+  title: How framework and buildtool handle webpack?
   belongs: Quipper LTD
   name: Kohei Hasegawa
-  description: null
+  description: |
+    Rails has webpacker to use webpack easily.
+    Let's see how framework and buildtool handle webpack.
   ama_id: null
   presentation_url: null
 
@@ -42,10 +44,17 @@ emorima:
   presentation_url: null
 
 f440:
-  title: TBA
+  title: 操作履歴/時点指定アクセスの実現 - BiTemporal Data Model の実践
   belongs: 株式会社SmartHR
   name: f440
-  description: null
+  description: |
+    データはWebアプリケーションの中心であり、最も重要なものです。私の勤めるSmartHRでも、人事情報を軸とするWebサービスを展開する事業者として最大限の注意を払って運用を行っています。
+
+    データは活動によって刻々と変わっていくものですが、通常のWebアプリケーションでは最新の情報しか表現できていません。そのため、いつ・どのような変更を加えたのかを知りたい、あるいはある時点の情報にアクセスしたいといった要望には応えることができませんでした。SmartHRでは入退社や被扶養者の追加など多様なライフイベントに応じてデータの変更が発生するため、その変遷も表現したいというニーズがかねてよりありました。
+
+    この問題を解決するために、私達はBiTemporal Data Modelというデータ構造を導入しています。これにより、時間を指定したアクセスや変更の変遷なども表現できるようになりました。
+
+    本セッションではBiTemporal Data Modelとはなにかといった基本的なことから、実戦投入してみて気づいた点、苦労話などを話します。
   ama_id: null
   presentation_url: null
 
@@ -68,10 +77,17 @@ gotchane:
   presentation_url: null
 
 hanachin:
-  title: TBA
+  title: コードレビューしない
   belongs: YassLab 株式会社
   name: 宮城 正栄
-  description: null
+  description: |
+    コードレビューしてますか?
+    このセッションでは「コードレビューしない」を目的に次のようなことを話したいと思います。
+
+    * 今コードレビューで何をしているのか
+    * どうしてそのコードレビューをしているのか
+    * どうやればコードレビューでそれをしなくてよくなるか
+    * コードレビューしないをする決意
   ama_id: null
   presentation_url: null
 
@@ -126,18 +142,33 @@ ikedaosushi:
   presentation_url: null
 
 itkrt2y:
-  title: TBA
+  title: サーバーサイドエンジニアも知っておくべきフロントエンドの今
   belongs: タケユー・ウェブ株式会社
   name: 板倉 達也
-  description: null
+  description: |
+    「フロントエンドは変化が早くてついていけない」
+
+    そんな意見をよく聞きます。
+
+    また、これからフロントエンドを勉強するとして、今となってはどこから手をつけていいのかわからないサーバーサイドエンジニアも多いのではないでしょうか？
+
+    本セッションでは、フロントエンドがよくわからない人を対象として、フロントエンドのここ数年を振り返りつつ、「今、なぜフロントエンドを学ばなければならないか」「何を理解すれば、これからのフロントエンドを理解できるようになるか」について解説します。
+
+    話すこと：ESNext, Virtual DOM, Performance, PWA, Web Components
+    話さないこと：React/Vue/Angularのどれを使うべき？
   ama_id: null
   presentation_url: null
 
 joker1007:
-  title: TBA
+  title: Architecture Evolution in Repro
   belongs: 株式会社Repro
   name: 橋立 友宏
-  description: null
+  description: |
+    Reproではそれなりに大きなスケールのデータを日々受け取り、それらを用いてマーケティングを行うための柔軟なユーザーセグメンテーション機能を提供しています。
+
+    それらはReproのキーとなる機能であり、提供するのが大変な機能でもあります。
+
+    このトークででは、我々がどうやってRailsベースのアプリケーションでそれを実現したのか、そして我々のサービスの裏側にあるアーキテクチャの変遷について紹介します。(例えば、分散データベースやデータフォーマット、ETLやSQLの生成等について)
   ama_id: null
   presentation_url: null
 
@@ -151,18 +182,20 @@ k0kubun:
   presentation_url: null
 
 katorie:
-  title: TBA
+  title: ユビレジのチーム開発
   belongs: 株式会社ユビレジ
   name: 加藤 理絵
-  description: null
+  description: |
+    株式会社ユビレジでは主に3つのプロダクトを、すべて自社メンバーによるチームで開発・運用しています。2015年入社の私の視点から、ここ3年ほどのチームの変遷とこれからについてお話したいと思います。
   ama_id: null
   presentation_url: null
 
 knu:
-  title: TBA
+  title: Evolution of Enumerator
   belongs: 株式会社マチマチ
   name: 武者 晶紀
-  description: null
+  description: |
+    Rubyでもっとも愛されている機能の一つに、Enumerableモジュールが挙げられると思います。私はEnumerableの便利さを広げるべく、"Enumerator"の導入や拡張に取り組んできました。このセッションでは"Enumerator"導入の経緯とこれまで、そしてこれから追加したいと考えている機能を紹介します。
   ama_id: null
   presentation_url: null
 
@@ -233,10 +266,17 @@ masa-iwasaki:
   presentation_url: null
 
 moro:
-  title: TBA
+  title: 全体がいい感じになるために、私たちRailsをホームにするWeb技術者ができること
   belongs: 株式会社エス・エム・エス
   name: 諸橋 恭介
-  description: null
+  description: |
+    このごろのサービスでは、サーバサイドWeb技術だけで完結することは少なくなってきました。
+    しかし、それはサーバサイドWebが不要になり、Railsのようなフレームワークが使われなくなることを意味しません。
+
+    スモールスタートのためのWebアプリとして、スマホアプリやSPAといったクライアント群へのAPIとして、行動を分析し提案するコンテンツを届けるインターフェースとして、運営スタッフが使う業務アプリとして、などなどRailsを始めとしたWebアプリフレームワークの活躍の機会はたくさんあります。
+    このように、このごろのWebアプリは、いろんな背景や職能を持った人たちの日々の仕事が交わる場となっていると、話者は感じています。
+
+    このセッションでは、いちWeb技術者として、多くの人が住まう場に対して提供したい価値について、できていることとできるようになりたいことを話したいと思います。
   ama_id: null
   presentation_url: null
 
@@ -257,18 +297,24 @@ mrkn:
   presentation_url: null
 
 mtsmfm:
-  title: TBA
+  title: Analyze Rails CI
   belongs: Quipper LTD
   name: 松島 史秋
-  description: null
+  description: |
+    大きなプロジェクトには不安定なテストがつきものです。
+
+    Rais にもいくつか不安定なテストがあります。
+
+    この発表では、テスト結果の分析と不安定なテストの見つけ方について発表します。
   ama_id: null
   presentation_url: null
 
 nay:
-  title: TBA
+  title: 万葉のRails新人研修のコードレビューコメントを分析してみました
   belongs: 株式会社万葉
   name: 大場 寧子
-  description: null
+  description: |
+    (株) 万葉ではここ２年以上、新入社員教育用カリキュラム（https://github.com/everyleaf/el-training）を利用して、新入社員にRailsの研修を受けてもらっています。本トークでは、これまでの実際の研修で出された数々の Pull Request に社員が寄せたたくさんのコメントを、発話の目的やトピックといったいくつかの観点で分類し、傾向を紹介します。そして、初心者がRailsを学ぶ上で重要なポイントや、周囲がサポートするとよい点、レビューのコツなどについて考察します。
   ama_id: null
   presentation_url: null
 
@@ -281,10 +327,21 @@ onk:
   presentation_url: null
 
 ota42y:
-  title: TBA
+  title: 我々はマイクロサービスとどう向き合うべきか
   belongs: 株式会社FiNC Technologies
   name: 太田 佳敬
-  description: null
+  description: |
+    現在、マイクロサービスはそれを取り入れる・取り入れないにかかわらず避けては通れない話題です。
+
+    しかし、マイクロサービスという概念が関わる範囲はフロントエンドからバックエンド、インフラや組織構造とかなり広範囲に渡ります。
+
+    そのため全体像を理解しづらく、自分たちの問題を解決するのに必要な構成を作るのはとても難易度が高いです。
+
+    この発表では過去の経験を元にマイクロサービスに関わる情報を一通り整理し、
+
+    自分の組織に取り入れるか・しないかを判断するのに必要な材料や、どのように入れると良いのか、いまより良い状態にはどう持っていくべきかといった情報を提供します。
+
+    そのため、マイクロサービスを考えている人、やっている人といったマイクロサービスと向き合う必要がある人達に向けた発表になります。
   ama_id: null
   presentation_url: null
 
@@ -328,17 +385,18 @@ radioboo:
 risacan:
   title: SmartHRでの最初の1年
   belongs: 株式会社SmartHR
-  name: りさきゃん
+  name: 渡邊 梨沙
   description: |
     2017年の12月にSmartHRに入社してから1年が経ちました。一緒にはたらく開発グループのメンバーは2倍になり、プロダクトも増えました。サービスの成長とともに開発グループがどのように変化していったか、自分自身にどのような変化があったかをお話します。
   ama_id: null
   presentation_url: null
 
 rlho:
-  title: TBA
+  title: 女性エンジニアとして働くということ
   belongs: 株式会社ZOZOテクノロジーズ
   name: 高木 里穂
-  description: null
+  description: |
+    女性エンジニアにまつわる話はマイナスな話題が目につきやすく触れにくい話題になっていると感じています。エンジニアとして働いて4年。女性エンジニアコミュニティに携わって女性エンジニアの方に多くお会いしました。その中で私自身が感じている、なぜ女性エンジニアが少ないのか、何が問題なのかについてお話しします。エモ100%です。
   ama_id: null
   presentation_url: null
 
@@ -370,26 +428,39 @@ sinamon129:
   presentation_url: null
 
 sinsoku:
-  title: TBA
+  title: 自己修復的なインフラ
   belongs: null
   name: 神速
-  description: null
+  description: |
+    RailsエンジニアだとAWSを触る機会はあっても、詳しくない方が多いかと思います。
+
+    特にAWSコンソールで作業してきた方は、インフラのコード化を行うときに苦労します。
+
+    このトークではAWSのインフラをTerraformで管理し、CIで自動更新するために私が行ってきた事を話します。
+
+    * AWS IAMの基礎知識
+    * インフラの自動更新の設定方法
+    * AWS ロールの設計
+    * Railsアプリケーションのデプロイ
+
+    Railsアプリに関する話はありませんが、その外側の世界を話したいと思います。
   ama_id: null
   presentation_url: null
 
 taiki-t:
-  title: TBA
+  title: 100回死んだエンジニア
   belongs: 株式会社Repro
   name: 髙山 泰基
-  description: null
+  description: |
+    書籍の翻訳、起業と失敗。起業して失敗したエンジニアはどうなるのか。死ぬほど失敗してもなんとかなるという、頑張りたい人の背中を押せる話をしたいです。
   ama_id: null
   presentation_url: null
 
 TakatoshiMaeda:
-  title: TBA
+  title: サービスを成長させるための「仮説検証文化」のつくり方
   belongs: 株式会社トクバイ
   name: 前田 卓俊
-  description: null
+  description: TBA
   ama_id: null
   presentation_url: null
 
@@ -489,7 +560,7 @@ yahonda:
   belongs: freee株式会社
   name: 本多 康夫
   description: |
-    Active Record Oracle enhanced adapterのメンテナーとして、Rails 3.2から最新の5.2までの開発の歴史を振り返り、Rails 6にむけた展望をお話しします。
+    Active Record Oracle enhanced adapterのメンテナーとして、Rails 3.2から最新の5.2までの開発の歴史を振り返り、Rails 6に向けた展望をお話しします。
   ama_id: null
   presentation_url: null
 
@@ -531,10 +602,17 @@ yoshuki:
   presentation_url: null
 
 yoshiori:
-  title: DevOps, Immutable Infrastructure, microservices そして Chaos Engineering へ
+  title: DevOps, Immutable Infrastructure, microservices そして Chaos Engineering
   belongs: クックパッド株式会社
   name: 庄司 嘉織
-  description: TBA
+  description: |
+    ※別にタイトルはバズワードだったものを並べたわけではないです。
+
+    最近は組織作りとか採用関連の登壇依頼ばかりで技術的な事喋りたいうっぷんが溜っていたところに今回の登壇依頼を頂き何を話そうか考えました。
+
+    何を話していも良いと言われたので、 Cookpad で Chaos Engineering 導入を決断するまでに至った歴史と僕の中でどう考えてそうなったかを話そうと思います。
+
+    完全に自分の趣向 120% なのでオタクが興味ある事を早口で嬉々として喋ってるような発表になっちゃうと思います:) それでも良ければ是非聞きにきてください!!
   ama_id: null
   presentation_url: null
 
