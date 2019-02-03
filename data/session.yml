@@ -50,10 +50,11 @@ f440:
   presentation_url: null
 
 ffu_:
-  title: TBA
+  title: 入門 名前
   belongs: 株式会社マチマチ
   name: 藤村 大介
-  description: null
+  description: |
+    プログラミングには必須のツールである名前。毎日使っているわりに、実はその仕組みがよくわからないツールです。また、命名の良し悪しは話題になるわりに、その基準として常識に訴える以上の理論だった説明が与えられることは稀です。現代の哲学をヒントに、改めて名前とその周辺について整理します。
   ama_id: null
   presentation_url: null
 
