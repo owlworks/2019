@@ -5,7 +5,8 @@
   .row.center-xs.center-md
     - data.staff.each do |record|
       .col-xs-3.col-md-1
-        = image_tag "staff/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--staff"
+        = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank" do
+          = image_tag "staff/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--staff"
         .staffinfo
           %p.username= record[:github]
           %ul.links

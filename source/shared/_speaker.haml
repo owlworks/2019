@@ -5,7 +5,8 @@
   .row.center-xs.center-md
     - data.speaker.each do |record|
       .col-xs-4.col-md-2
-        = image_tag "speaker/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--speaker"
+        = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank" do
+          = image_tag "speaker/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--speaker"
         .userinfo
           %p.username
             = record[:github]

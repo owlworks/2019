@@ -18,7 +18,8 @@
         .sponsor
           .row
             .col-xs-3.col-sm-2
-              = image_tag "sponsor/#{sponsor[:id]}.png", alt: sponsor[:name]
+              = link_to sponsor[:url], alt: sponsor[:name] do
+                = image_tag "sponsor/#{sponsor[:id]}.png", alt: sponsor[:name]
             .col-xs-9.col-sm-10
               %p.label= sponsor[:label]
               %h3= link_to sponsor[:name], sponsor[:url]

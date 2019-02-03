@@ -7,7 +7,8 @@
       .row.center-xs
         - data.keynote.each do |record|
           .col-xs-4
-            = image_tag "keynote/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--keynote"
+            = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank" do
+              = image_tag "keynote/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--keynote"
             .userinfo
               %p.username
                 = record[:github]
