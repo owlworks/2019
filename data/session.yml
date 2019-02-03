@@ -289,10 +289,11 @@ Morred:
   presentation_url: null
 
 mrkn:
-  title: TBA
+  title: To make Ruby ready-to-use in the data science field. And the impact that it has on Rails applications.
   belongs: 株式会社Speee
   name: 村田 賢太
-  description: null
+  description: |
+    I will talk about the activity in Japan to make Ruby ready-to-use in the data science field. Moreover, I'd like to introduce the impact that its achievements have on Rails applications.
   ama_id: null
   presentation_url: null
 
