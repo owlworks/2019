@@ -97,18 +97,30 @@ hsbt:
   presentation_url: null
 
 idesaku:
-  title: TBA
+  title: ソフトウェア開発は楽しい……基本的には。やるべきことはたくさんあり、中には面倒でつい目を背けてしまう仕事もあります。後回しにした仕事はじわじわとあなたの首を締め上げていきます。なんとかしないといけない、でもどうにもできない。でも、それをやれる人がいるとしたら?
   belongs: フリーランス
   name: 後藤 大輔
-  description: null
+  description: |
+    私はフリーランスとして多数のプロジェクトに関わってきました。優秀なエンジニア達の手により、どこも多大な成果を上げ続けるのを見てきています。
+
+    しかし、そんな優れた人たちであっても膨れあがるコードベース、遅くなる自動テスト、複雑化するデプロイに押しつぶされていき、集まれば愚痴をこぼすようになる様子もまた幾度も見てきています。問題なのはわかっている。直すこともできるんだ。でも仕方がない、時間が無いから。ビジネスが優先だから。……本当にそれだけ？
+
+    凡庸なエンジニアである私がそれでもフリーランスとして安定して仕事を得られる理由の一つは、そんな「みんなが目を背ける仕事」に喜んで手を出す変わり者である点にあると思えます。
+
+    今回は、そんな変わり者がソフトウェア開発で果たしている役割と、その必要性についてお話します。
   ama_id: null
   presentation_url: null
 
 ikedaosushi:
-  title: TBA
+  title: ログを解析し続けてわかった、会社で眠っているアクセスログを活用する5つのプラクティス
   belongs: 株式会社 Kaizen Platform
   name: 池田 雄太郎
-  description: null
+  description: |
+    突然ですが、あなたの会社のアクセスログは「眠って」いませんか？「会社のデータ解析力を強めたい」という志を持って、ログ収集基盤を構築したものの、いざアクセスログが溜まったときに「さて、これをどう活用すればいいのだろう？」という壁にぶつかったり、とりあえずダッシュボードを作ってみたものの誰にも使われない…。こんな経験がある方は少なくないのでは無いでしょうか？
+
+    Kaizen Platformでは顧客サイトに埋め込まれたタグから取得したアクセスログからデータ解析を行い、数多くのサイトのUI/UXの改善を行ってきました。なぜアクセスログが活用できないのか？組織間のコミュニケーションはどう取ればいいのか？
+
+    この発表では様々なデータ解析経験から得ることができた、実際の現場ためのプラクティスやテクニックを紹介したいと思います。
   ama_id: null
   presentation_url: null
 
@@ -171,10 +183,14 @@ koichiroo:
   presentation_url: null
 
 kokuyouwind:
-  title: TBA
+  title: Misocaにおけるビジュアルテストへの取り組み
   belongs: 株式会社Misoca
   name: 森 俊介
-  description: null
+  description: |
+    RailsアプリケーションのE2Eテストでは一般的にDOMツリーのみを検証するため、デザインの崩れは検知できません。
+    こうした「見た目」の変化を検知するためのテストがビジュアルテストです。
+
+    本セッションでは、capybara screenshotとreg-suitを利用したビジュアルテストの取り組みをご紹介します。
   ama_id: null
   presentation_url: null
 
@@ -309,10 +325,11 @@ radioboo:
   presentation_url: null
 
 risacan:
-  title: TBA
+  title: SmartHRでの最初の1年
   belongs: 株式会社SmartHR
   name: りさきゃん
-  description: null
+  description: |
+    2017年の12月にSmartHRに入社してから1年が経ちました。一緒にはたらく開発グループのメンバーは2倍になり、プロダクトも増えました。サービスの成長とともに開発グループがどのように変化していったか、自分自身にどのような変化があったかをお話します。
   ama_id: null
   presentation_url: null
 
@@ -376,10 +393,15 @@ TakatoshiMaeda:
   presentation_url: null
 
 takkanm:
-  title: TBA
+  title: Rails な受託の会社でぼくがやっていること
   belongs: 株式会社永和システムマネジメント
   name: 三村 益隆
-  description: null
+  description: |
+    Rails を使った受託会社で、わたしが意識してやっていることを紹介します。
+
+    プロジェクトにどのように向かっているか、チームでの開発のとき何を意識しているか、新しくやってきた人に何を伝えているかなどを話します。
+
+    Rails な受託会社の一部をお見せできればと思います。
   ama_id: null
   presentation_url: null
 
