@@ -1,8 +1,24 @@
 284km:
-  title: TBA
+  title: Charty on Rails
   belongs: 株式会社Speee
   name: 秒速
-  description: null
+  description: |
+    I'd like to introduce a simple way to visualize on Rails with Charty.
+
+    I'm developing a visualization library named Charty.
+    And I'm also working on using Charty in combination with Rails.
+
+    I will introduce about the following topics:
+
+    - Basic knowledge on data visualization
+    - Results of development at the present time
+    - What I thought through development and what I learned
+    - Future Plans
+
+    About Charty:
+    Charty is open-source Ruby library for visualizing your data in a simple way.
+    In Charty, you need to write very few lines of code for representing what you want to do.
+    It lets you focus on your analysis of data, instead of plotting.
   ama_id: null
   presentation_url: null
 
