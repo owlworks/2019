@@ -31,10 +31,13 @@ banyan:
   presentation_url: null
 
 emorima:
-  title: TBA
+  title: Rails Girls のこれまでとこれから
   belongs: 株式会社ケーシーエスキャロット
   name: 江森 真由美
-  description: null
+  description: |
+    2012年に国内で初めてのRails Girlsが開催され、今年5月に開催が予定されている Nagano 1stで国内開催 50回目を迎えます。
+
+    これまでの国内のRails Girlsの取り組みと、これからについてお話します。
   ama_id: null
   presentation_url: null
 
@@ -331,10 +334,11 @@ rust:
   presentation_url: null
 
 siman-man:
-  title: TBA
+  title: Ruby のコード解析の「静」と「動」
   belongs: null
   name: 玉寄 修一
-  description: null
+  description: |
+    Ruby には RubyVM::AbstractSyntaxTree、TracePoint といったコードを解析するための機能が備えられており、また、コードを解析するための gem が多く存在しています。これらのコード解析は大きく分けて「静的」「動的」の 2つに分けられます。本セッションではこの 2つの解析手法の違いと、それぞれどのような情報が得られ開発に役立てることが出来るのかについて紹介しようと思います。
   ama_id: null
   presentation_url: null
 
@@ -380,10 +384,15 @@ takkanm:
   presentation_url: null
 
 taogawa:
-  title: TBA
+  title: 7年目を迎えたRailsアプリケーションの傾向と対策
   belongs: 株式会社キッチハイク
   name: 小川 剛
-  description: null
+  description: |
+    弊社キッチハイクでは創業当初からRailsを使ってきて、いまや七年目を迎えました。
+
+    Railsアプリケーションは一定の規模になってくるとRailsのレールから外れるシーンも増えてきます。その一方でレールから外れた際にどうするか、定番のパターンとされるものはありますが、そのノウハウはまだまだ共有はされていない印象です。
+
+    本セッションではキッチハイクがレールから外れた際に試行錯誤してきた設計パターンについて、成功 / 失敗の体験談含めてお話したいと思います。
   ama_id: null
   presentation_url: null
 
@@ -416,10 +425,11 @@ unak:
   presentation_url: null
 
 upinetree:
-  title: TBA
+  title: CSSの技術的負債との向き合い方
   belongs: 株式会社万葉
   name: 松本 拓也
-  description: null
+  description: |
+    チーム内で Ruby や JavaScript をどのように実装していくかは頻繁に議論があっても、CSSについてはそれほど多くないように思います。チームメンバーそれぞれが手探りで実装したCSSに対して、満足なレビューが行えないといったことも見られます。そのようなチームではCSSの技術的負債をためやすく、気づいたときには開発のボトルネックとなっていたこともありました。本発表ではこうした問題が起こってしまう理由を掘り下げ、チーム開発における CSS の取り扱い方法について考察します。そして、すでに技術的負債を抱えている CSS への向き合い方を、実際の事例を交えながらお話します。
   ama_id: null
   presentation_url: null
 
@@ -461,10 +471,19 @@ yahonda:
   presentation_url: null
 
 yancya:
-  title: TBA
+  title: SQLQL は GraphQL にとって、何なのか
   belongs: null
   name: 小栁 真太
-  description: null
+  description: |
+    SQL を拗らせている人にとって、1 リクエストを 1 SQL で処理しきるというのは悲願でもあり、強い業（ごう）でもあります。
+
+    SQLQL というのは、API のエンドポイントに直接 SQL を送信すると、リクエスト毎の認可を反映した SQL に変換され、それの実行結果をレスポンスとして受け取るという概念です。欠点としては実行して欲しくない SQL 構文を無効化するサンドボックスを作るのが大変なことと、みんなが「すべてを一発で返せる SQL」を書きたいわけではない（書くのはちょっとだけ大変なので）ということと、多分それ以外にもたくさんあります。
+
+    一方、GraphQL は、みんなが書けるような簡単さを持っていて使いやすそうです。サーバーサイド実装での悩みがあるとしても、それは GraphQL という言語そのものの問題ではないでしょう。
+
+    では、GraphQL のサーバーサイド実装に SQLQL の考え方を取り入れてみたらどうなるか、という発想になるのは自然ですよね。
+
+    本講演では、もしも SQLQL の延長線上に GraphSQL がいるのだとしたらこういう設計になる、という考えを実験した結果を発表します。
   ama_id: null
   presentation_url: null
 
@@ -482,7 +501,9 @@ yoshuki:
   belongs: フリーランス
   name: MIKAMI Yoshiyuki
   description: |
-    TBA
+    自分が個人事業主として働いてきた10年を、なぜ始まり、なにを考え、どう過ごしてきたか、それぞれのタイミングで悩んだこと、出した結論、その理由などを交え、お話しします。
+
+    すでに周辺の状況が変わっており古くなっているものもありますが、まずは聞き物として、そして一部でも同じような立場の方の参考になれば幸いです。
   ama_id: null
   presentation_url: null
 
