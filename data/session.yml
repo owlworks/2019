@@ -31,10 +31,15 @@ aeroastro:
   presentation_url: null
 
 amatsuda:
-  title: TBA
+  title: Extending Rails for Real World App Development
   belongs: Ruby/Rails コミッター
   name: 松田 明
-  description: null
+  description: |
+    Rails is such a great framework that can build a blog in 15 minutes.
+    Rails has an amazing community-based ecosystem, and so in some cases we may find good plugins that could help us implementing the features that we need.
+    But in some other cases that we couldn't find a plugin that cover our real world requirements, the best solution is to develop our own plugins.
+
+    In this session, we'll explore tips and practices for designing and crafting Rails plugins through our daily application development.
   ama_id: null
   presentation_url: null
 
