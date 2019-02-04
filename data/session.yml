@@ -224,7 +224,9 @@ knu:
   belongs: 株式会社マチマチ
   name: 武者 晶紀
   description: |
-    Rubyでもっとも愛されている機能の一つに、Enumerableモジュールが挙げられると思います。私はEnumerableの便利さを広げるべく、"Enumerator"の導入や拡張に取り組んできました。このセッションでは"Enumerator"導入の経緯とこれまで、そしてこれから追加したいと考えている機能を紹介します。
+    Rubyでもっとも愛されている機能の一つに、Enumerableモジュールが挙げられると思います。私はEnumerableの便利さを広げるべく、"Enumerator"の導入や拡張に取り組んできました。
+
+    このセッションでは"Enumerator"導入の経緯とこれまで、そしてこれから追加したいと考えている機能を紹介します。
   ama_id: null
   presentation_url: null
 
@@ -238,7 +240,6 @@ koic:
 
     Ruby's regional communities, open source communities, and conferences are connected. I will talk you that our Ruby life will become more fun.
     So Ruby makes programmers happy.
-
   ama_id: null
   presentation_url: null
 
@@ -288,7 +289,9 @@ m-nakamura145:
   belongs: 株式会社トレタ
   name: 中村 真人
   description: |
-    皆さんはご飯を食べに行くときにどうやって予約をしていますか? 飲食店のオンライン予約は身近なテーマですが、その複雑さや設計について語られることは少ないです。本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
+    皆さんはご飯を食べに行くときにどうやって予約をしていますか? 飲食店のオンライン予約は身近なテーマですが、その複雑さや設計について語られることは少ないです。
+
+    本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
   ama_id: null
   presentation_url: null
 
@@ -390,7 +393,9 @@ owlworks:
   belongs: M3, Inc.
   name: 山井 康輔
   description: |
-    AskDoctorsはエムスリーが提供する医療系Webサービスの一つです。2005年の提供開始からの13年間で何度か大規模改修を経て、現在はその大部分がRuby on Railsへと置き換えられています。本セッションではサービスの開発運用で発生した課題や今後の取り組みについてお話します。
+    AskDoctorsはエムスリーが提供する医療系Webサービスの一つです。2005年の提供開始からの13年間で何度か大規模改修を経て、現在はその大部分がRuby on Railsへと置き換えられています。
+
+    本セッションではサービスの開発運用で発生した課題や今後の取り組みについてお話します。
   ama_id: null
   presentation_url: null
 
@@ -399,7 +404,9 @@ pipopotamasu:
   belongs: メドピア株式会社
   name: 村上 大和
   description: |
-    メドピア社内で使っているRails用フロントエンドボイラープレート「medpacker」を紹介します。medpackerはassets pipelineやwebpackerに依存しないRailsのフロントエンドを提供します。本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
+    メドピア社内で使っているRails用フロントエンドボイラープレート「medpacker」を紹介します。medpackerはassets pipelineやwebpackerに依存しないRailsのフロントエンドを提供します。
+
+    本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
   ama_id: null
   presentation_url: null
 
@@ -436,7 +443,9 @@ rlho:
   belongs: 株式会社ZOZOテクノロジーズ
   name: 高木 里穂
   description: |
-    女性エンジニアにまつわる話はマイナスな話題が目につきやすく触れにくい話題になっていると感じています。エンジニアとして働いて4年。女性エンジニアコミュニティに携わって女性エンジニアの方に多くお会いしました。その中で私自身が感じている、なぜ女性エンジニアが少ないのか、何が問題なのかについてお話しします。エモ100%です。
+    女性エンジニアにまつわる話はマイナスな話題が目につきやすく触れにくい話題になっていると感じています。エンジニアとして働いて4年。女性エンジニアコミュニティに携わって女性エンジニアの方に多くお会いしました。
+
+    その中で私自身が感じている、なぜ女性エンジニアが少ないのか、何が問題なのかについてお話しします。エモ100%です。
   ama_id: null
   presentation_url: null
 
@@ -445,7 +454,9 @@ rust:
   belongs: 株式会社タレンティオ
   name: 小川 伸一郎
   description: |
-    talentio.com は 2016年のサービスリリースから3年あまりが経ち、アーキテクチャも古く、メンテナンスされていないコードがあるなど、開発や運用の生産性を低下させかねない状況になっていました。そんな状況の中で、悪戦苦闘しながら近代化してきた旅路をお話します。
+    talentio.com は 2016年のサービスリリースから3年あまりが経ち、アーキテクチャも古く、メンテナンスされていないコードがあるなど、開発や運用の生産性を低下させかねない状況になっていました。
+
+    そんな状況の中で、悪戦苦闘しながら近代化してきた旅路をお話します。
   ama_id: null
   presentation_url: null
 
@@ -454,7 +465,9 @@ siman-man:
   belongs: null
   name: 玉寄 修一
   description: |
-    Ruby には RubyVM::AbstractSyntaxTree、TracePoint といったコードを解析するための機能が備えられており、また、コードを解析するための gem が多く存在しています。これらのコード解析は大きく分けて「静的」「動的」の 2つに分けられます。本セッションではこの 2つの解析手法の違いと、それぞれどのような情報が得られ開発に役立てることが出来るのかについて紹介しようと思います。
+    Ruby には RubyVM::AbstractSyntaxTree、TracePoint といったコードを解析するための機能が備えられており、また、コードを解析するための gem が多く存在しています。これらのコード解析は大きく分けて「静的」「動的」の 2つに分けられます。
+
+    本セッションではこの 2つの解析手法の違いと、それぞれどのような情報が得られ開発に役立てることが出来るのかについて紹介しようと思います。
   ama_id: null
   presentation_url: null
 
@@ -670,7 +683,9 @@ youchan:
   belongs: 株式会社レトリバ
   name: 大崎 瑶
   description: |
-    OpalはRubyからJavaScriptに変換するコンパイラです。OpalをつかうとRubyでBrowserで動くアプリケーションを作ることができます。私はこれまでOpalでリッチなBrowserアプリケーションを書くためのフレームワークを作ってきました。本トークではこれらのフレームワークを紹介します。
+    OpalはRubyからJavaScriptに変換するコンパイラです。OpalをつかうとRubyでBrowserで動くアプリケーションを作ることができます。私はこれまでOpalでリッチなBrowserアプリケーションを書くためのフレームワークを作ってきました。
+
+    本トークではこれらのフレームワークを紹介します。
   ama_id: null
   presentation_url: null
 
