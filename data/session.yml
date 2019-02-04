@@ -321,10 +321,15 @@ moro:
   presentation_url: null
 
 Morred:
-  title: TBA
+  title: Thrifty Rails - How to run a production app on a budget
   belongs: TenTen Ltd.
   name: Laura Eck
-  description: null
+  description: |
+    The app you launched last year is becoming more and more popular. The business seems to be going well - but the developers are struggling. Everything used to work fine, but now, with more users and new features, the load on the app is increasing. Suddenly your requests are timing out, you run out of database connections, you keep going over memory, background processing takes forever, your users are complaining and your manager is very unhappy.
+
+    To keep your users (and your manager) happy, you need to make sure that your app is fast and reliable even under increased load. But what if your company is small and can't afford to upgrade their servers every two weeks?
+
+    In this talk, we will discuss ways to make Rails apps faster, more streamlined and more resource efficient without having to spend a lot of money. I will share real world examples of relevant problems, how to locate them, and how to solve them while reducing the need to constantly scale your infrastructure.
   ama_id: null
   presentation_url: null
 
@@ -362,10 +367,13 @@ nay:
   presentation_url: null
 
 onk:
-  title: TBA
+  title: アプリケーションを作るときに考える25のこと
   belongs: 株式会社はてな
   name: 大仲 能史
-  description: null
+  description: |
+    先日社内ツールを作ったときに社内アドベントカレンダーを書いたので、その内容をギュッとまとめてお伝えします。
+
+    どの技術を使うときにどんなことを考えたのか (e.g. markdown の中の CommonMark の位置づけと Ruby からはどう扱うと良いのかとか、ファイルアップロード時に気にしなければいけないこととか) といった内容で、全部聞くと「Rails アプリを一から作るときに判断ができる」状態になります。
   ama_id: null
   presentation_url: null
 
@@ -422,10 +430,23 @@ r7kamura:
   presentation_url: null
 
 radioboo:
-  title: TBA
+  title: Introduction of scalable microservice for video editing/transcoding
   belongs: 株式会社ミクシィ
   name: 酒井 篤
-  description: null
+  description: |
+    家族アルバム「みてね」(https://mitene.us) というサービスの内部には、ユーザーがアップロードした数億件にも及ぶ大量で様々なファイルサイズ・形式の動画ファイルに対して、高速にトランスコード、また、高度な編集を行うことに特化した「Transcoder」と呼ばれるマイクロサービスが存在します。このセッションでは「Transcoder」の設計・実装の内部をできる限り詳細にご紹介します。
+
+    ■ 予定しているアジェンダ
+    ・なぜマネージドサービスではなくこのようなサービスを自作したのか？
+    各種クラウドサービスには同様の目的で開発されたマネージドサービスが多数存在しています。
+    しかし、なぜ我々はそういったサービスを利用せず自作する必要があったのかについて説明したいと思います。
+
+    ・数億件もの大量の動画ファイルをどのように高速に編集・トランスコードしているか？
+    大量でしかも動画ファイルを対象にした独特の課題や要件がある中で、コンピュートリソースをどのように扱い、スケールさせ、高速な編集・トランスコードを実現しているかをご紹介したいと思います。
+
+    ■ キーワード
+    今回のセッションのキーワードをいくつか列挙しておきます。
+    Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
   ama_id: null
   presentation_url: null
 
@@ -560,10 +581,14 @@ tawachan:
   presentation_url: null
 
 ujihisa:
-  title: TBA
+  title: 雑
   belongs: Quipper LTD
   name: ujihisa
-  description: null
+  description: |
+    ユーザ規模の拡大とともに、既存機能の変更の難易度は高まっていきます。たとえばユーザから見てAとなっているものをBに見せるため、コードxを編集したら、実はユーザから見てCやDも意図せず変更され、壊れてしまう、みたいな感じの事例の発生率が高まります。対処方法として、コードの静的検査であれこれしたり、完璧なintegration testできちんとカバーして変更点を自動検出したり、気合でコード全部読んだり、人力QAをめちゃくちゃ頑張るなどの手があります。
+
+    今回発表するのは、人間は怠惰で雑な生き物という前提にたった、もっと雑なやりかたについて、ものすごく生々しい具体的な事例でもってコードを出しまくってデモしまくって解説するみたいな感じです。
+    キーワード: Feature toggles, canary release, circuit breaker
   ama_id: null
   presentation_url: null
 
