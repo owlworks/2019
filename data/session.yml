@@ -491,8 +491,8 @@ taiki-t:
   ama_id: null
   presentation_url: null
 
-TakatoshiMaeda:
-  title: サービスを成長させるための「仮説検証文化」のつくり方
+takatoshi-maeda:
+  title: サービスを成長させる「仮説検証文化」のつくり方
   belongs: 株式会社トクバイ
   name: 前田 卓俊
   description: |
