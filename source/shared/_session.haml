@@ -4,7 +4,8 @@
     %li.label セッション: #{label}
     - unless github_id.start_with?("undefined")
       %li @#{github_id}
-  %h3.title= session[:title]
+  %h3.title
+    = session[:title]
   %ul.speaker
     - if session[:belongs]
       %li= session[:belongs]

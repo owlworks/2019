@@ -31,7 +31,9 @@ aeroastro:
   presentation_url: null
 
 amatsuda:
-  title: Extending Rails for Real World App Development
+  title:
+    毎日の開発に役立つRailsプラグインづくりの秘訣
+    <span>Extending Rails for Real World App Development</span>
   belongs: Ruby/Rails コミッター
   name: 松田 明
   description: |
@@ -83,13 +85,19 @@ f440:
   presentation_url: null
 
 ffu_:
-  title: 入門 名前
+  title:
+    入門 名前
+    <span>On naming things</span>
   belongs: 株式会社マチマチ
   name: 藤村 大介
   description: |
     プログラミングには必須のツールである名前。毎日使っているわりに、実はその仕組みがよくわからないツールです。また、命名の良し悪しは話題になるわりに、その基準として常識に訴える以上の理論だった説明が与えられることは稀です。
 
     現代の哲学をヒントに、改めて名前とその周辺について整理します。
+
+    Name is a tool what we are using on daily work as programmer, but it’s mechanism isn’t known so much. Especially on naming things, what we do is just asking for common sense instead of using a theory of good name.
+
+    In this talk I’ll try to make a better understanding on name and naming things with contemporary philosophy.
   ama_id: null
   presentation_url: null
 
@@ -158,7 +166,9 @@ idesaku:
   presentation_url: null
 
 ikedaosushi:
-  title: ログを解析し続けてわかった、会社で眠っているアクセスログを活用する5つのプラクティス
+  title:
+    ログを解析し続けてわかった、会社で眠っているアクセスログを活用する5つのプラクティス
+    <span>5 practices to utilize your company’s “sleeping” access logs from experience of continuous analytics</span>
   belongs: 株式会社 Kaizen Platform
   name: 池田 雄太郎
   description: |
@@ -167,6 +177,14 @@ ikedaosushi:
     Kaizen Platformでは顧客サイトに埋め込まれたタグから取得したアクセスログからデータ解析を行い、数多くのサイトのUI/UXの改善を行ってきました。なぜアクセスログが活用できないのか？組織間のコミュニケーションはどう取ればいいのか？
 
     この発表では様々なデータ解析経験から得ることができた、実際の現場ためのプラクティスやテクニックを紹介したいと思います。
+
+    Suddenly, are your company’s access logs “sleeping”, aren’t they?
+
+    I guess many of you may have some experiences that you built log collection infrastructures based on willing like “We want to empower ability about Data Analytics”. However once access log had been collected enough, you faced the wall like “How could these access logs be utilized?” or you anyway created the dashboard, but that had been never used.
+
+    Kaizen Platform is the company that collects access logs from our tags embedded in web sites of client, analyse these logs, and improve UI/UX of many web sites.  Why you couldn’t utilize access logs? How could you communicate with other departments?
+
+    In this session, I’m going to talk about practice and techniques to get good insight from access logs based on our experience.
   ama_id: null
   presentation_url: null
 
@@ -198,6 +216,12 @@ joker1007:
     それらはReproのキーとなる機能であり、提供するのが大変な機能でもあります。
 
     このトークででは、我々がどうやってRailsベースのアプリケーションでそれを実現したのか、そして我々のサービスの裏側にあるアーキテクチャの変遷について紹介します。(例えば、分散データベースやデータフォーマット、ETLやSQLの生成等について)
+
+    Repro accepts pretty large scale data, and provides flexible User Segmentation (Audience) to extract marketing targets from enormous users.
+
+    That is Repro's key feature and very difficult.
+
+    I talk about how we realized these feature by Rails base application and also about how our architecture has evolved (for example distributed database, data format, ETL, Generating SQL).
   ama_id: null
   presentation_url: null
 
@@ -226,15 +250,20 @@ knu:
   belongs: 株式会社マチマチ
   name: 武者 晶紀
   description: |
-    Rubyでもっとも愛されている機能の一つに、Enumerableモジュールが挙げられると思います。私はEnumerableの便利さを広げるべく、"Enumerator"の導入や拡張に取り組んできました。
+    Ruby でもっとも愛されている機能の一つに、Enumerable モジュールが挙げられると思います。私は Enumerable の便利さを広げるべく、"Enumerator" の導入や拡張に取り組んできました。
 
-    このセッションでは"Enumerator"導入の経緯とこれまで、そしてこれから追加したいと考えている機能を紹介します。
+    このセッションでは "Enumerator" 導入の経緯とこれまで、そしてこれから追加したいと考えている機能を紹介します。
+
+    The Enumerable module has been one of the most beloved features in Ruby. I have been working on making it even more useful by introducing the Enumerator class and extending it as a framework.
+
+    In this session I will talk about how Enumerator was discussed and created, how it has evolved as a framework, and how exactly we can make it even better going forward.
   ama_id: null
   presentation_url: null
 
 koic:
   title:
-    Ruby コミュニティの歩き方<br />Somebody to Ruby
+    Ruby コミュニティの歩き方
+    <span>Somebody to Ruby</span>
   belongs: 株式会社永和システムマネジメント
   name: 伊藤 浩一
   description: |
@@ -306,7 +335,9 @@ masa-iwasaki:
   presentation_url: null
 
 moro:
-  title: 全体がいい感じになるために、私たちRailsをホームにするWeb技術者ができること
+  title:
+    全体がいい感じになるために、私たちRailsをホームにするWeb技術者ができること
+    <span>What we, Rails programmer, can do to let our whole system grow.</span>
   belongs: 株式会社エス・エム・エス
   name: 諸橋 恭介
   description: |
@@ -349,22 +380,30 @@ mtsmfm:
   belongs: Quipper LTD
   name: 松島 史秋
   description: |
-    大きなプロジェクトには不安定なテストがつきものです。
-
-    Rails にもいくつか不安定なテストがあります。
+    大きなプロジェクトには不安定なテストがつきものです。Rails にもいくつか不安定なテストがあります。
 
     この発表では、テスト結果の分析と不安定なテストの見つけ方について発表します。
+
+    Big project has unstable tests. Rails also has some unstable tests.
+
+    In this talk, I'd like to share the result of analyzing the build results and how to find unstable tests.
   ama_id: null
   presentation_url: null
 
 nay:
-  title: 万葉のRails新人研修のコードレビューコメントを分析してみました
+  title:
+    万葉のRails新人研修のコードレビューコメントを分析してみました
+    <span>An Analysis of Code Review Comments in Our Rails Training Program</span>
   belongs: 株式会社万葉
   name: 大場 寧子
   description: |
     (株) 万葉ではここ２年以上、新入社員教育用カリキュラム（https://github.com/everyleaf/el-training）を利用して、新入社員にRailsの研修を受けてもらっています。
 
     本トークでは、これまでの実際の研修で出された数々の Pull Request に社員が寄せたたくさんのコメントを、発話の目的やトピックといったいくつかの観点で分類し、傾向を紹介します。そして、初心者がRailsを学ぶ上で重要なポイントや、周囲がサポートするとよい点、レビューのコツなどについて考察します。
+
+    We have been carrying out our Rails training program for new employees for over 2 years in Everyleaf Corporation. In those trainings, many pull requests had been reviewed by other employees.
+
+    In this talk I'm going to introduce an analysis of code review comments of those pull requests and think about the important points in learning Rails, supporting beginners and code review styles.
   ama_id: null
   presentation_url: null
 
@@ -410,7 +449,9 @@ owlworks:
   presentation_url: null
 
 pipopotamasu:
-  title: Railsフロントエンドボイラープレート「medpacker」の紹介<br>Introduction of RoR frontend boilerplate "medpacker"
+  title:
+    Railsフロントエンドボイラープレート「medpacker」の紹介
+    <span>Introduction of RoR frontend boilerplate "medpacker"</span>
   belongs: メドピア株式会社
   name: 村上 大和
   description: |
@@ -423,7 +464,9 @@ pipopotamasu:
   presentation_url: null
 
 r7kamura:
-  title: Railsアップグレード百景
+  title:
+    Railsアップグレード百景
+    <span>Rails Upgrade Best Selection</span>
   belongs: フリーランス
   name: 中村 涼
   description: |
@@ -441,21 +484,23 @@ radioboo:
     家族アルバム「みてね」(https://mitene.us) というサービスの内部には、ユーザーがアップロードした数億件にも及ぶ大量で様々なファイルサイズ・形式の動画ファイルに対して、高速にトランスコード、また、高度な編集を行うことに特化した「Transcoder」と呼ばれるマイクロサービスが存在します。このセッションでは「Transcoder」の設計・実装の内部をできる限り詳細にご紹介します。
 
     ■ 予定しているアジェンダ
+
     ・なぜマネージドサービスではなくこのようなサービスを自作したのか？
-    各種クラウドサービスには同様の目的で開発されたマネージドサービスが多数存在しています。
-    しかし、なぜ我々はそういったサービスを利用せず自作する必要があったのかについて説明したいと思います。
+
+    各種クラウドサービスには同様の目的で開発されたマネージドサービスが多数存在しています。しかし、なぜ我々はそういったサービスを利用せず自作する必要があったのかについて説明したいと思います。
 
     ・数億件もの大量の動画ファイルをどのように高速に編集・トランスコードしているか？
+
     大量でしかも動画ファイルを対象にした独特の課題や要件がある中で、コンピュートリソースをどのように扱い、スケールさせ、高速な編集・トランスコードを実現しているかをご紹介したいと思います。
 
-    ■ キーワード
-    今回のセッションのキーワードをいくつか列挙しておきます。
-    Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
+    キーワード: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
   ama_id: null
   presentation_url: null
 
 risacan:
-  title: SmartHRでの最初の1年
+  title:
+    SmartHRでの最初の1年
+    <span>My first year at SmartHR as Software developer</span>
   belongs: 株式会社SmartHR
   name: 渡邊 梨沙
   description: |
@@ -506,7 +551,9 @@ sinamon129:
   presentation_url: null
 
 sinsoku:
-  title: 自己修復的なインフラ
+  title:
+    自己修復的なインフラ
+    <span>Self-Healing Infrastructure</span>
   belongs: null
   name: 神速
   description: |
@@ -526,11 +573,15 @@ sinsoku:
   presentation_url: null
 
 taiki-t:
-  title: 100回死んだエンジニア
+  title:
+    100回死んだエンジニア
+    <span>An Engineer That Died a 100 Times</span>
   belongs: 株式会社Repro
   name: 髙山 泰基
   description: |
     書籍の翻訳、起業と失敗。起業して失敗したエンジニアはどうなるのか。死ぬほど失敗してもなんとかなるという、頑張りたい人の背中を押せる話をしたいです。
+
+    A case study of an engineer who have failed many times. Telling that engineers can make own life even they failed after starting a business.
   ama_id: null
   presentation_url: null
 
@@ -574,26 +625,30 @@ taogawa:
   presentation_url: null
 
 tawachan:
-  title: 少人数でサービスをすばやく開発するためのRails活用事例
+  title:
+    少人数でサービスをすばやく開発するためのRails活用事例
+    <span>A case study on developing a web service quickly with less bugs using Ruby on Rails</span>
   belongs: ピクシブ株式会社
   name: 大多和 祐介
   description: |
     当セッションでは、弊社サービス「pixiv chatstory」が少人数ですばやく、しかしバグは少なく開発していくために採用していているアーキテクチャについてお話します。Ruby/RailsはAPIサーバーとしてHeroku上で使用しているので、このあたりの話を中心にしたいと思います。
 
-    キーワード: Rails, Heroku, Swagger, CloudFront, ImageFlux, Firebase, PWA, Angular, Ionic, ReactNative, Expo.io
+    This session mainly discusses the IT architecture that one of pixiv's products, pixiv chatstory adopts to enable us the small team (2-4 engineers) to develop the both web and native apps quickly but with less bugs, using Rails as an API server deployed onto Heroku.
+
+    Keywords: Rails, Heroku, Swagger, CloudFront, ImageFlux, Firebase, PWA, Angular, Ionic, ReactNative, Expo.io
   ama_id: null
   presentation_url: null
 
 ujihisa:
-  title: 雑<br>How to avoid spilling
+  title:
+    雑
+    <span>How to avoid spilling</span>
   belongs: Quipper LTD
   name: ujihisa
   description: |
     ユーザ規模の拡大とともに、既存機能の変更の難易度は高まっていきます。たとえばユーザから見てAとなっているものをBに見せるため、コードxを編集したら、実はユーザから見てCやDも意図せず変更され、壊れてしまう、みたいな感じの事例の発生率が高まります。対処方法として、コードの静的検査であれこれしたり、完璧なintegration testできちんとカバーして変更点を自動検出したり、気合でコード全部読んだり、人力QAをめちゃくちゃ頑張るなどの手があります。
 
     今回発表するのは、人間は怠惰で雑な生き物という前提にたった、もっと雑なやりかたについて、ものすごく生々しい具体的な事例でもってコードを出しまくってデモしまくって解説するみたいな感じです。
-
-    キーワード: Feature toggles, canary release, circuit breaker
 
     It gets harder to make changes against your service when you have larger scale of users. For example when you modify a part `x` for showing users A which used to be B, it might also impacts C and D unintentionally, and things may get broken. Potential solutions for that kind of problems are static analysis, an ideal well-covered integration test to detect changes automatically, read the entire source code by yourself, or do the best job at human testing. My talk on the other hand focuses on a very rough, thoughtless, and dirty approach, assuming human beings are lazy and not smart enough. I'll demonstrate with empirical concrete examples that had actually happened in my experience.
 
@@ -602,30 +657,45 @@ ujihisa:
   presentation_url: null
 
 unak:
-  title: Webアプリケーションの開発運用で当たり前に必要とされる画像変換の中身
+  title:
+    Webアプリケーションの開発運用で当たり前に必要とされる画像変換の中身
+    <span>Internal of the image processing required on the developping of web applications</span>
   belongs: ピクシブ株式会社
   name: 中村 宇作
   description: |
     Webアプリケーションの開発にあたっては、現代においては大量の画像を扱わないといけないことは明らかである。その際には、サイズ変換・フォーマット変換・転送量削減といったあたりは当然に必要となる。単純に見えて実は落とし穴がいっぱいなこうした画像変換の中身について、技術的側面から説明する（※デザインの話はしません）
+
+    To develop web applications, we obviously must handle many images. In this case, we are requested some processings such as scaling, format conversion, data size reduction and so on. They seem simple at first glance, but there are many pit falls. This talk will explain the internal of such image processing from technical aspect (does not treat designs).
   ama_id: null
   presentation_url: null
 
 upinetree:
-  title: CSSの技術的負債との向き合い方
+  title:
+    CSSの技術的負債との向き合い方
+    <span>How to Deal with Technical Debt of CSS</span>
   belongs: 株式会社万葉
   name: 松本 拓也
   description: |
     チーム内で Ruby や JavaScript をどのように実装していくかは頻繁に議論があっても、CSSについてはそれほど多くないように思います。チームメンバーそれぞれが手探りで実装したCSSに対して、満足なレビューが行えないといったことも見られます。そのようなチームではCSSの技術的負債をためやすく、気づいたときには開発のボトルネックとなっていたこともありました。
 
     本発表ではこうした問題が起こってしまう理由を掘り下げ、チーム開発における CSS の取り扱い方法について考察します。そして、すでに技術的負債を抱えている CSS への向き合い方を、実際の事例を交えながらお話します。
+
+    In many of teams around me, discussing how to writing CSS is less often than Ruby or JavaScript code. In such teams, CSS is written by touch and reviewing it is insufficient, hence building technical debt of CSS is easy and detecting it before bottlenecks become obvious is difficult.
+
+    In this talk I consider why the such problems happen and how to make handling policies of CSS in the team. Then I describe how to deal with technical debt of CSS with case studies.
   ama_id: null
   presentation_url: null
 
 ursm:
-  title: 私が愛した eBook Store
+  title:
+    私が愛した eBook Store
+    <span>eBook Store, Which I Loved</span>
   belongs: 株式会社えにしテック
   name: 浦嶌 啓太
-  description: 2018年2月、オーム社の電子書籍ストア「オーム社 eBook Store」が8年に亘る歴史に幕を閉じました。開発者であった立場から eBook Store がどうやって作られていたかをお話しします。
+  description: |
+    2018年2月、オーム社の電子書籍ストア「オーム社 eBook Store」が8年に亘る歴史に幕を閉じました。開発者であった立場から eBook Store がどうやって作られていたかをお話しします。
+
+    The e-book store by Ohmsha Ltd. which is a publisher of science and engineering books was closed in February 2018. As a developer of the e-book store, I will tell you how it was developed.
   ama_id: null
   presentation_url: null
 
@@ -650,7 +720,9 @@ y-yagi:
   presentation_url: null
 
 yahonda:
-  title: Active Record Oracle enhanced adapterのこれまでとこれから
+  title:
+    Active Record Oracle enhanced adapterのこれまでとこれから
+    <span>Past, present and future of Active Record Oracle enhanced adapter</span>
   belongs: freee株式会社
   name: 本多 康夫
   description: |
@@ -676,18 +748,26 @@ yancya:
   presentation_url: null
 
 yasaichi:
-  title: Ruby on Railsの正体と向き合い方
+  title:
+    Ruby on Railsの正体と向き合い方
+    <span>What is Ruby on Rails and how to deal with it?</span>
   belongs: ピクスタ株式会社
   name: 後藤 優一
   description: |
     過去のRails Developers Meetupでは、”Rails Way”の内側あるいは外側でどのようにコードを整理するかについての話がいくつかありましたが、そもそもなぜこのような工夫が必要になるのかについて述べたものはありませんでした。
 
     本発表は、DHH氏の過去のインタビューや著作での発言を取り上げながら、この問に対して答えようとするものです。まず最初に、彼が解決したかった問題と、そのために取ったアプローチを明らかにします。次に、このアプローチが機能しなくなるような状況を示します。最後に、その対処方法について私の考えを話します。
+
+    In the past Rails Developers Meetup, there were some talks on how to organize your code inside or outside “The Rails Way”, but none on why on earth we have to do so.
+
+    In this talk, I’ll try to answer this question picking up what DHH™ said in his past interviews and publications. First, I’ll reveal the problem he wanted to solve and the approach he took for the framework. Then, I’ll show you a situation the approach doesn't work well. Finally, I’ll tell you my thoughts on how to deal with it.
   ama_id: null
   presentation_url: null
 
 yoshuki:
-  title: 問わず語りの個人事業主
+  title:
+    問わず語りの個人事業主
+    <span>How I've been working as a self-employed</span>
   belongs: フリーランス
   name: MIKAMI Yoshiyuki
   description: |
@@ -698,7 +778,9 @@ yoshuki:
   presentation_url: null
 
 yoshiori:
-  title: DevOps, Immutable Infrastructure, microservices そして Chaos Engineering
+  title:
+    DevOps, Immutable Infrastructure, microservices そして Chaos Engineering
+    <span>DevOps, Immutable Infrastructure, microservices and Chaos Engineering</span>
   belongs: クックパッド株式会社
   name: 庄司 嘉織
   description: |
@@ -713,21 +795,27 @@ yoshiori:
   presentation_url: null
 
 youchan:
-  title: OpalでつくるBrowserアプリケーション
+  title:
+    OpalでつくるBrowserアプリケーション
+    <span>Building browser applications with Opal</span>
   belongs: 株式会社レトリバ
   name: 大崎 瑶
   description: |
     OpalはRubyからJavaScriptに変換するコンパイラです。OpalをつかうとRubyでBrowserで動くアプリケーションを作ることができます。私はこれまでOpalでリッチなBrowserアプリケーションを書くためのフレームワークを作ってきました。
 
     本トークではこれらのフレームワークを紹介します。
+
+    Opal is a compiler which convert from Ruby to JavaScript. With Opal you can build applications run on the browser by Ruby. I had ever been creating frameworks to write rich browser applications in Opal.
+
+    This talk introduces that frameworks.
   ama_id: null
   presentation_url: null
 
 yui-knk:
-  title: 作って学ぶRDBMS
+  title: 作って学ぶ RDBMS
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
   description: |
-    最近PostgreSQLのコードを読みながら小さなDBを少しずつ実装しています。この発表ではステップバイステップでDBを作って行く工程についてお話したいと思います。
+    最近 PostgreSQL のコードを読みながら小さな DB を少しずつ実装しています。この発表ではステップバイステップで DB を作って行く工程についてお話したいと思います。
   ama_id: null
   presentation_url: null

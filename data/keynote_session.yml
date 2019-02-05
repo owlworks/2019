@@ -1,5 +1,7 @@
 takahashim:
-  title: まだ40代後半のプログラマの話、あるいは50代プログラマについて考える
+  title:
+    まだ40代後半のプログラマの話、あるいは50代プログラマについて考える
+    <span>I'm a programmer, still in my late forties; and how to become a 50-aged programmer</span>
   belongs: 一般社団法人日本Rubyの会 代表理事
   name: 高橋 征義
   description: |
