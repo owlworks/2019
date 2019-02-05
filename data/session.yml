@@ -229,11 +229,16 @@ knu:
   presentation_url: null
 
 koic:
-  title: Ruby コミュニティの歩き方
+  title:
+    Ruby コミュニティの歩き方<br />Somebody to Ruby
   belongs: 株式会社永和システムマネジメント
   name: 伊藤 浩一
   description: |
     みんな大好き Ruby のコミュニティと、それに関係する (もしくはあまり関係しない) あれこれについて、ものすごくいい話。
+
+    Ruby's regional communities, open source communities, and conferences are connected. I will talk you that our Ruby life will become more fun.
+    So Ruby makes programmers happy.
+
   ama_id: null
   presentation_url: null
 
