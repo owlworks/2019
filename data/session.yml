@@ -207,6 +207,8 @@ k0kubun:
   name: 国分 崇志
   description: |
     Ruby 2.6ではJITでRailsを速くすることができなかったため、Ruby 2.7のJITではRailsのようなユースケースを高速化することをゴールに置いています。本発表では、それが現時点でどれくらい上手くいきそうか、といった話をしようと思います。
+
+    As Ruby 2.6.'s JIT didn't optimize Rails applications so much, we're focusing on optimizing Rails application performance in Ruby 2.7 development. In this talk, you'll know how fast Rails could be on Ruby 2.7.
   ama_id: null
   presentation_url: null
 
@@ -408,13 +410,15 @@ owlworks:
   presentation_url: null
 
 pipopotamasu:
-  title: Railsフロントエンドボイラープレート「medpacker」の紹介
+  title: Railsフロントエンドボイラープレート「medpacker」の紹介<br>Introduction of RoR frontend boilerplate "medpacker"
   belongs: メドピア株式会社
   name: 村上 大和
   description: |
     メドピア社内で使っているRails用フロントエンドボイラープレート「medpacker」を紹介します。medpackerはassets pipelineやwebpackerに依存しないRailsのフロントエンドを提供します。
 
     本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
+
+    I introduce “mdpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without assets pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
   ama_id: null
   presentation_url: null
 
@@ -581,14 +585,19 @@ tawachan:
   presentation_url: null
 
 ujihisa:
-  title: 雑
+  title: 雑<br>How to avoid spilling
   belongs: Quipper LTD
   name: ujihisa
   description: |
     ユーザ規模の拡大とともに、既存機能の変更の難易度は高まっていきます。たとえばユーザから見てAとなっているものをBに見せるため、コードxを編集したら、実はユーザから見てCやDも意図せず変更され、壊れてしまう、みたいな感じの事例の発生率が高まります。対処方法として、コードの静的検査であれこれしたり、完璧なintegration testできちんとカバーして変更点を自動検出したり、気合でコード全部読んだり、人力QAをめちゃくちゃ頑張るなどの手があります。
 
     今回発表するのは、人間は怠惰で雑な生き物という前提にたった、もっと雑なやりかたについて、ものすごく生々しい具体的な事例でもってコードを出しまくってデモしまくって解説するみたいな感じです。
+
     キーワード: Feature toggles, canary release, circuit breaker
+
+    It gets harder to make changes against your service when you have larger scale of users. For example when you modify a part `x` for showing users A which used to be B, it might also impacts C and D unintentionally, and things may get broken. Potential solutions for that kind of problems are static analysis, an ideal well-covered integration test to detect changes automatically, read the entire source code by yourself, or do the best job at human testing. My talk on the other hand focuses on a very rough, thoughtless, and dirty approach, assuming human beings are lazy and not smart enough. I'll demonstrate with empirical concrete examples that had actually happened in my experience.
+
+    Keywords: feature toggles, canary release, and circuit breaker
   ama_id: null
   presentation_url: null
 
