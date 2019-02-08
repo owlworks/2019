@@ -698,7 +698,7 @@ tawachan:
 ujihisa:
   title:
     雑
-    <span>How to avoid spilling</span>
+    <span>Almost Microservices</span>
   belongs: Quipper LTD
   name: ujihisa
   description: |
@@ -706,9 +706,11 @@ ujihisa:
 
     今回発表するのは、人間は怠惰で雑な生き物という前提にたった、もっと雑なやりかたについて、ものすごく生々しい具体的な事例でもってコードを出しまくってデモしまくって解説するみたいな感じです。
 
+    キーワード: マイクロサービス, feature toggles, canary release, and circuit breaker
+
     It gets harder to make changes against your service when you have larger scale of users. For example when you modify a part `x` for showing users A which used to be B, it might also impacts C and D unintentionally, and things may get broken. Potential solutions for that kind of problems are static analysis, an ideal well-covered integration test to detect changes automatically, read the entire source code by yourself, or do the best job at human testing. My talk on the other hand focuses on a very rough, thoughtless, and dirty approach, assuming human beings are lazy and not smart enough. I'll demonstrate with empirical concrete examples that had actually happened in my experience.
 
-    Keywords: feature toggles, canary release, and circuit breaker
+    Keywords: Microservices, feature toggles, canary release, and circuit breaker
   ama_id: null
   presentation_url: null
 
