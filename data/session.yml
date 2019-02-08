@@ -64,7 +64,7 @@ banyan:
 emorima:
   title:
     Rails Girls のこれまでとこれから
-    <span>Rails Girls so far and hereafter</span>
+    <span>Rails Girls - the history and future</span>
   belongs: 株式会社ケーシーエスキャロット
   name: 江森 真由美
   description: |
@@ -77,6 +77,7 @@ emorima:
 f440:
   title:
     操作履歴/時点指定アクセスの実現 - BiTemporal Data Model の実践
+    <span>Implementing command history and temporal access - practices on BiTemporal Data Model</span>
   belongs: 株式会社SmartHR
   name: f440
   description: |
@@ -110,6 +111,7 @@ ffu_:
 gotchane:
   title:
     jQuery + Sass な SPA Rails アプリを React + CSS in JS にリプレースした話
+    <span>Replacing SPA Rails app built with jQuery and Sass with React and CSS in JS</span>
   belongs: 株式会社ソニックガーデン
   name: 後藤 雅之, 石澤 佳祐
   description: |
@@ -122,7 +124,7 @@ gotchane:
 hanachin:
   title:
     コードレビューしない
-    <span>I do NOT code reviews</span>
+    <span>I do NOT review code</span>
   belongs: YassLab 株式会社
   name: 宮城 正栄
   description: |
@@ -140,6 +142,7 @@ hanachin:
 hokaccha:
   title:
     巨大なモノリシック Rails アプリケーションのマイクロサービス化戦略
+    <span>How to microservicify huge monolithic Rails application</span>
   belongs: クックパッド株式会社
   name: 外村 和仁
   description: |
@@ -164,6 +167,7 @@ hsbt:
 idesaku:
   title:
     みんながやりたがらない仕事をやって食っていく
+    <span>Living by doing the work nobody wants to do</span>
   belongs: フリーランス
   name: 後藤 大輔
   description: |
@@ -320,6 +324,7 @@ kokuyouwind:
 komagata:
   title:
     プログラミングスクールを作ってみた
+    <span>On building a programming school</span>
   belongs: 合同会社フィヨルド
   name: 駒形 真幸
   description: |
@@ -342,6 +347,7 @@ kyuden:
 m-nakamura145:
   title:
     オンライン予約徹底解説
+    <span>Thorough explanation about online reservation</span>
   belongs: 株式会社トレタ
   name: 中村 真人
   description: |
@@ -452,6 +458,7 @@ onk:
 ota42y:
   title:
     我々はマイクロサービスとどう向き合うべきか
+    <span>How should we face with microservices</span>
   belongs: 株式会社FiNC Technologies
   name: 太田 佳敬
   description: |
@@ -472,6 +479,7 @@ ota42y:
 owlworks:
   title:
     AskDoctorsの13年目を支える技術
+    <span>Technologies supporting AskDoctors for 13 years</span>
   belongs: M3, Inc.
   name: 山井 康輔
   description: |
@@ -543,7 +551,9 @@ risacan:
   presentation_url: null
 
 rlho:
-  title: 女性エンジニアとして働くということ
+  title:
+    女性エンジニアとして働くということ
+    <span>Working as a female engineer</span>
   belongs: 株式会社ZOZOテクノロジーズ
   name: 高木 里穂
   description: |
@@ -556,6 +566,7 @@ rlho:
 rust:
   title:
     talentio をなんとかしようと頑張ってきた18ヶ月の旅路
+    <span> A 18-month journey to improve talentio</span>
   belongs: 株式会社タレンティオ
   name: 小川 伸一郎
   description: |
@@ -568,6 +579,7 @@ rust:
 siman-man:
   title:
     Ruby のコード解析の「静」と「動」
+    <span>Dynamic and static aspect of Ruby code analysis</span>
   belongs: null
   name: 玉寄 修一
   description: |
@@ -580,6 +592,7 @@ siman-man:
 sinamon129:
   title:
     ガチスタートアップ1人目のバックエンドエンジニアのリアルな戦略と奮闘
+    <span>A real strategy and struggle of the first backend engineer in a small startup</span>
   belongs: RiLi Inc.
   name: 片山 潮美
   description: |
@@ -625,6 +638,7 @@ taiki-t:
 takatoshi-maeda:
   title:
     サービスを成長させる「仮説検証文化」のつくり方
+    <span>How to create a culture of confirming hypothesises that grows services</span>
   belongs: 株式会社トクバイ
   name: 前田 卓俊
   description: |
@@ -639,6 +653,7 @@ takatoshi-maeda:
 takkanm:
   title:
     Rails な受託の会社でぼくがやっていること
+    <span>What I do in a Rails consulting company</span>
   belongs: 株式会社永和システムマネジメント
   name: 三村 益隆
   description: |
@@ -653,6 +668,7 @@ takkanm:
 taogawa:
   title:
     7年目を迎えたRailsアプリケーションの傾向と対策
+    <span>How to deal with a 7 year old Rails application</span>
   belongs: 株式会社キッチハイク
   name: 小川 剛
   description: |
@@ -775,6 +791,7 @@ yahonda:
 yancya:
   title:
     SQLQL は GraphQL にとって、何なのか
+    <span> What's SQLQL for GraphQL?</span>
   belongs: null
   name: 小栁 真太
   description: |
@@ -857,6 +874,7 @@ youchan:
 yui-knk:
   title:
     作って学ぶ RDBMS
+    <span>Make and learn RDBMS</span>
   belongs: トレジャーデータ株式会社
   name: 金子 雄一郎
   description: |
