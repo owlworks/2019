@@ -565,8 +565,8 @@ rlho:
 
 rust:
   title:
-    talentio をなんとかしようと頑張ってきた18ヶ月の旅路
-    <span> A 18-month journey to improve talentio</span>
+    Talentio をなんとかしようと頑張ってきた18ヶ月の旅路
+    <span> A 18-month journey to improve talentio.com</span>
   belongs: 株式会社タレンティオ
   name: 小川 伸一郎
   description: |
@@ -791,7 +791,7 @@ yahonda:
 yancya:
   title:
     SQLQL は GraphQL にとって、何なのか
-    <span> What's SQLQL for GraphQL?</span>
+    <span>What's SQLQL for GraphQL?</span>
   belongs: null
   name: 小栁 真太
   description: |
