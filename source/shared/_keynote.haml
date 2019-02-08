@@ -7,16 +7,16 @@
       .row.center-xs
         - data.keynote.each do |record|
           .col-xs-4
-            = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank" do
+            = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank", rel: "noopener noreferrer" do
               = image_tag "keynote/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--keynote"
             .userinfo
               %p.username
                 = record[:github]
               %ul.links
                 %li
-                  = link_to "https://github.com/#{record[:github]}", target: "_blank" do
+                  = link_to "https://github.com/#{record[:github]}", target: "_blank", rel: "noopener noreferrer" do
                     %i.fab.fa-github
                 - if record[:twitter]
                   %li
-                    = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank" do
+                    = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank", rel: "noopener noreferrer" do
                       %i.fab.fa-twitter

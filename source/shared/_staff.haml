@@ -5,15 +5,15 @@
   .row.center-xs.center-md
     - data.staff.each do |record|
       .col-xs-3.col-md-1
-        = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank" do
+        = link_to "https://github.com/#{record[:github]}", alt: record[:github], target: "_blank", rel: "noopener noreferrer" do
           = image_tag "staff/#{record[:github]}.jpg", alt: record[:github], class: "thumbnail--staff"
         .staffinfo
           %p.username= record[:github]
           %ul.links
             %li
-              = link_to "https://github.com/#{record[:github]}", target: "_blank" do
+              = link_to "https://github.com/#{record[:github]}", target: "_blank", rel: "noopener noreferrer" do
                 %i.fab.fa-github
             - if record[:twitter]
               %li
-                = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank" do
+                = link_to "https://twitter.com/#{record[:twitter]}", target: "_blank", rel: "noopener noreferrer" do
                   %i.fab.fa-twitter
