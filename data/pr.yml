@@ -1,7 +1,7 @@
 undefined1:
-  title: TBA
+  title: AWSだけがクラウドじゃない！ 〜OracleCloudの紹介〜
   belongs: 日本オラクル株式会社
-  name: 未定
+  name: 鈴木 達也
 
 undefined2:
   title: TBA
@@ -29,6 +29,6 @@ undefined6:
   name: 未定
 
 undefined7:
-  title: TBA
+  title: <a href="https://docs.esa.io/posts/314" target="_blank" rel="noopener noreferrer">春のesa自慢 〜みなさんの自慢のesa記事紹介します！〜</a>
   belongs: esa LLC
-  name: 未定
+  name: "@ken_c_lo, @ppworks"
