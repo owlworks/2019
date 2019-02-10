@@ -25,10 +25,17 @@
 
 aeroastro:
   title:
-    Rails meets Protocol Buffers - for Schema First Development
+    Rails meets Protocol Buffers - For Schema First Development
   belongs: 株式会社ディー・エヌ・エー
   name: 越智 琢正
-  description: TBA
+  description: |
+    フロントエンドとバックエンドのチームが分かれて開発する場合、チーム間のインターフェースであるAPIの情報共有は、正確性や効率性の点で難しい場合があります。そして、一般的なWebアプリケーションの開発だけではなく、ゲームのバックエンドの開発においても同様の課題が存在します。
+
+    このセッションでは、このような課題に対してのSchema First Developmentの有用性、および、ゲーム開発への適用の一例として、Rails と Protocol Buffers を組み合わせた開発手法を紹介します。
+
+    When separated frontend team and backend team cooperate on the same project, they sometimes have difficulties in correctly and efficiently sharing the API information, the interface between the teams. This is the case not only in web application development but also in game backend development.
+
+    In this session, the effectiveness of Schema First Development will be presented. Also, as an example of its application in game development, we will take a look at Rails with Protocol Buffers.
   ama_id: null
   presentation_url: null
 
