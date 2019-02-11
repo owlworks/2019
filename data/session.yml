@@ -147,6 +147,15 @@ hanachin:
     * どうしてそのコードレビューをしているのか
     * どうやればコードレビューでそれをしなくてよくなるか
     * コードレビューしないをする決意
+
+    Do you conduct code reviews?
+
+    In this session, in order to achieve "no code review", I will talk on the following topics.
+
+    * The things you do in the code reviews.
+    * Why you do the things in the code reviews.
+    * How to avoid the things in the code reviews.
+    * The decision to conduct "no code reviews".
   ama_id: null
   presentation_url: null
 
