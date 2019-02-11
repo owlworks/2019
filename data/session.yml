@@ -135,7 +135,7 @@ gotchane:
 hanachin:
   title:
     コードレビューしない
-    <span>I do NOT review code</span>
+    <span>No Code Reviews</span>
   belongs: YassLab 株式会社
   name: 宮城 正栄
   description: |
