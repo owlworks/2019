@@ -79,7 +79,7 @@ emorima:
 
     これまでの国内のRails Girlsの取り組みと、これからについてお話します。
 
-    The first Rails Girls event in Japan was held in 2012. We will celebrate the 50th events on Nagoya 1st in May 2018. 
+    The first Rails Girls event in Japan was held in 2012. We will celebrate the 50th events on Nagoya 1st in May 2018.
 
     I will talk on the history and future of Rails Girls in Japan.
   ama_id: null
@@ -370,10 +370,14 @@ m-nakamura145:
 
 masa-iwasaki:
   title:
-    TBA
+    サービス開発初期の「時間を金で買う」技術
+    <span>How to buy time in the early stage of Rails development</span>
   belongs: クリニカルプラットフォーム株式会社
   name: 岩崎 匡寿
-  description: null
+  description: |
+    ウェブサービスをゼロから開発して徐々に規模を大きくしていく過程では、CI環境の準備などサービス開発を続けていく上で開発チーム自身が準備をしなくてはいけないツール群が多くあります。これらの問題は多くのチームで共通にみられることから、世の中には様々なSaaSツールが用意されています。優れたサービスはそれなりの価格設定がされているものですが、場合によっては有料サービスを利用することにより、チームがサービス開発に集中できる時間を増やすという戦略も取ることができます。この発表では、私自身が仕事やプライベートで使っている開発支援系のツールに関する紹介と導入する場合の考え方や検討事項などについてお話します。
+
+    In the early stage of web service development, you need to set up many tools to support yourselves and your services. Because this is a one of common issues among developer teams, there are many SaaS providers for the problem. Although services provided by them usually seems to be expensive, you can buy time for your team and accelerating service development. I will talk about the services I have tried and how to think about pros and cons including various costs to use them.
   ama_id: null
   presentation_url: null
 
