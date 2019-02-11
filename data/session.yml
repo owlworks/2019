@@ -152,7 +152,7 @@ hokaccha:
   description: |
     クックパッドの Rails アプリケーションは世界でも有数な巨大モノリックアプリケーションです。その巨大さゆえに、機能の追加やメンテナンスがまともにできる状態ではありませんでした。その問題を解決するためにコード削減やシステム分割などの様々な施策を積み重ね、ようやく成果が出てきました。そのような施策で得られた知見や今後の展望について紹介します。
 
-    The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent features. Various kinds of measures have been carried out to solve this issue such as reducing the lines of code and breaking the system down to smaller ones. These are now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
+    The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent ones. Various kinds of measures have been carried out to solve this issue such as reducing the lines of code and breaking the system down to smaller ones. These are now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
   ama_id: null
   presentation_url: null
 
