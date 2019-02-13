@@ -99,6 +99,14 @@ f440:
     この問題を解決するために、私達はBiTemporal Data Modelというデータ構造を導入しています。これにより、時間を指定したアクセスや変更の変遷なども表現できるようになりました。
 
     本セッションではBiTemporal Data Modelとはなにかといった基本的なことから、実戦投入してみて気づいた点、苦労話などを話します。
+
+    Data, which lies at the center of web applications, is what matters most. Smart HR, as a company offering various services on human resources, conducts operations on the data with great care.
+
+    Although data changes from time to time by user and operator activities, ordinary web applications holds only the latest state. This makes it difficult to know when and why a specific change occurred and to access a snapshot at a specific time in the past. There have been needs in SmartHR to track this data change history, since life events such as job changes and dependent additions require data changes in the application.
+
+    In order to solve this issue, we have employed BiTemporal Data Model. This model represents historical changes of data and provides access to the specific past data.
+
+    In this session, I will talk on the basics of BiTemporal Data Model, and share our findings and stories through its employment in production.
   ama_id: null
   presentation_url: null
 
