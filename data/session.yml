@@ -137,6 +137,10 @@ gotchane:
     Railsアプリケーションの開発において、React/Vue.js 等のモダンなフレームワークが台頭し、これまで主流だった  jQuery、Sass で運用されているサービスをリプレースする事例が増えてきています。その一方で、リプレースを検討しつつも、開発規模が大きすぎたり、リソースの確保ができなかったりという理由で、リプレースが進まないケースも多く存在するかと思います。
 
     本セッションでは、そんな既存サービスのリプレースを検討しているエンジニアにとって、SonicGarden の価値観の一つである小口化という考え方を元に、限られたリソースの中でも着々とリプレースを進めていった知見についてお話ししたいと思います。
+
+    Recently, modern frontend frameworks such as React and Vue are getting more and more popular and Rails apps built with jQuery and Sass are getting replaced by those new frameworks. On the other hand, some replaces cannot be done due to the hugeness of the project or lack of resources.
+
+    In this talk, I'd like to talk about the case where we replaced with limited resources based on "making it small", that's one of the core values of SonicGarden.
   ama_id: null
   presentation_url: null
 
