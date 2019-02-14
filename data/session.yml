@@ -212,6 +212,14 @@ idesaku:
     凡庸なエンジニアである私がそれでもフリーランスとして安定して仕事を得られる理由の一つは、そんな「みんなが目を背ける仕事」に喜んで手を出す変わり者である点にあると思えます。
 
     今回は、そんな変わり者がソフトウェア開発で果たしている役割と、その必要性についてお話します。
+
+    I've been involved in many projects as a freelance engineer. I've seen many projects go successful with great engineers.
+
+  However, I've also seen that such great engineers start complaining due to codebase getting larger and larger, automated tests getting slower and slower and deployment getting more and more complex. They understand that's a problem. They can fix it. But they don't because there's no time, business goes first... Is this it?
+
+  I'm an ordinary engineer, but I still have jobs as a freelance engineer. I think one of the reasons is that I'm a strange person and I'm willing to do the work which "nobody really wants to do".
+
+  In this talk, I'll talk about how such a strange person have its role in software development and how important it is.
   ama_id: null
   presentation_url: null
 
@@ -255,6 +263,15 @@ itkrt2y:
 
     話すこと：ESNext, Virtual DOM, Performance, PWA, Web Components
     話さないこと：React/Vue/Angularのどれを使うべき？
+
+    I found many say "frontend development changes so rapidly that I cannot follow".
+
+    I also suspect many backend engineers wonder where to start when learning frontend from now.
+
+    In this talk, I'll look back these several years of frontend development and talk about why we need to learn frontend development now and what to understand so that we can understand modern frontend development.
+
+    In this session\: ESNext, Virtual DOM, Performance, PWA, Web Components
+    Not in this session\: React, Vue and Angular, which to use?
   ama_id: null
   presentation_url: null
 
@@ -298,6 +315,8 @@ katorie:
   name: 加藤 理絵
   description: |
     株式会社ユビレジでは主に3つのプロダクトを、すべて自社メンバーによるチームで開発・運用しています。2015年入社の私の視点から、ここ3年ほどのチームの変遷とこれからについてお話したいと思います。
+
+    In Ubiregi Inc., we develop and run three products all by members from the company. From the point of view of me who joined in 2015, I'll talk about how our team has changed over the past three years and the future of our team.
   ama_id: null
   presentation_url: null
 
@@ -352,6 +371,12 @@ kokuyouwind:
     こうした「見た目」の変化を検知するためのテストがビジュアルテストです。
 
     本セッションでは、capybara screenshotとreg-suitを利用したビジュアルテストの取り組みをご紹介します。
+
+    In E2E tests for Rails applications, we only verify DOM trees so we cannot detect the design collapses.
+
+    Visual test is the test to detect those visual changes.
+
+    In this talk, I'll introduce how to work on visual test using capybara screenshot and reg-suit.
   ama_id: null
   presentation_url: null
 
@@ -363,6 +388,8 @@ komagata:
   name: 駒形 真幸
   description: |
     フィヨルドブートキャンプというプログラミングスクールをはじめて1年経っての難しさや今後の取り組みについてお話します。
+
+    I'll talk about the difficulties I've experienced during building a programming school called Fjord Bootcamp and the future plan.
   ama_id: null
   presentation_url: null
 
