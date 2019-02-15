@@ -841,6 +841,8 @@ y-yagi:
   name: y-yagi
   description: |
     「Roda」というweb frameworkについての紹介をします。普段Railsをお使いの皆様への使いどころについてお話出来ればと思います。
+    
+    I will show a web framework, "Roda". I will talk about its effective use cases for Rails developers.
   ama_id: null
   presentation_url: null
 
