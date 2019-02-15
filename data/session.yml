@@ -565,7 +565,7 @@ pipopotamasu:
 
     本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
 
-    I introduce “mdpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without assets pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
+    I introduce “medpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without assets pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
   ama_id: null
   presentation_url: null
 
