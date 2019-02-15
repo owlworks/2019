@@ -551,6 +551,10 @@ owlworks:
     AskDoctorsはエムスリーが提供する医療系Webサービスの一つです。2005年の提供開始からの13年間で何度か大規模改修を経て、現在はその大部分がRuby on Railsへと置き換えられています。
 
     本セッションではサービスの開発運用で発生した課題や今後の取り組みについてお話します。
+    
+    AskDoctors is one of medical web services provided by M3. The service has undergone several major renovations in 13 years since its first release in 2005, and most of the system is now replaced with Ruby on Rails.
+    
+    In this session, I will talk about the challenges we have faced during its development and operation, and then I will talk about our future actions.
   ama_id: null
   presentation_url: null
 
