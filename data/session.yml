@@ -402,6 +402,10 @@ kyuden:
     平衡二分探索木の一種であり連想配列の実装としても用いられる赤黒木というツリー構造があります。 例えばJavaではTreeMapという赤黒木をベースとした連想配列が提供されていますが、Rubyではこの種の連想配列は提供されていません。
 
     このセッションではRubyのC拡張として実装した赤黒木の実装を用いて、その性能や有効なユースケースなどについて話します。
+    
+    A red-black tree is a kind of self-balancing binary search tree, which can be used for an associative array. Java, by default, provides TreeMap, an associative array based on a red-black tree. On the other hand, Ruby does not.
+
+    In this session, I will show you a Ruby C extension implementation of a red-black tree, and talk about its performance and effective use cases.
   ama_id: null
   presentation_url: null
 
