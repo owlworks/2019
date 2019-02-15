@@ -415,6 +415,10 @@ m-nakamura145:
     皆さんはご飯を食べに行くときにどうやって予約をしていますか? 飲食店のオンライン予約は身近なテーマですが、その複雑さや設計について語られることは少ないです。
 
     本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
+
+    How do you reserve a table at a restaurant? Online restaurant reservations are familiar to us, but we seldom talked about its complexity and its system design.
+
+    In this session, I will talk about how we have thought through the system of an online reservation system, "Toreta"; the system design, the transitions, and the implementation with Ruby on Rails.
   ama_id: null
   presentation_url: null
 
