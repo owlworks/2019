@@ -1,34 +1,41 @@
-undefined1:
+oracle:
   title: AWSだけがクラウドじゃない！ 〜OracleCloudの紹介〜
   belongs: 日本オラクル株式会社
   name: 鈴木 達也
+  lang: ja
 
-undefined2:
-  title: TBA
+repro:
+  title: とある会社の採用目的<リクルーティング>
   belongs: 株式会社Repro
-  name: 未定
+  name: 橋立 友宏
+  lang: ja
 
-undefined3:
-  title: TBA
+storesjp:
+  title: Just For Fun! 野心ある小さなチームを支える STORES.jp
   belongs: STORES.jp
-  name: 未定
+  name: 塚原 文奈
+  lang: ja
 
-undefined4:
-  title: TBA
+speee:
+  title: Railsdmへの意気込みをお届けします
   belongs: 株式会社Speee
-  name: 未定
+  name: 山口 啓佑
+  lang: ja
 
-undefined5:
-  title: TBA
+medpeer:
+  title: MedPeerの取り組みの「失敗」の話をしよう
   belongs: メドピア株式会社
-  name: 未定
+  name: 保立 馨
+  lang: ja
 
-undefined6:
-  title: TBA
+lovegraph:
+  title: アート×テクノロジーでオンリーワンの企業になりたい
   belongs: 株式会社ラブグラフ
-  name: 未定
+  name: 駒下 純兵
+  lang: ja
 
-undefined7:
+esa:
   title: <a href="https://docs.esa.io/posts/314" target="_blank" rel="noopener noreferrer">春のesa自慢 〜みなさんの自慢のesa記事紹介します！〜</a>
   belongs: esa LLC
   name: "@ken_c_lo, @ppworks"
+  lang: ja
