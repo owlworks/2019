@@ -1,7 +1,7 @@
 - session = data.session[github_id]
 .timetable__section.timetable__section--session
   %ul.category
-    %li.label SESSION (#{session[:lang]}): #{label}
+    %li.label SESSION: #{label} (#{session[:lang]})
     - unless github_id.start_with?("undefined")
       %li @#{github_id}
   %h3.title
