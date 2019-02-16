@@ -10,6 +10,10 @@ takahashim:
     Rails developersである私たちにとっても、それは無縁ではありません。
 
     本セッションでは、Ruby歴約20年のRubyistから見た、中年を過ぎてもプログラマを続けていくことの壁とその乗り越え方、そもそも乗り越えるべきか否か、というか「乗り越える」とは何なのかについて、Railsプログラマの方をターゲットにしてお話しします。
+
+    In Japan, there is a famous hypothesis called "programmers' retirement age of 35". The hypothesis is often denied recently, but it's true that senior engineer faces with many difficulties.  We Rails developers are not exceptions.
+
+    In this session, I, as a developer using Ruby since the 20th century, will talk about what are difficulties to continue to be a programmer, how to continue, whether or not should continue anyway, and what is "continuing to be a programmer" at all.
   ama_id: null
   presentation_url: null
 
