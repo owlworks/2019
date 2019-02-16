@@ -954,5 +954,7 @@ yui-knk:
   name: 金子 雄一郎
   description: |
     最近 PostgreSQL のコードを読みながら小さな DB を少しずつ実装しています。この発表ではステップバイステップで DB を作って行く工程についてお話したいと思います。
+    
+    Recently, I have been reading the source code of PostgreSQL and implementing a small database. In this session, I will talk about the process of making a database step by step.
   ama_id: null
   presentation_url: null
