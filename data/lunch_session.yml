@@ -3,6 +3,7 @@ undefined1:
   belongs: Quipper LTD
   name: 未定
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -11,6 +12,7 @@ undefined2:
   belongs: 株式会社万葉
   name: 未定
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -19,6 +21,7 @@ undefined3:
   belongs: 株式会社スタディスト
   name: 未定
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -27,6 +30,7 @@ undefined4:
   belongs: 株式会社リンクアンドモチベーション
   name: 未定
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -35,6 +39,7 @@ undefined5:
   belongs: 株式会社FiNC Technologies
   name: 未定
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -43,5 +48,6 @@ undefined6:
   belongs: 株式会社SmartHR
   name: 未定
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null

@@ -14,6 +14,7 @@ takahashim:
     In Japan, there is a famous hypothesis called "programmers' retirement age of 35". The hypothesis is often denied recently, but it's true that senior engineer faces with many difficulties.  We Rails developers are not exceptions.
 
     In this session, I, as a developer using Ruby since the 20th century, will talk about what are difficulties to continue to be a programmer, how to continue, whether or not should continue anyway, and what is "continuing to be a programmer" at all.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -25,5 +26,6 @@ jeremy:
     Let's preview what's new in the Rails 6 beta! We'll examine how Rails 6 makes its biggest steps forward by extracting strong patterns from mature apps and breathing new life into them: Action Text and Action Mailbox frameworks, multi-database support, parallel testing, and more.
 
     ［主催者より］本セッションは、英語での講演となります。同時通訳はございませんので、予めご了承ください。
+  lang: en
   ama_id: null
   presentation_url: null
