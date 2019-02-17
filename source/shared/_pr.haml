@@ -1,7 +1,7 @@
 - session = data.pr[id]
 .timetable__section.timetable__section--session
   %ul.category
-    %li.label.label--pr PR
+    %li.label.label--pr PR (#{session[:lang]})
   - if session[:title]
     %h3.title
       = session[:title]

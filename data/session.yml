@@ -20,6 +20,7 @@
     Charty is open-source Ruby library for visualizing your data in a simple way.
     In Charty, you need to write very few lines of code for representing what you want to do.
     It lets you focus on your analysis of data, instead of plotting.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -36,6 +37,7 @@ aeroastro:
     When separated frontend team and backend team cooperate on the same project, they sometimes have difficulties in correctly and efficiently sharing the API information, the interface between the teams. This is the case not only in web application development but also in game backend development.
 
     In this session, the effectiveness of Schema First Development will be presented. Also, as an example of its application in game development, we will take a look at Rails with Protocol Buffers.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -53,6 +55,7 @@ amatsuda:
     But in some other cases that we couldn't find a plugin that cover our real world requirements, the best solution is to develop our own plugins.
 
     In this session, we'll explore tips and practices for designing and crafting Rails plugins through our daily application development.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -65,6 +68,7 @@ banyan:
     Rails has webpacker to use webpack easily.
 
     Let's see how framework and buildtool handle webpack.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -82,6 +86,7 @@ emorima:
     The first Rails Girls event in Japan was held in 2012. We will celebrate the 50th events on Nagoya 1st in May 2018.
 
     I will talk on the history and future of Rails Girls in Japan.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -107,6 +112,7 @@ f440:
     In order to solve this issue, we have employed BiTemporal Data Model. This model represents historical changes of data and provides access to the specific past data.
 
     In this session, I will talk on the basics of BiTemporal Data Model, and share our findings and stories through its employment in production.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -124,6 +130,7 @@ fujimura:
     Name is a tool what we are using on daily work as programmer, but it’s mechanism isn’t known so much. Especially on naming things, what we do is just asking for common sense instead of using a theory of good name.
 
     In this talk I’ll try to make a better understanding on name and naming things with contemporary philosophy.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -141,6 +148,7 @@ gotchane:
     Recently, modern frontend frameworks such as React and Vue are getting more and more popular and Rails apps built with jQuery and Sass are getting replaced by those new frameworks. On the other hand, some replaces cannot be done due to the hugeness of the project or lack of resources.
 
     In this talk, I'd like to talk about the case where we replaced with limited resources based on "making it small", that's one of the core values of SonicGarden.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -162,12 +170,13 @@ hanachin:
 
     Do you conduct code reviews?
 
-    In this session, in order to achieve "no code review", I will talk on the following topics.
+    In this session, in order to achieve "no code reviews", I will talk on the following topics.
 
     * The things you do in the code reviews.
     * Why you do the things in the code reviews.
     * How to avoid the things in the code reviews.
     * The decision to conduct "no code reviews".
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -181,6 +190,7 @@ hokaccha:
     クックパッドの Rails アプリケーションは世界でも有数な巨大モノリックアプリケーションです。その巨大さゆえに、機能の追加やメンテナンスがまともにできる状態ではありませんでした。その問題を解決するためにコード削減やシステム分割などの様々な施策を積み重ね、ようやく成果が出てきました。そのような施策で得られた知見や今後の展望について紹介します。
 
     The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent ones. Various kinds of measures have been carried out to solve this issue such as reducing the lines of code and breaking the system down to smaller ones. These are now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -195,6 +205,7 @@ hsbt:
     The new version of RubyGems has many of improvements, bug fixes and some incompatibilities. I put them into the changelog that is https://blog.rubygems.org/2018/12/19/3.0.0-released.html. But its changelog was generated from github pull-request. So it's not human-readable article.
 
     I will describe the details of RubyGems 3.0 changes and the future plan of RubyGems 4.0.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -215,11 +226,12 @@ idesaku:
 
     I've been involved in many projects as a freelance engineer. I've seen many projects go successful with great engineers.
 
-  However, I've also seen that such great engineers start complaining due to codebase getting larger and larger, automated tests getting slower and slower and deployment getting more and more complex. They understand that's a problem. They can fix it. But they don't because there's no time, business goes first... Is this it?
+    However, I've also seen that such great engineers start complaining due to codebase getting larger and larger, automated tests getting slower and slower and deployment getting more and more complex. They understand that's a problem. They can fix it. But they don't because there's no time, business goes first... Is this it?
 
-  I'm an ordinary engineer, but I still have jobs as a freelance engineer. I think one of the reasons is that I'm a strange person and I'm willing to do the work which "nobody really wants to do".
+    I'm an ordinary engineer, but I still have jobs as a freelance engineer. I think one of the reasons is that I'm a strange person and I'm willing to do the work which "nobody really wants to do".
 
-  In this talk, I'll talk about how such a strange person have its role in software development and how important it is.
+    In this talk, I'll talk about how such a strange person have its role in software development and how important it is.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -243,6 +255,7 @@ ikedaosushi:
     Kaizen Platform is the company that collects access logs from our tags embedded in web sites of client, analyse these logs, and improve UI/UX of many web sites.  Why you couldn’t utilize access logs? How could you communicate with other departments?
 
     In this session, I’m going to talk about practice and techniques to get good insight from access logs based on our experience.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -272,6 +285,7 @@ itkrt2y:
 
     In this session\: ESNext, Virtual DOM, Performance, PWA, Web Components
     Not in this session\: React, Vue and Angular, which to use?
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -292,6 +306,7 @@ joker1007:
     That is Repro's key feature and very difficult.
 
     I talk about how we realized these feature by Rails base application and also about how our architecture has evolved (for example distributed database, data format, ETL, Generating SQL).
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -304,6 +319,7 @@ k0kubun:
     Ruby 2.6ではJITでRailsを速くすることができなかったため、Ruby 2.7のJITではRailsのようなユースケースを高速化することをゴールに置いています。本発表では、それが現時点でどれくらい上手くいきそうか、といった話をしようと思います。
 
     As Ruby 2.6.'s JIT didn't optimize Rails applications so much, we're focusing on optimizing Rails application performance in Ruby 2.7 development. In this talk, you'll know how fast Rails could be on Ruby 2.7.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -317,6 +333,7 @@ katorie:
     株式会社ユビレジでは主に3つのプロダクトを、すべて自社メンバーによるチームで開発・運用しています。2015年入社の私の視点から、ここ3年ほどのチームの変遷とこれからについてお話したいと思います。
 
     In Ubiregi Inc., we develop and run three products all by members from the company. From the point of view of me who joined in 2015, I'll talk about how our team has changed over the past three years and the future of our team.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -333,6 +350,7 @@ knu:
     The Enumerable module has been one of the most beloved features in Ruby. I have been working on making it even more useful by introducing the Enumerator class and extending it as a framework.
 
     In this session I will talk about how Enumerator was discussed and created, how it has evolved as a framework, and how exactly we can make it even better going forward.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -347,6 +365,7 @@ koic:
 
     Ruby's regional communities, open source communities, and conferences are connected. I will talk you that our Ruby life will become more fun.
     So Ruby makes programmers happy.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -356,6 +375,7 @@ koichiroo:
   belongs: 株式会社Speee
   name: 大場 光一郎
   description: null
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -377,6 +397,7 @@ kokuyouwind:
     Visual test is the test to detect those visual changes.
 
     In this talk, I'll introduce how to work on visual test using capybara screenshot and reg-suit.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -390,6 +411,7 @@ komagata:
     フィヨルドブートキャンプというプログラミングスクールをはじめて1年経っての難しさや今後の取り組みについてお話します。
 
     I'll talk about the difficulties I've experienced during building a programming school called Fjord Bootcamp and the future plan.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -403,9 +425,10 @@ kyuden:
 
     このセッションではRubyのC拡張として実装した赤黒木の実装を用いて、その性能や有効なユースケースなどについて話します。
 
-    There's a tree structure called "red black tree", which is one of the self-balancing binary search tree and used to implement associative arrays. For instance, Java provides "TreeMap" associative array structure based on red black tree. However, Ruby doesn't provide such associative arrays.
+    A red-black tree is a kind of self-balancing binary search tree, which can be used for an associative array. Java, by default, provides TreeMap, an associative array based on a red-black tree. On the other hand, Ruby does not.
 
-    In this talk, I'll talk about the performance and use cases of red black tree implemented as Ruby's C extension.
+    In this session, I will show you a Ruby C extension implementation of a red-black tree, and talk about its performance and effective use cases.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -420,9 +443,11 @@ m-nakamura145:
 
     本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
 
-    How do you make a reservation when you go out for a lunch or a dinner? Online reservations for restaurants is a common topic, but it's less common to talk about the complexity and the design for it.
 
-    In this talk, I'll talk about what we've been considering for the design and changes of our reservation system called Toreta, and how to realize it with Ruby on Rails.
+    How do you reserve a table at a restaurant? Online restaurant reservations are familiar to us, but we seldom talked about its complexity and its system design.
+
+    In this session, I will talk about how we have thought through the system of an online reservation system, "Toreta"; the system design, the transitions, and the implementation with Ruby on Rails.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -436,6 +461,7 @@ masa-iwasaki:
     ウェブサービスをゼロから開発して徐々に規模を大きくしていく過程では、CI環境の準備などサービス開発を続けていく上で開発チーム自身が準備をしなくてはいけないツール群が多くあります。これらの問題は多くのチームで共通にみられることから、世の中には様々なSaaSツールが用意されています。優れたサービスはそれなりの価格設定がされているものですが、場合によっては有料サービスを利用することにより、チームがサービス開発に集中できる時間を増やすという戦略も取ることができます。この発表では、私自身が仕事やプライベートで使っている開発支援系のツールに関する紹介と導入する場合の考え方や検討事項などについてお話します。
 
     In the early stage of web service development, you need to set up many tools to support yourselves and your services. Because this is a one of common issues among developer teams, there are many SaaS providers for the problem. Although services provided by them usually seems to be expensive, you can buy time for your team and accelerating service development. I will talk about the services I have tried and how to think about pros and cons including various costs to use them.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -465,6 +491,7 @@ moro:
     I feel that web apps nowadays is the place for many people from many backgrounds work together in.
 
     In this talk, I'll talk about what I do and I'd like to do to provide values for the place where many people live as a web engineer.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -479,6 +506,7 @@ Morred:
     To keep your users (and your manager) happy, you need to make sure that your app is fast and reliable even under increased load. But what if your company is small and can't afford to upgrade their servers every two weeks?
 
     In this talk, we will discuss ways to make Rails apps faster, more streamlined and more resource efficient without having to spend a lot of money. I will share real world examples of relevant problems, how to locate them, and how to solve them while reducing the need to constantly scale your infrastructure.
+  lang: en
   ama_id: null
   presentation_url: null
 
@@ -489,6 +517,7 @@ mrkn:
   name: 村田 賢太
   description: |
     I will talk about the activity in Japan to make Ruby ready-to-use in the data science field. Moreover, I'd like to introduce the impact that its achievements have on Rails applications.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -505,6 +534,7 @@ mtsmfm:
     Big project has unstable tests. Rails also has some unstable tests.
 
     In this talk, I'd like to share the result of analyzing the build results and how to find unstable tests.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -522,6 +552,7 @@ nay:
     We have been carrying out our Rails training program for new employees for over 2 years in Everyleaf Corporation. In those trainings, many pull requests had been reviewed by other employees.
 
     In this talk I'm going to introduce an analysis of code review comments of those pull requests and think about the important points in learning Rails, supporting beginners and code review styles.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -539,6 +570,7 @@ onk:
     I'll compress and talk about what I wrote for an advent calendar when I created an internal tool for our company.
 
     The topics are such as What I thought about when I used certain technology. For example, I'll talk about how I think about CommonMark in terms of markdown and how to deal with it in Ruby, and what to care about when we implement file upload feature. You'll be able to decide everything when creating a Rails app from scratch after joining this talk.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -568,6 +600,7 @@ ota42y:
     In this talk, I'll organize the information of microservices based on our past experiences and provide the factor to decide you should adopt microservices or not and the information of how to adopt microservices better and improve the environment.
 
     So this talk is for those who consider to adopt microservices or who is already adopting and facing it.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -582,9 +615,10 @@ owlworks:
 
     本セッションではサービスの開発運用で発生した課題や今後の取り組みについてお話します。
 
-    AskDoctors is one of the medical web services M3 provides. We started it in 2005 and have improved and repaired for some times, and now it's mostly Ruby on Rails application.
+    AskDoctors is one of medical web services provided by M3. The service has undergone several major renovations in 13 years since its first release in 2005, and most of the system is now replaced with Ruby on Rails.
 
-    In this talk, I'll talk about the tasks we encountered in the development and operation of it and the future attempt.
+    In this session, I will talk about the challenges we have faced during its development and operation, and then I will talk about our future actions.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -599,7 +633,8 @@ pipopotamasu:
 
     本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
 
-    I introduce “mdpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without assets pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
+    I introduce “medpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without assets pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -617,6 +652,7 @@ r7kamura:
     I'll review the upgrades of the Rails applications I've worked on, pick up the problems which I encountered and are especially good and introduce them with the code.
 
     I'd like to talk about more realistic stories about upgrading Rails versions. Main target versions are Rails 4, 5 and 6.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -653,6 +689,7 @@ radioboo:
       I'll introduce how to manage computing resources and scale it so that it can edit and transcode files rapidly with unique problems and requirements for dealing with a number of movie files.
 
     Keywords\: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -665,7 +702,8 @@ risacan:
   description: |
     2017年の12月にSmartHRに入社してから1年が経ちました。一緒にはたらく開発グループのメンバーは2倍になり、プロダクトも増えました。サービスの成長とともに開発グループがどのように変化していったか、自分自身にどのような変化があったかをお話します。
 
-    One year has passed since I joined SmartHR in December, 2017. The number of members in our development teams got doubled, and the number of our products also grew. I'll talk about how development team changed following the growth of the service, and how I myself changed.
+    1 year has passed since I joined SmartHR in December 2017. The number of development team members has doubled, and the number of products has also increased. I will talk about how the team and myself have changed along with the growth of our service.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -683,6 +721,7 @@ rlho:
     I feel that topics about female engineers are mostly negative, and we're reluctant to talk about it. I've worked as a software engineer over 4 years, and joined female engineers community and met lots of female engineers.
 
     I'll talk about the reason why there are a few female engineers and what's the problem. This talk doesn't contain any technical aspect.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -696,6 +735,7 @@ rust:
     talentio.com は 2016年のサービスリリースから3年あまりが経ち、アーキテクチャも古く、メンテナンスされていないコードがあるなど、開発や運用の生産性を低下させかねない状況になっていました。
 
     そんな状況の中で、悪戦苦闘しながら近代化してきた旅路をお話します。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -709,6 +749,7 @@ siman-man:
     Ruby には RubyVM::AbstractSyntaxTree、TracePoint といったコードを解析するための機能が備えられており、また、コードを解析するための gem が多く存在しています。これらのコード解析は大きく分けて「静的」「動的」の 2つに分けられます。
 
     本セッションではこの 2つの解析手法の違いと、それぞれどのような情報が得られ開発に役立てることが出来るのかについて紹介しようと思います。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -720,6 +761,7 @@ sinamon129:
   name: 片山 潮美
   description: |
     2018年7月に1人目のバックエンドエンジニアとして入社し、WordPressで動いていた既存システムをRuby・Ruby on Rails・GCP（GKE）でフルリニューアルしました。その際の技術選択の戦略・システム構成と、リニューアル後のメリットデメリット・同僚がjoinして改善された部分をメインに、その後の職域を超えてのスタートアップでのリアルな奮闘もお話できればと思います。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -742,6 +784,7 @@ sinsoku:
     * Railsアプリケーションのデプロイ
 
     Railsアプリに関する話はありませんが、その外側の世界を話したいと思います。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -755,6 +798,7 @@ taiki-t:
     書籍の翻訳、起業と失敗。起業して失敗したエンジニアはどうなるのか。死ぬほど失敗してもなんとかなるという、頑張りたい人の背中を押せる話をしたいです。
 
     A case study of an engineer who have failed many times. Telling that engineers can make own life even they failed after starting a business.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -770,6 +814,7 @@ takatoshi-maeda:
     しかし良い学びを得ながらサービスを改善していく作業は、明確な答えはなく非常に難しい作業です。
 
     本セッションでは、私がWebサービスの開発者として8年間試行錯誤をしてきた体験から、サービスの成長を加速させるため、より良いサービスを形作るための仮説検証への向き合い方、組織文化の醸成についてお話します。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -785,6 +830,7 @@ takkanm:
     プロジェクトにどのように向かっているか、チームでの開発のとき何を意識しているか、新しくやってきた人に何を伝えているかなどを話します。
 
     Rails な受託会社の一部をお見せできればと思います。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -800,6 +846,7 @@ taogawa:
     Railsアプリケーションは一定の規模になってくるとRailsのレールから外れるシーンも増えてきます。その一方でレールから外れた際にどうするか、定番のパターンとされるものはありますが、そのノウハウはまだまだ共有はされていない印象です。
 
     本セッションではキッチハイクがレールから外れた際に試行錯誤してきた設計パターンについて、成功 / 失敗の体験談含めてお話したいと思います。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -815,6 +862,7 @@ tawachan:
     This session mainly discusses the IT architecture that one of pixiv's products, pixiv chatstory adopts to enable us the small team (2-4 engineers) to develop the both web and native apps quickly but with less bugs, using Rails as an API server deployed onto Heroku.
 
     Keywords: Rails, Heroku, Swagger, CloudFront, ImageFlux, Firebase, PWA, Angular, Ionic, ReactNative, Expo.io
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -834,6 +882,7 @@ ujihisa:
     It gets harder to make changes against your service when you have larger scale of users. For example when you modify a part `x` for showing users A which used to be B, it might also impacts C and D unintentionally, and things may get broken. Potential solutions for that kind of problems are static analysis, an ideal well-covered integration test to detect changes automatically, read the entire source code by yourself, or do the best job at human testing. My talk on the other hand focuses on a very rough, thoughtless, and dirty approach, assuming human beings are lazy and not smart enough. I'll demonstrate with empirical concrete examples that had actually happened in my experience.
 
     Keywords: Microservices, feature toggles, canary release, and circuit breaker
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -847,6 +896,7 @@ unak:
     Webアプリケーションの開発にあたっては、現代においては大量の画像を扱わないといけないことは明らかである。その際には、サイズ変換・フォーマット変換・転送量削減といったあたりは当然に必要となる。単純に見えて実は落とし穴がいっぱいなこうした画像変換の中身について、技術的側面から説明する（※デザインの話はしません）
 
     To develop web applications, we obviously must handle many images. In this case, we are requested some processings such as scaling, format conversion, data size reduction and so on. They seem simple at first glance, but there are many pit falls. This talk will explain the internal of such image processing from technical aspect (does not treat designs).
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -864,6 +914,7 @@ upinetree:
     In many of teams around me, discussing how to writing CSS is less often than Ruby or JavaScript code. In such teams, CSS is written by touch and reviewing it is insufficient, hence building technical debt of CSS is easy and detecting it before bottlenecks become obvious is difficult.
 
     In this talk I consider why the such problems happen and how to make handling policies of CSS in the team. Then I describe how to deal with technical debt of CSS with case studies.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -877,6 +928,7 @@ ursm:
     2018年2月、オーム社の電子書籍ストア「オーム社 eBook Store」が8年に亘る歴史に幕を閉じました。開発者であった立場から eBook Store がどうやって作られていたかをお話しします。
 
     The e-book store by Ohmsha Ltd. which is a publisher of science and engineering books was closed in February 2018. As a developer of the e-book store, I will tell you how it was developed.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -889,6 +941,7 @@ willnet:
     およそ2年前、第1回目のRails Developers Meetupで「Clean Test Code」というタイトルで登壇しました。当時それなりに反響があったと感じていますが、現実世界で厳しいテストコードを見る機会はまだまだ多く、当時話した「きれいなテストコードを書くためのコツ」は十分に普及されているとは言い難い状況です。
 
     前回の登壇から2年たち、その間得たフィードバックから前回の「Clean Test Code」をもう少し前に進めることができそうです。この発表で厳しいテストコードが少しでも減り、RailsエンジニアのQOLが少しでも上がることを願っております。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -899,6 +952,9 @@ y-yagi:
   name: y-yagi
   description: |
     「Roda」というweb frameworkについての紹介をします。普段Railsをお使いの皆様への使いどころについてお話出来ればと思います。
+
+    I will show a web framework, "Roda". I will talk about its effective use cases for Rails developers.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -910,6 +966,7 @@ yahonda:
   name: 本多 康夫
   description: |
     Active Record Oracle enhanced adapterのメンテナーとして、Rails 3.2から最新の5.2までの開発の歴史を振り返り、Rails 6に向けた展望をお話しします。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -929,6 +986,7 @@ yancya:
     では、GraphQL のサーバーサイド実装に SQLQL の考え方を取り入れてみたらどうなるか、という発想になるのは自然ですよね。
 
     本講演では、もしも SQLQL の延長線上に GraphSQL がいるのだとしたらこういう設計になる、という考えを実験した結果を発表します。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -946,6 +1004,7 @@ yasaichi:
     In the past Rails Developers Meetup, there were some talks on how to organize your code inside or outside “The Rails Way”, but none on why on earth we have to do so.
 
     In this talk, I’ll try to answer this question picking up what DHH™ said in his past interviews and publications. First, I’ll reveal the problem he wanted to solve and the approach he took for the framework. Then, I’ll show you a situation the approach doesn't work well. Finally, I’ll tell you my thoughts on how to deal with it.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -959,6 +1018,7 @@ yoshuki:
     自分が個人事業主として働いてきた10年を、なぜ始まり、なにを考え、どう過ごしてきたか、それぞれのタイミングで悩んだこと、出した結論、その理由などを交え、お話しします。
 
     すでに周辺の状況が変わっており古くなっているものもありますが、まずは聞き物として、そして一部でも同じような立場の方の参考になれば幸いです。
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -976,6 +1036,15 @@ yoshiori:
     何を話していも良いと言われたので、 Cookpad で Chaos Engineering 導入を決断するまでに至った歴史と僕の中でどう考えてそうなったかを話そうと思います。
 
     完全に自分の趣向 120% なのでオタクが興味ある事を早口で嬉々として喋ってるような発表になっちゃうと思います:) それでも良ければ是非聞きにきてください!!
+
+    Note: The title is not just a combination of buzzwords.
+
+    When I was asked for this session, the topics of my presentations then had been limited to organizations and recruiting. I was wondering what to talk about with my pent-up rage for technological topics.
+
+    With no strict rules on the topics, I decided myself to talk about the history and underlying thought of Cookpad toward the decision of employing Chaos Engineering.
+
+    The session will be composed of 120% of my passion for specific technologies, and it will be provided as a nonstop nerd talk. :) If you feel comfortable, join us!
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -993,6 +1062,7 @@ youchan:
     Opal is a compiler which convert from Ruby to JavaScript. With Opal you can build applications run on the browser by Ruby. I had ever been creating frameworks to write rich browser applications in Opal.
 
     This talk introduces that frameworks.
+  lang: ja
   ama_id: null
   presentation_url: null
 
@@ -1004,5 +1074,8 @@ yui-knk:
   name: 金子 雄一郎
   description: |
     最近 PostgreSQL のコードを読みながら小さな DB を少しずつ実装しています。この発表ではステップバイステップで DB を作って行く工程についてお話したいと思います。
+
+    Recently, I have been reading the source code of PostgreSQL and implementing a small database. In this session, I will talk about the process of making a database step by step.
+  lang: ja
   ama_id: null
   presentation_url: null
