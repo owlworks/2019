@@ -402,6 +402,10 @@ kyuden:
     平衡二分探索木の一種であり連想配列の実装としても用いられる赤黒木というツリー構造があります。 例えばJavaではTreeMapという赤黒木をベースとした連想配列が提供されていますが、Rubyではこの種の連想配列は提供されていません。
 
     このセッションではRubyのC拡張として実装した赤黒木の実装を用いて、その性能や有効なユースケースなどについて話します。
+
+    There's a tree structure called "red black tree", which is one of the self-balancing binary search tree and used to implement associative arrays. For instance, Java provides "TreeMap" associative array structure based on red black tree. However, Ruby doesn't provide such associative arrays.
+
+    In this talk, I'll talk about the performance and use cases of red black tree implemented as Ruby's C extension.
   ama_id: null
   presentation_url: null
 
@@ -415,6 +419,10 @@ m-nakamura145:
     皆さんはご飯を食べに行くときにどうやって予約をしていますか? 飲食店のオンライン予約は身近なテーマですが、その複雑さや設計について語られることは少ないです。
 
     本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
+
+    How do you make a reservation when you go out for a lunch or a dinner? Online reservations for restaurants is a common topic, but it's less common to talk about the complexity and the design for it.
+
+    In this talk, I'll talk about what we've been considering for the design and changes of our reservation system called Toreta, and how to realize it with Ruby on Rails.
   ama_id: null
   presentation_url: null
 
@@ -434,7 +442,7 @@ masa-iwasaki:
 moro:
   title:
     全体がいい感じになるために、私たちRailsをホームにするWeb技術者ができること
-    <span>What we, Rails programmer, can do to let our whole system grow.</span>
+    <span>What we, Rails developers, can do to let our whole system grow.</span>
   belongs: 株式会社エス・エム・エス
   name: 諸橋 恭介
   description: |
@@ -447,6 +455,16 @@ moro:
     このように、このごろのWebアプリは、いろんな背景や職能を持った人たちの日々の仕事が交わる場となっていると、話者は感じています。
 
     このセッションでは、いちWeb技術者として、多くの人が住まう場に対して提供したい価値について、できていることとできるようになりたいことを話したいと思います。
+
+    In web service development nowadays, it's getting less common for us to build services only by server side technologies.
+
+    However, it doesn't mean we don't need server side web technologies or we don't use frameworks such as Rails anymore.
+
+    We use web frameworks such as Rails in so many cases, such as web apps for small start, API for mobile apps and SPA, interfaces for user analysis and providing suggestions and business apps for staffs.
+
+    I feel that web apps nowadays is the place for many people from many backgrounds work together in.
+
+    In this talk, I'll talk about what I do and I'd like to do to provide values for the place where many people live as a web engineer.
   ama_id: null
   presentation_url: null
 
@@ -517,6 +535,10 @@ onk:
     先日社内ツールを作ったときに社内アドベントカレンダーを書いたので、その内容をギュッとまとめてお伝えします。
 
     どの技術を使うときにどんなことを考えたのか (e.g. markdown の中の CommonMark の位置づけと Ruby からはどう扱うと良いのかとか、ファイルアップロード時に気にしなければいけないこととか) といった内容で、全部聞くと「Rails アプリを一から作るときに判断ができる」状態になります。
+
+    I'll compress and talk about what I wrote for an advent calendar when I created an internal tool for our company.
+
+    The topics are such as What I thought about when I used certain technology. For example, I'll talk about how I think about CommonMark in terms of markdown and how to deal with it in Ruby, and what to care about when we implement file upload feature. You'll be able to decide everything when creating a Rails app from scratch after joining this talk.
   ama_id: null
   presentation_url: null
 
@@ -538,6 +560,14 @@ ota42y:
     自分の組織に取り入れるか・しないかを判断するのに必要な材料や、どのように入れると良いのか、いまより良い状態にはどう持っていくべきかといった情報を提供します。
 
     そのため、マイクロサービスを考えている人、やっている人といったマイクロサービスと向き合う必要がある人達に向けた発表になります。
+
+    Nowadays, microservices is the topic you cannot avoid, no matter which you adopt it or not.
+
+    However, the concept of microservices involves so many aspects such as frontend, backend, infrastructures and organization, so it's very hard to understand the whole image and create the structure required to solve the problems.
+
+    In this talk, I'll organize the information of microservices based on our past experiences and provide the factor to decide you should adopt microservices or not and the information of how to adopt microservices better and improve the environment.
+
+    So this talk is for those who consider to adopt microservices or who is already adopting and facing it.
   ama_id: null
   presentation_url: null
 
@@ -551,6 +581,10 @@ owlworks:
     AskDoctorsはエムスリーが提供する医療系Webサービスの一つです。2005年の提供開始からの13年間で何度か大規模改修を経て、現在はその大部分がRuby on Railsへと置き換えられています。
 
     本セッションではサービスの開発運用で発生した課題や今後の取り組みについてお話します。
+
+    AskDoctors is one of the medical web services M3 provides. We started it in 2005 and have improved and repaired for some times, and now it's mostly Ruby on Rails application.
+
+    In this talk, I'll talk about the tasks we encountered in the development and operation of it and the future attempt.
   ama_id: null
   presentation_url: null
 
@@ -579,6 +613,10 @@ r7kamura:
     これまで自分が担当してきた幾つかのRailsアプリのアップデートを振り返り、遭遇してきた問題から特に良かったものをピックアップし、コードを交えながら紹介していきます。
 
     Railsのバージョンを上げるということについて、より現実的な話をお伝えできればと思います。主にRails 4、5、6を対象としています。
+
+    I'll review the upgrades of the Rails applications I've worked on, pick up the problems which I encountered and are especially good and introduce them with the code.
+
+    I'd like to talk about more realistic stories about upgrading Rails versions. Main target versions are Rails 4, 5 and 6.
   ama_id: null
   presentation_url: null
 
@@ -601,6 +639,20 @@ radioboo:
     大量でしかも動画ファイルを対象にした独特の課題や要件がある中で、コンピュートリソースをどのように扱い、スケールさせ、高速な編集・トランスコードを実現しているかをご紹介したいと思います。
 
     キーワード: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
+
+    Inside the family album service called Mitene (https://mitene.us), we have a microservice called Transcoder. It's specialized to rapidly transcode and add detailed customizations to hundreds of millions of files users upload with varieties of file sizes and formats. In this talk, I'll introduce the internal design and implementation of Transcoder as in detail as possible.
+
+    Here's the agenda.
+
+    - Why do we create our own service, not adopt other managed services?
+
+      There are so many managed services for similar purpose. I'll explain why we needed to create it on our own instead of using such services.
+
+    - How does it edit and transcode hundreds of millions of movie files so rapidly?
+
+      I'll introduce how to manage computing resources and scale it so that it can edit and transcode files rapidly with unique problems and requirements for dealing with a number of movie files.
+
+    Keywords\: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
   ama_id: null
   presentation_url: null
 
@@ -612,6 +664,8 @@ risacan:
   name: 渡邊 梨沙
   description: |
     2017年の12月にSmartHRに入社してから1年が経ちました。一緒にはたらく開発グループのメンバーは2倍になり、プロダクトも増えました。サービスの成長とともに開発グループがどのように変化していったか、自分自身にどのような変化があったかをお話します。
+
+    One year has passed since I joined SmartHR in December, 2017. The number of members in our development teams got doubled, and the number of our products also grew. I'll talk about how development team changed following the growth of the service, and how I myself changed.
   ama_id: null
   presentation_url: null
 
@@ -625,6 +679,10 @@ rlho:
     女性エンジニアにまつわる話はマイナスな話題が目につきやすく触れにくい話題になっていると感じています。エンジニアとして働いて4年。女性エンジニアコミュニティに携わって女性エンジニアの方に多くお会いしました。
 
     その中で私自身が感じている、なぜ女性エンジニアが少ないのか、何が問題なのかについてお話しします。エモ100%です。
+
+    I feel that topics about female engineers are mostly negative, and we're reluctant to talk about it. I've worked as a software engineer over 4 years, and joined female engineers community and met lots of female engineers.
+
+    I'll talk about the reason why there are a few female engineers and what's the problem. This talk doesn't contain any technical aspect.
   ama_id: null
   presentation_url: null
 
