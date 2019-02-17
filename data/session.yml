@@ -783,6 +783,19 @@ sinsoku:
     * Railsアプリケーションのデプロイ
 
     Railsアプリに関する話はありませんが、その外側の世界を話したいと思います。
+
+    I assume most of Rails developers have chances to use AWS, whereas few of them have deep understanding of AWS.
+
+    Especially, engineers who mainly use AWS Management Console tend to have difficulty building infrastructure as code.
+
+    In this session, I will talk about what I have done in order to let Terraform manage our infrastructure on AWS and to keep the infrastructure automatically updated as CI:
+
+    * Basic Knowledge on AWS IAM
+    * Settings for Automatic Update of Infrastructure
+    * Design of AWS IAM roles
+    * Deployment of Rails Application
+
+    The talk will be focused not on Rails applications but on their surrounding world.
   lang: ja
   ama_id: null
   presentation_url: null
