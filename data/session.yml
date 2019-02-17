@@ -283,8 +283,8 @@ itkrt2y:
 
     In this talk, I'll look back these several years of frontend development and talk about why we need to learn frontend development now and what to understand so that we can understand modern frontend development.
 
-    In this session\: ESNext, Virtual DOM, Performance, PWA, Web Components
-    Not in this session\: React, Vue and Angular, which to use?
+    In this session: ESNext, Virtual DOM, Performance, PWA, Web Components
+    Not in this session: React, Vue and Angular, which to use?
   lang: ja
   ama_id: null
   presentation_url: null
@@ -443,7 +443,6 @@ m-nakamura145:
 
     本発表では「トレタ」という予約システムの設計と変遷、それを実現するRuby on Railsでの実装について我々が考え抜いてきたことをお話します。
 
-
     How do you reserve a table at a restaurant? Online restaurant reservations are familiar to us, but we seldom talked about its complexity and its system design.
 
     In this session, I will talk about how we have thought through the system of an online reservation system, "Toreta"; the system design, the transitions, and the implementation with Ruby on Rails.
@@ -468,7 +467,7 @@ masa-iwasaki:
 moro:
   title:
     全体がいい感じになるために、私たちRailsをホームにするWeb技術者ができること
-    <span>What we, Rails developers, can do to let our whole system grow.</span>
+    <span>What we, Rails programmers, can do to let our whole system grow.</span>
   belongs: 株式会社エス・エム・エス
   name: 諸橋 恭介
   description: |
@@ -688,7 +687,7 @@ radioboo:
 
       I'll introduce how to manage computing resources and scale it so that it can edit and transcode files rapidly with unique problems and requirements for dealing with a number of movie files.
 
-    Keywords\: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
+    Keywords: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
   lang: ja
   ama_id: null
   presentation_url: null
