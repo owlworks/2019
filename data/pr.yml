@@ -2,18 +2,21 @@ oracle:
   title: AWSだけがクラウドじゃない！ 〜OracleCloudの紹介〜
   belongs: 日本オラクル株式会社
   name: 鈴木 達也
+  twitter_id: tazyamah
   lang: ja
 
 repro:
   title: とある会社の採用目的<リクルーティング>
   belongs: 株式会社Repro
   name: 橋立 友宏
+  twitter_id: joker1007
   lang: ja
 
 storesjp:
   title: Just For Fun! 野心ある小さなチームを支える STORES.jp
   belongs: STORES.jp
   name: 塚原 文奈
+  twitter_id: ayanadesu
   lang: ja
 
 speee:
@@ -26,12 +29,14 @@ medpeer:
   title: MedPeerの取り組みの「失敗」の話をしよう
   belongs: メドピア株式会社
   name: 保立 馨
+  twitter_id: purunkaoru
   lang: ja
 
 lovegraph:
   title: アート×テクノロジーでオンリーワンの企業になりたい
   belongs: 株式会社ラブグラフ
   name: 駒下 純兵
+  twitter_id: komage1007
   lang: ja
 
 esa:
