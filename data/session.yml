@@ -734,6 +734,10 @@ rust:
     talentio.com は 2016年のサービスリリースから3年あまりが経ち、アーキテクチャも古く、メンテナンスされていないコードがあるなど、開発や運用の生産性を低下させかねない状況になっていました。
 
     そんな状況の中で、悪戦苦闘しながら近代化してきた旅路をお話します。
+
+    Three years have passed since the release of talentio.com, and there are some problems causing development and operation less productive, such as old architecture and unmaintained code.
+
+    I'll talk about our journey to modernize our service with struggles under such circumstances.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -748,6 +752,10 @@ siman-man:
     Ruby には RubyVM::AbstractSyntaxTree、TracePoint といったコードを解析するための機能が備えられており、また、コードを解析するための gem が多く存在しています。これらのコード解析は大きく分けて「静的」「動的」の 2つに分けられます。
 
     本セッションではこの 2つの解析手法の違いと、それぞれどのような情報が得られ開発に役立てることが出来るのかについて紹介しようと思います。
+
+    Ruby provides code analysis features such as RubyVM::AbstractSyntaxTree and TracePoint, and there are also many gems to analyze code. Those code analysis tools are grouped into two: static and dynamic.
+
+    In this session, I'll introduce the difference between the two, what kind of information we can get from each and how we can use them for our development.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -760,6 +768,8 @@ sinamon129:
   name: 片山 潮美
   description: |
     2018年7月に1人目のバックエンドエンジニアとして入社し、WordPressで動いていた既存システムをRuby・Ruby on Rails・GCP（GKE）でフルリニューアルしました。その際の技術選択の戦略・システム構成と、リニューアル後のメリットデメリット・同僚がjoinして改善された部分をメインに、その後の職域を超えてのスタートアップでのリアルな奮闘もお話できればと思います。
+
+    I joined as a first backend engineer and replaced the system build with WordPress with Ruby on Rails and GCP(GKE). I'd like to mainly talk about the strategy of technology selection, our system structure, pros/cons after the replacement and the improvements done after the new team member joined, and also about the struggle in a startup crossing job fields.
   lang: ja
   ama_id: null
   presentation_url: null
