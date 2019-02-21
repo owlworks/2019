@@ -84,12 +84,12 @@
   description: |
     「出会いからイノベーションを生み出す」をミッションに、名刺でつながるビジネスSNS「Eight」をRuby on Railsで開発しています。
 
-- id: studyplus
+- id: dena
   label: "DAY 1: 懇親会 ビール提供"
-  name: スタディプラス株式会社
-  url: https://info.studyplus.co.jp/
+  name: 株式会社ディー・エヌ・エー
+  url: https://dena.com
   description: |
-    スタディプラスは「学ぶ喜びをすべての人へ」 をミッションに掲げ、学習する全ての人の支援に取り組んでいます
+    DeNAはゲーム事業に加え、自動車やヘルスケア、スポーツなど様々な事業に取り組み、インターネットやAIを使った新しい挑戦をしています。
 
 - id: esm
   label: "DAY 1: 懇親会 日本酒提供"
@@ -161,12 +161,12 @@
   description: |
     RailsチュートリアルやRailsガイドを運営している、沖縄と東京を拠点とした完全リモートワーク制のソフトウェア開発会社です。
 
-- id: dena
+- id: studyplus
   label: "DAY 2: 懇親会 ビール提供"
-  name: 株式会社ディー・エヌ・エー
-  url: https://dena.com
+  name: スタディプラス株式会社
+  url: https://info.studyplus.co.jp/
   description: |
-    DeNAはゲーム事業に加え、自動車やヘルスケア、スポーツなど様々な事業に取り組み、インターネットやAIを使った新しい挑戦をしています。
+    スタディプラスは「学ぶ喜びをすべての人へ」 をミッションに掲げ、学習する全ての人の支援に取り組んでいます
 
 - id: clipla
   label: "DAY 2: 懇親会 ワイン提供"
