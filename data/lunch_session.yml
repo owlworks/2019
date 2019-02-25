@@ -1,4 +1,4 @@
-undefined1:
+quipper:
   title: TBA
   belongs: Quipper LTD
   name: 未定
@@ -7,7 +7,7 @@ undefined1:
   ama_id: null
   presentation_url: null
 
-undefined2:
+everyleaf:
   title: TBA
   belongs: 株式会社万葉
   name: 未定
@@ -16,7 +16,7 @@ undefined2:
   ama_id: null
   presentation_url: null
 
-undefined3:
+studist:
   title: TBA
   belongs: 株式会社スタディスト
   name: 未定
@@ -25,7 +25,7 @@ undefined3:
   ama_id: null
   presentation_url: null
 
-undefined4:
+linkandmotivation:
   title: TBA
   belongs: 株式会社リンクアンドモチベーション
   name: 未定
@@ -34,7 +34,7 @@ undefined4:
   ama_id: null
   presentation_url: null
 
-undefined5:
+finc:
   title: TBA
   belongs: 株式会社FiNC Technologies
   name: 未定
@@ -43,7 +43,7 @@ undefined5:
   ama_id: null
   presentation_url: null
 
-undefined6:
+smarthr:
   title: TBA
   belongs: 株式会社SmartHR
   name: 未定

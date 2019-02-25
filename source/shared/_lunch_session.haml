@@ -1,7 +1,7 @@
 - session = data.lunch_session[id]
 .timetable__section.timetable__section--session
   %ul.category
-    %li.label.label--lunch_session LUNCH SESSION: #{label} (#{session[:lang]})
+    %li.label.label--lunch_session LUNCH SESSION #{label} (#{session[:lang]})
     - if session[:sponsor_name]
       %li by #{sponsor_name}
   - if session[:title]
