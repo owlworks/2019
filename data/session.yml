@@ -836,6 +836,12 @@ takatoshi-maeda:
     しかし良い学びを得ながらサービスを改善していく作業は、明確な答えはなく非常に難しい作業です。
 
     本セッションでは、私がWebサービスの開発者として8年間試行錯誤をしてきた体験から、サービスの成長を加速させるため、より良いサービスを形作るための仮説検証への向き合い方、組織文化の醸成についてお話します。
+
+    Hypothesis verification is critical for developing web applications.
+
+    However, it's so difficult to improve services by learning well because there's no clear answers.
+
+    In this session, I'd like to talk about how to think about hypothesis verification for creating better services and how to make company culture for it in order to make development speed faster from what I've experienced trying many things as a web service developer for over 8 years.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -852,6 +858,12 @@ takkanm:
     プロジェクトにどのように向かっているか、チームでの開発のとき何を意識しているか、新しくやってきた人に何を伝えているかなどを話します。
 
     Rails な受託会社の一部をお見せできればと思います。
+
+    I'll introduce what I do consciously in a Rails consulting company.
+
+    I'll talk about how to confront projects, what I think about when developing with a team and what I tell to those who newly joined projects.
+
+    I'd like to show you a part of a Rails consulting company.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -868,6 +880,12 @@ taogawa:
     Railsアプリケーションは一定の規模になってくるとRailsのレールから外れるシーンも増えてきます。その一方でレールから外れた際にどうするか、定番のパターンとされるものはありますが、そのノウハウはまだまだ共有はされていない印象です。
 
     本セッションではキッチハイクがレールから外れた際に試行錯誤してきた設計パターンについて、成功 / 失敗の体験談含めてお話したいと思います。
+
+    Our company, Kitchhike, has been using Rails since the beginning of the company 7 years ago.
+
+    We tend to be off of rails after we reach certain size of applications. However, I think we don't share know-hows of what to do when we are off of rails, although we have some well-known patterns.
+
+    In this session, I'd like to talk about design patterns which we struggled to build when we were off of rails, including our story of successes and failures.
   lang: ja
   ama_id: null
   presentation_url: null
