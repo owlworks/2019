@@ -981,6 +981,10 @@ willnet:
     およそ2年前、第1回目のRails Developers Meetupで「Clean Test Code」というタイトルで登壇しました。当時それなりに反響があったと感じていますが、現実世界で厳しいテストコードを見る機会はまだまだ多く、当時話した「きれいなテストコードを書くためのコツ」は十分に普及されているとは言い難い状況です。
 
     前回の登壇から2年たち、その間得たフィードバックから前回の「Clean Test Code」をもう少し前に進めることができそうです。この発表で厳しいテストコードが少しでも減り、RailsエンジニアのQOLが少しでも上がることを願っております。
+
+    About 2 year ago, at the very first Rails Developers Meetup, I gave a talk titled "Clean Test Code". I think the response from the audience was good. However, I still see bad test code a lot in a real world, so it's not possible to say that "tips to write clean test code" that I talked about at that time has spread enough.
+
+    2 years have passed since then, and I'm able to move "Clean Test Code" forward based on the feedbacks I've got. I hope this talk reduces the number of bad test code and increases QOLs of Rails engineers.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -1006,6 +1010,8 @@ yahonda:
   name: 本多 康夫
   description: |
     Active Record Oracle enhanced adapterのメンテナーとして、Rails 3.2から最新の5.2までの開発の歴史を振り返り、Rails 6に向けた展望をお話しします。
+
+    As a maintainer of Active Record Oracle enhanced adapter, I'll review the development history from Rails 3.2 to 5.2, and talk about the outlook toward Rails 6.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -1058,6 +1064,10 @@ yoshuki:
     自分が個人事業主として働いてきた10年を、なぜ始まり、なにを考え、どう過ごしてきたか、それぞれのタイミングで悩んだこと、出した結論、その理由などを交え、お話しします。
 
     すでに周辺の状況が変わっており古くなっているものもありますが、まずは聞き物として、そして一部でも同じような立場の方の参考になれば幸いです。
+
+    I'll talk about the 10 years I've been working as a freelance with why I started, what I've been thinking about, how I've spent my time, troubles I've faces, conclusions I've made and the reasons of those.
+
+    Some stories are outdated since the environment has changed. I hope this story is good as a tale and useful for those who are in similar situations.
   lang: ja
   ama_id: null
   presentation_url: null
