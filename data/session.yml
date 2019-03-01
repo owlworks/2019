@@ -1032,6 +1032,16 @@ yancya:
     では、GraphQL のサーバーサイド実装に SQLQL の考え方を取り入れてみたらどうなるか、という発想になるのは自然ですよね。
 
     本講演では、もしも SQLQL の延長線上に GraphQL がいるのだとしたらこういう設計になる、という考えを実験した結果を発表します。
+
+    For those who're attached to SQL, it's a strong wish and a karma to process one request with one SQL query.
+
+    SQLQL is a concept that when the client sends SQL directly to the API endpoint, it receives the response of the result of SQL reflecting authorizations for each request. There are some drawbacks, such as it's hard to create a sandbox environment to disable SQL statements which we don't want to execute, not everyone wants to write SQL queries fetching all required data since it's not easy and so on.
+
+    On the other hand, GraphQL looks easy. While you might have a problem implementing it on the server side, it's not a problem of GraphQL itself.
+
+    So, it's not surprising to think about what it's like to import SQLQL way to GraphQL server side implementation.
+
+    In this session, I'd like to talk about the result of the experiment where I think about the design as if GraphQL is an extension of SQLQL.
   lang: ja
   ama_id: null
   presentation_url: null
