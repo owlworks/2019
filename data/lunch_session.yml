@@ -1,53 +1,99 @@
 quipper:
-  title: TBA
+  title: Power-Nap
   belongs: Quipper LTD
-  name: 未定
-  description: null
+  name: 長永健介
+  description: |
+    Quipperは、ランチPRセッションの時間を使って皆さんに静かで快適な休憩時間をご提供します。しっかり食べてお休みいただき、午後のセッションに備え英気を養ってください。その前に5分だけ、「神授業」として知られるスタディサプリの動画をご覧ください。
+
+    We will offer you comfortable and tranquil break time during the lunch PR session.  Please enjoy our lunch and get ready for the sessions in the afternoon.  Before lunch, we would like to ask you to watch 5-minute StudySapuri movie of video lecture which is known as "Kami-jugyo".
+
+    ランチ内容：老舗日本料理店の和牛すき焼き弁当 or 老舗日本料理店の焼き魚弁当（それぞれにQuipperクッキーと紙パックのお茶も付きます）
   lang: ja
   ama_id: null
   presentation_url: null
 
 everyleaf:
-  title: TBA
+  title: 現場Railsの執筆現場
   belongs: 株式会社万葉
-  name: 未定
-  description: null
+  name: 大場寧子・松本拓也・櫻井達生・小芝美由紀・小野裕作 (PR)
+  description: |
+    万葉監修の #現場Rails こと『現場で使えるRuby on Rails速習実践ガイド』の著者陣によるトークセッションを行います。
+
+    執筆の裏話や、現場の開発の話、当日会場からの質問にも答えます。ランチを食べながらのんびりご参加下さい。
+
+    現在、<a href="https://goo.gl/forms/e0gBoUh0jb6uzpW83">アンケート</a>からも著者への質問・感想を募集しています。現場Railsで気になることのある方、ぜひこの機会に著者に質問して下さい！
+
+    ランチ内容：タコライス丼
   lang: ja
   ama_id: null
   presentation_url: null
 
 studist:
-  title: TBA
+  title: |
+    Railsアップグレード、UIリニューアルを通じてのレガシーコード改善への道のり
+    <span>A way to improve legacy code through Rails upgrade and UI renewal</span>
   belongs: 株式会社スタディスト
-  name: 未定
-  description: null
+  name: 出渕 晋也
+  description: |
+    'Teachme Biz' 4年ぶり2度目のUIリニューアル。
+    UIリニューアルでは、フロント部分はvue.jsで全面書き直しSPA化、バックエンドは完全API化しました。
+
+    破綻しつつあるmvcアーキテクチャ、煩雑なソースコード、テストがほとんどなかった状態から、どのように変化したかrailsアプリの舞台裏についてお話させていただきます。
+
+    The UI of Teachme Biz was revamped once again after four years.
+    We rewrote the whole frontend in Vue.js and made the backend API-only.
+
+    This talk is about how we dealt with our failing MVC architecture and more than a mouthful of spaghetti code.
+
+    ランチ内容：ビフテキミックス弁当
   lang: ja
   ama_id: null
   presentation_url: null
 
 linkandmotivation:
-  title: TBA
+  title: モチベーションクラウド、マイクロサービス化1合目
   belongs: 株式会社リンクアンドモチベーション
-  name: 未定
-  description: null
+  name: 江上 真人
+  description: |
+    モチベーションクラウドは今までモノリシックなrailsで運用されてましたが、ついにマイクロサービス化に向けて動き始めました。
+
+    本発表では、過去一度試みて失敗した事例や、手を動かし始めて出てきた悩みを共有したいと思います。
+
+    Motivation Cloud has been operated with monolithic rails application until now, but at last it started to move toward micro service.
+
+    In this presentation, I would like to share examples that we failed once in the past and the troubles while we work for it.
+
+    ランチ内容：カツサンド or サンドイッチ or ミックスフライ弁当 or かつ重 or ポークステーキ弁当 or インドカレー
   lang: ja
   ama_id: null
   presentation_url: null
 
 finc:
-  title: TBA
+  title: ランチに学ぶ健康知識〜FiNC管理栄養士が解説します
   belongs: 株式会社FiNC Technologies
-  name: 未定
-  description: null
+  name: 近藤 慶水・丹治 朋子
+  description: |
+    実際に食べるお弁当の栄養について管理栄養士が解説！ヘルスケアサービスの一部を疑似体験していただきます。
+
+    FiNCアプリを開発する楽しさの1つは、管理栄養士やトレーナーが持つ経験を間近に聞きながら設計思想に反映する作業です。
+
+    そんな場面もゆるふわに紹介していきたいと思います。
+
+    ※本セッションはお弁当を食べることに気を取られても、セッション内容に聞き戻れます。
+
+    ランチ内容：生姜焼弁当（十六穀米）緑茶付
   lang: ja
   ama_id: null
   presentation_url: null
 
 smarthr:
-  title: TBA
+  title: 出張版! SmartHR 会社説明会 in RailsDM
   belongs: 株式会社SmartHR
-  name: 未定
-  description: null
+  name: ぷりんたい
+  description: |
+    普段候補者の方向けにお話している SmartHR の会社紹介を、RailsDM 2019 に出張して実施します！
+
+    ランチ内容：Qino's(キノーズ) のサンドイッチボックス
   lang: ja
   ama_id: null
   presentation_url: null

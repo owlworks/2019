@@ -13,7 +13,7 @@
     %li= session[:name]
   - if session[:description]
     .description
-      = simple_format session[:description]
+      = simple_format(session[:description].html_safe)
   - if session[:ama_id] || session[:presentation_url]
     %ul.links
       %li
