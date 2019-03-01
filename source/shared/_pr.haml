@@ -1,7 +1,7 @@
 - session = data.pr[id]
-.timetable__section.timetable__section--session
+.timetable__section.timetable__section--session{id: "pr-session-#{id}"}
   %ul.category
-    %li.label.label--pr PR (#{session[:lang]})
+    %li.label.label--pr= link_to "PR (#{session[:lang]})", "#pr-session-#{id}"
     - if session[:twitter_id]
       %li @#{session[:twitter_id]}
   - if session[:title]

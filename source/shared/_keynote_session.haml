@@ -1,7 +1,7 @@
 - session = data.keynote_session[github_id]
-.timetable__section.timetable__section--session
+.timetable__section.timetable__section--session{id: "keynote-session-#{github_id}"}
   %ul.category
-    %li.label KEYNOTE (#{session[:lang]})
+    %li.label= link_to "KEYNOTE (#{session[:lang]})", "#keynote-session-#{github_id}"
     - unless github_id.start_with?("undefined")
       %li @#{github_id}
   %h3.title= session[:title]
