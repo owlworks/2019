@@ -274,17 +274,11 @@ itkrt2y:
 
     本セッションでは、フロントエンドがよくわからない人を対象として、フロントエンドのここ数年を振り返りつつ、「今、なぜフロントエンドを学ばなければならないか」「何を理解すれば、これからのフロントエンドを理解できるようになるか」について解説します。
 
-    話すこと：ESNext, Virtual DOM, Performance, PWA, Web Components
-    話さないこと：React/Vue/Angularのどれを使うべき？
-
     I found many say "frontend development changes so rapidly that I cannot follow".
 
     I also suspect many backend engineers wonder where to start when learning frontend from now.
 
     In this talk, I'll look back these several years of frontend development and talk about why we need to learn frontend development now and what to understand so that we can understand modern frontend development.
-
-    In this session: ESNext, Virtual DOM, Performance, PWA, Web Components
-    Not in this session: React, Vue and Angular, which to use?
   lang: ja
   ama_id: null
   presentation_url: null
