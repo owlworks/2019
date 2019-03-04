@@ -15,7 +15,7 @@ quipper:
 everyleaf:
   title: 現場Railsの執筆現場
   belongs: 株式会社万葉
-  name: 大場寧子・松本拓也・櫻井達生・小芝美由紀・小野裕作 (PR)
+  name: 大場寧子・松本拓也・櫻井達生・小芝美由紀
   description: |
     万葉監修の #現場Rails こと『現場で使えるRuby on Rails速習実践ガイド』の著者陣によるトークセッションを行います。
 
