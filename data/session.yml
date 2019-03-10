@@ -331,6 +331,16 @@ katorie:
   ama_id: null
   presentation_url: null
 
+katsumata-ryo:
+  title: TBA
+  belongs: STORES.jp, Inc
+  name: 勝亦 亮
+  description: |
+    TBA
+  lang: ja
+  ama_id: null
+  presentation_url: null
+
 knu:
   title:
     Evolution of Enumerator
@@ -954,20 +964,6 @@ upinetree:
     In many of teams around me, discussing how to writing CSS is less often than Ruby or JavaScript code. In such teams, CSS is written by touch and reviewing it is insufficient, hence building technical debt of CSS is easy and detecting it before bottlenecks become obvious is difficult.
 
     In this talk I consider why the such problems happen and how to make handling policies of CSS in the team. Then I describe how to deal with technical debt of CSS with case studies.
-  lang: ja
-  ama_id: null
-  presentation_url: null
-
-ursm:
-  title:
-    私が愛した eBook Store
-    <span>eBook Store, Which I Loved</span>
-  belongs: 株式会社えにしテック
-  name: 浦嶌 啓太
-  description: |
-    2018年2月、オーム社の電子書籍ストア「オーム社 eBook Store」が8年に亘る歴史に幕を閉じました。開発者であった立場から eBook Store がどうやって作られていたかをお話しします。
-
-    The e-book store by Ohmsha Ltd. which is a publisher of science and engineering books was closed in February 2018. As a developer of the e-book store, I will tell you how it was developed.
   lang: ja
   ama_id: null
   presentation_url: null
