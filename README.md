@@ -13,6 +13,10 @@ https://railsdm.github.io/
 ## Build the site
 
     bundle exec middleman build
+    
+## Information for speakers
+
+https://gist.github.com/yhirano55/4a8e0b56e3627be54da05385ce6103c8
 
 ## LICENSE
 
