@@ -17,7 +17,7 @@
     - Future Plans
 
     About Charty:
-    Charty is open-source Ruby library for visualizing your data in a simple way.
+    Charty is an open-source Ruby library for visualizing your data in a simple way.
     In Charty, you need to write very few lines of code for representing what you want to do.
     It lets you focus on your analysis of data, instead of plotting.
   lang: ja
@@ -187,7 +187,7 @@ hokaccha:
   belongs: クックパッド株式会社
   name: 外村 和仁
   description: |
-    クックパッドの Rails アプリケーションは世界でも有数な巨大モノリックアプリケーションです。その巨大さゆえに、機能の追加やメンテナンスがまともにできる状態ではありませんでした。その問題を解決するためにコード削減やシステム分割などの様々な施策を積み重ね、ようやく成果が出てきました。そのような施策で得られた知見や今後の展望について紹介します。
+    クックパッドの Rails アプリケーションは世界でも有数な巨大モノリシックアプリケーションです。その巨大さゆえに、機能の追加やメンテナンスがまともにできる状態ではありませんでした。その問題を解決するためにコード削減やシステム分割などの様々な施策を積み重ね、ようやく成果が出てきました。そのような施策で得られた知見や今後の展望について紹介します。
 
     The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent ones. Various kinds of measures have been carried out to solve this issue such as reducing the lines of code and breaking the system down to smaller ones. These are now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
   lang: ja
@@ -382,7 +382,7 @@ koichiroo:
   description: |
     近年、エンジニアリングマネージャーという役割について議論が活発になっており、複数の書籍で取り上げられたり役割の重要性についての認知が進んでいます。もともと上手くいっている開発プロジェクトではエンジニアリングマネージャー的な役割を誰かが担っていて、必要とされていたところに適切な名前が付けられ認知が進んだのは大きな前進でした。
 
-    一方で、そのような知見を得た上で、自分たちの組織で実践していくなかでの課題感は、その性質上、個別具体の事象になりやすく課題感の共有しにくいのが現状です。エンジニアはキャリアのどの段階でマネジメントを意識しなければならないのかモヤモヤは大きくなるばかりと考えます。
+    一方で、そのような知見を得た上で、自分たちの組織で実践していくなかでの課題感は、その性質上、個別具体の事象になりやすく、共有しにくいのが現状です。エンジニアはキャリアのどの段階でマネジメントを意識しなければならないのかモヤモヤは大きくなるばかりと考えます。
 
     本セッションでは、なにかと孤独になりがちなエンジニアリングマネージャーの悩みについてのモヤモヤ感を生煮えのまま共有することで「人に話す」ことで気持ち楽になる発表者本位のセッションになります。
   lang: ja
@@ -638,11 +638,11 @@ pipopotamasu:
   belongs: メドピア株式会社
   name: 村上 大和
   description: |
-    メドピア社内で使っているRails用フロントエンドボイラープレート「medpacker」を紹介します。medpackerはassets pipelineやwebpackerに依存しないRailsのフロントエンドを提供します。
+    メドピア社内で使っているRails用フロントエンドボイラープレート「medpacker」を紹介します。medpackerはasset pipelineやwebpackerに依存しないRailsのフロントエンドを提供します。
 
     本セッションでは、medpackerの機能、導入方法から作成に至った背景までをお伝えしたいと思います。
 
-    I introduce “medpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without assets pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
+    I introduce “medpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without asset pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
   lang: ja
   ama_id: null
   presentation_url: null
@@ -939,7 +939,7 @@ ujihisa:
 unak:
   title:
     Webアプリケーションの開発運用で当たり前に必要とされる画像変換の中身
-    <span>Internal of the image processing required on the developping of web applications</span>
+    <span>Internal of the image processing required on the developing of web applications</span>
   belongs: ピクシブ株式会社
   name: 中村 宇作
   description: |
@@ -978,7 +978,7 @@ willnet:
 
     前回の登壇から2年たち、その間得たフィードバックから前回の「Clean Test Code」をもう少し前に進めることができそうです。この発表で厳しいテストコードが少しでも減り、RailsエンジニアのQOLが少しでも上がることを願っております。
 
-    About 2 year ago, at the very first Rails Developers Meetup, I gave a talk titled "Clean Test Code". I think the response from the audience was good. However, I still see bad test code a lot in a real world, so it's not possible to say that "tips to write clean test code" that I talked about at that time has spread enough.
+    About 2 years ago, at the very first Rails Developers Meetup, I gave a talk titled "Clean Test Code". I think the response from the audience was good. However, I still see bad test code a lot in a real world, so it's not possible to say that "tips to write clean test code" that I talked about at that time has spread enough.
 
     2 years have passed since then, and I'm able to move "Clean Test Code" forward based on the feedbacks I've got. I hope this talk reduces the number of bad test code and increases QOLs of Rails engineers.
   lang: ja
@@ -1071,7 +1071,7 @@ yoshuki:
 
     すでに周辺の状況が変わっており古くなっているものもありますが、まずは聞き物として、そして一部でも同じような立場の方の参考になれば幸いです。
 
-    I'll talk about the 10 years I've been working as a freelance with why I started, what I've been thinking about, how I've spent my time, troubles I've faces, conclusions I've made and the reasons of those.
+    I'll talk about the 10 years I've been working as a freelance with why I started, what I've been thinking about, how I've spent my time, troubles I've faced, conclusions I've made and the reasons of those.
 
     Some stories are outdated since the environment has changed. I hope this story is good as a tale and useful for those who are in similar situations.
   lang: ja
@@ -1089,7 +1089,7 @@ yoshiori:
 
     最近は組織作りとか採用関連の登壇依頼ばかりで技術的な事喋りたいうっぷんが溜っていたところに今回の登壇依頼を頂き何を話そうか考えました。
 
-    何を話していも良いと言われたので、 Cookpad で Chaos Engineering 導入を決断するまでに至った歴史と僕の中でどう考えてそうなったかを話そうと思います。
+    何を話しても良いと言われたので、 Cookpad で Chaos Engineering 導入を決断するまでに至った歴史と僕の中でどう考えてそうなったかを話そうと思います。
 
     完全に自分の趣向 120% なのでオタクが興味ある事を早口で嬉々として喋ってるような発表になっちゃうと思います:) それでも良ければ是非聞きにきてください!!
 
