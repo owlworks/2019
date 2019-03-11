@@ -332,7 +332,9 @@ katorie:
   presentation_url: null
 
 katsumata-ryo:
-  title: 自分たちを信じられるチームが作りたくて私はこうした
+  title:
+    自分たちを信じられるチームが作りたくて私はこうした
+    <span>My practice to make a team that can trust each other</span>
   belongs: STORES.jp, Inc
   name: 勝亦 亮
   description: |
