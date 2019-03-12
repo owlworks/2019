@@ -21,7 +21,7 @@
     In Charty, you need to write very few lines of code for representing what you want to do.
     It lets you focus on your analysis of data, instead of plotting.
   lang: ja
-  ama_id: null
+  ama_id: 169
   presentation_url: null
 
 aeroastro:
@@ -38,7 +38,7 @@ aeroastro:
 
     In this session, the effectiveness of Schema First Development will be presented. Also, as an example of its application in game development, we will take a look at Rails with Protocol Buffers.
   lang: ja
-  ama_id: null
+  ama_id: 133
   presentation_url: null
 
 amatsuda:
@@ -56,7 +56,7 @@ amatsuda:
 
     In this session, we'll explore tips and practices for designing and crafting Rails plugins through our daily application development.
   lang: ja
-  ama_id: null
+  ama_id: 138
   presentation_url: null
 
 banyan:
@@ -69,7 +69,7 @@ banyan:
 
     Let's see how framework and buildtool handle webpack.
   lang: ja
-  ama_id: null
+  ama_id: 159
   presentation_url: null
 
 emorima:
@@ -87,7 +87,7 @@ emorima:
 
     I will talk on the history and future of Rails Girls in Japan.
   lang: ja
-  ama_id: null
+  ama_id: 139
   presentation_url: null
 
 f440:
@@ -113,7 +113,7 @@ f440:
 
     In this session, I will talk on the basics of BiTemporal Data Model, and share our findings and stories through its employment in production.
   lang: ja
-  ama_id: null
+  ama_id: 154
   presentation_url: null
 
 fujimura:
@@ -131,7 +131,7 @@ fujimura:
 
     In this talk I’ll try to make a better understanding on name and naming things with contemporary philosophy.
   lang: ja
-  ama_id: null
+  ama_id: 145
   presentation_url: null
 
 gotchane:
@@ -149,7 +149,7 @@ gotchane:
 
     In this talk, I'd like to talk about the case where we replaced with limited resources based on "making it small", that's one of the core values of SonicGarden.
   lang: ja
-  ama_id: null
+  ama_id: 113
   presentation_url: null
 
 hanachin:
@@ -177,7 +177,7 @@ hanachin:
     * How to avoid the things in the code reviews.
     * The decision to conduct "no code reviews".
   lang: ja
-  ama_id: null
+  ama_id: 166
   presentation_url: null
 
 hokaccha:
@@ -191,7 +191,7 @@ hokaccha:
 
     The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent ones. Various kinds of measures have been carried out to solve this issue such as reducing the lines of code and breaking the system down to smaller ones. These are now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
   lang: ja
-  ama_id: null
+  ama_id: 165
   presentation_url: null
 
 hsbt:
@@ -206,7 +206,7 @@ hsbt:
 
     I will describe the details of RubyGems 3.0 changes and the future plan of RubyGems 4.0.
   lang: ja
-  ama_id: null
+  ama_id: 117
   presentation_url: null
 
 idesaku:
@@ -232,7 +232,7 @@ idesaku:
 
     In this talk, I'll talk about how such a strange person have its role in software development and how important it is.
   lang: ja
-  ama_id: null
+  ama_id: 149
   presentation_url: null
 
 ikedaosushi:
@@ -256,7 +256,7 @@ ikedaosushi:
 
     In this session, I’m going to talk about practice and techniques to get good insight from access logs based on our experience.
   lang: ja
-  ama_id: null
+  ama_id: 157
   presentation_url: null
 
 itkrt2y:
@@ -280,7 +280,7 @@ itkrt2y:
 
     In this talk, I'll look back these several years of frontend development and talk about why we need to learn frontend development now and what to understand so that we can understand modern frontend development.
   lang: ja
-  ama_id: null
+  ama_id: 119
   presentation_url: null
 
 joker1007:
@@ -301,7 +301,7 @@ joker1007:
 
     I talk about how we realized these feature by Rails base application and also about how our architecture has evolved (for example distributed database, data format, ETL, Generating SQL).
   lang: ja
-  ama_id: null
+  ama_id: 153
   presentation_url: null
 
 k0kubun:
@@ -314,7 +314,7 @@ k0kubun:
 
     As Ruby 2.6.'s JIT didn't optimize Rails applications so much, we're focusing on optimizing Rails application performance in Ruby 2.7 development. In this talk, you'll know how fast Rails could be on Ruby 2.7.
   lang: ja
-  ama_id: null
+  ama_id: 168
   presentation_url: null
 
 katorie:
@@ -328,7 +328,7 @@ katorie:
 
     In Ubiregi Inc., we develop and run three products all by members from the company. From the point of view of me who joined in 2015, I'll talk about how our team has changed over the past three years and the future of our team.
   lang: ja
-  ama_id: null
+  ama_id: 131
   presentation_url: null
 
 katsumata-ryo:
@@ -346,7 +346,7 @@ katsumata-ryo:
 
     今リーダーとして戦っている人、またはこれからリーダー職に就くかもしれない人のなにかヒントになることを願って話します。
   lang: ja
-  ama_id: null
+  ama_id: 167
   presentation_url: null
 
 knu:
@@ -363,7 +363,7 @@ knu:
 
     In this session I will talk about how Enumerator was discussed and created, how it has evolved as a framework, and how exactly we can make it even better going forward.
   lang: ja
-  ama_id: null
+  ama_id: 162
   presentation_url: null
 
 koic:
@@ -378,7 +378,7 @@ koic:
     Ruby's regional communities, open source communities, and conferences are connected. I will talk you that our Ruby life will become more fun.
     So Ruby makes programmers happy.
   lang: ja
-  ama_id: null
+  ama_id: 150
   presentation_url: null
 
 koichiroo:
@@ -394,7 +394,7 @@ koichiroo:
 
     本セッションでは、なにかと孤独になりがちなエンジニアリングマネージャーの悩みについてのモヤモヤ感を生煮えのまま共有することで「人に話す」ことで気持ち楽になる発表者本位のセッションになります。
   lang: ja
-  ama_id: null
+  ama_id: 147
   presentation_url: null
 
 kokuyouwind:
@@ -416,7 +416,7 @@ kokuyouwind:
 
     In this talk, I'll introduce how to work on visual test using capybara screenshot and reg-suit.
   lang: ja
-  ama_id: null
+  ama_id: 146
   presentation_url: null
 
 komagata:
@@ -430,7 +430,7 @@ komagata:
 
     I'll talk about the difficulties I've experienced during building a programming school called Fjord Bootcamp and the future plan.
   lang: ja
-  ama_id: null
+  ama_id: 158
   presentation_url: null
 
 kyuden:
@@ -447,7 +447,7 @@ kyuden:
 
     In this session, I will show you a Ruby C extension implementation of a red-black tree, and talk about its performance and effective use cases.
   lang: ja
-  ama_id: null
+  ama_id: 135
   presentation_url: null
 
 m-nakamura145:
@@ -465,7 +465,7 @@ m-nakamura145:
 
     In this session, I will talk about how we have thought through the system of an online reservation system, "Toreta"; the system design, the transitions, and the implementation with Ruby on Rails.
   lang: ja
-  ama_id: null
+  ama_id: 122
   presentation_url: null
 
 masa-iwasaki:
@@ -479,7 +479,7 @@ masa-iwasaki:
 
     In the early stage of web service development, you need to set up many tools to support yourselves and your services. Because this is a one of common issues among developer teams, there are many SaaS providers for the problem. Although services provided by them usually seems to be expensive, you can buy time for your team and accelerating service development. I will talk about the services I have tried and how to think about pros and cons including various costs to use them.
   lang: ja
-  ama_id: null
+  ama_id: 143
   presentation_url: null
 
 moro:
@@ -509,7 +509,7 @@ moro:
 
     In this talk, I'll talk about what I do and I'd like to do to provide values for the place where many people live as a web engineer.
   lang: ja
-  ama_id: null
+  ama_id: 141
   presentation_url: null
 
 Morred:
@@ -524,7 +524,7 @@ Morred:
 
     In this talk, we will discuss ways to make Rails apps faster, more streamlined and more resource efficient without having to spend a lot of money. I will share real world examples of relevant problems, how to locate them, and how to solve them while reducing the need to constantly scale your infrastructure.
   lang: en
-  ama_id: null
+  ama_id: 137
   presentation_url: null
 
 mrkn:
@@ -535,7 +535,7 @@ mrkn:
   description: |
     I will talk about the activity in Japan to make Ruby ready-to-use in the data science field. Moreover, I'd like to introduce the impact that its achievements have on Rails applications.
   lang: ja
-  ama_id: null
+  ama_id: 123
   presentation_url: null
 
 mtsmfm:
@@ -552,7 +552,7 @@ mtsmfm:
 
     In this talk, I'd like to share the result of analyzing the build results and how to find unstable tests.
   lang: ja
-  ama_id: null
+  ama_id: 163
   presentation_url: null
 
 nay:
@@ -570,7 +570,7 @@ nay:
 
     In this talk I'm going to introduce an analysis of code review comments of those pull requests and think about the important points in learning Rails, supporting beginners and code review styles.
   lang: ja
-  ama_id: null
+  ama_id: 126
   presentation_url: null
 
 onk:
@@ -588,7 +588,7 @@ onk:
 
     The topics are such as What I thought about when I used certain technology. For example, I'll talk about how I think about CommonMark in terms of markdown and how to deal with it in Ruby, and what to care about when we implement file upload feature. You'll be able to decide everything when creating a Rails app from scratch after joining this talk.
   lang: ja
-  ama_id: null
+  ama_id: 111
   presentation_url: null
 
 ota42y:
@@ -618,7 +618,7 @@ ota42y:
 
     So this talk is for those who consider to adopt microservices or who is already adopting and facing it.
   lang: ja
-  ama_id: null
+  ama_id: 128
   presentation_url: null
 
 owlworks:
@@ -636,7 +636,7 @@ owlworks:
 
     In this session, I will talk about the challenges we have faced during its development and operation, and then I will talk about our future actions.
   lang: ja
-  ama_id: null
+  ama_id: 130
   presentation_url: null
 
 pipopotamasu:
@@ -652,7 +652,7 @@ pipopotamasu:
 
     I introduce “medpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without asset pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
   lang: ja
-  ama_id: null
+  ama_id: 164
   presentation_url: null
 
 r7kamura:
@@ -670,7 +670,7 @@ r7kamura:
 
     I'd like to talk about more realistic stories about upgrading Rails versions. Main target versions are Rails 4, 5 and 6.
   lang: ja
-  ama_id: null
+  ama_id: 136
   presentation_url: null
 
 radioboo:
@@ -707,7 +707,7 @@ radioboo:
 
     Keywords: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
   lang: ja
-  ama_id: null
+  ama_id: 151
   presentation_url: null
 
 risacan:
@@ -721,7 +721,7 @@ risacan:
 
     1 year has passed since I joined SmartHR in December 2017. The number of development team members has doubled, and the number of products has also increased. I will talk about how the team and myself have changed along with the growth of our service.
   lang: ja
-  ama_id: null
+  ama_id: 152
   presentation_url: null
 
 rlho:
@@ -739,7 +739,7 @@ rlho:
 
     I'll talk about the reason why there are a few female engineers and what's the problem. This talk doesn't contain any technical aspect.
   lang: ja
-  ama_id: null
+  ama_id: 125
   presentation_url: null
 
 rust:
@@ -757,7 +757,7 @@ rust:
 
     I'll talk about our journey to modernize our service with struggles under such circumstances.
   lang: ja
-  ama_id: null
+  ama_id: 120
   presentation_url: null
 
 siman-man:
@@ -775,7 +775,7 @@ siman-man:
 
     In this session, I'll introduce the difference between the two, what kind of information we can get from each and how we can use them for our development.
   lang: ja
-  ama_id: null
+  ama_id: 140
   presentation_url: null
 
 sinamon129:
@@ -789,7 +789,7 @@ sinamon129:
 
     I joined as a first backend engineer and replaced the system build with WordPress with Ruby on Rails and GCP(GKE). I'd like to mainly talk about the strategy of technology selection, our system structure, pros/cons after the replacement and the improvements done after the new team member joined, and also about the struggle in a startup crossing job fields.
   lang: ja
-  ama_id: null
+  ama_id: 160
   presentation_url: null
 
 sinsoku:
@@ -825,7 +825,7 @@ sinsoku:
 
     The talk will be focused not on Rails applications but on their surrounding world.
   lang: ja
-  ama_id: null
+  ama_id: 170
   presentation_url: null
 
 taiki-t:
@@ -839,7 +839,7 @@ taiki-t:
 
     A case study of an engineer who have failed many times. Telling that engineers can make own life even they failed after starting a business.
   lang: ja
-  ama_id: null
+  ama_id: 142
   presentation_url: null
 
 takatoshi-maeda:
@@ -861,7 +861,7 @@ takatoshi-maeda:
 
     In this session, I'd like to talk about how to think about hypothesis verification for creating better services and how to make company culture for it in order to make development speed faster from what I've experienced trying many things as a web service developer for over 8 years.
   lang: ja
-  ama_id: null
+  ama_id: 124
   presentation_url: null
 
 takkanm:
@@ -883,7 +883,7 @@ takkanm:
 
     I'd like to show you a part of a Rails consulting company.
   lang: ja
-  ama_id: null
+  ama_id: 127
   presentation_url: null
 
 taogawa:
@@ -905,7 +905,7 @@ taogawa:
 
     In this session, I'd like to talk about design patterns which we struggled to build when we were off of rails, including our story of successes and failures.
   lang: ja
-  ama_id: null
+  ama_id: 134
   presentation_url: null
 
 tawachan:
@@ -921,7 +921,7 @@ tawachan:
 
     Keywords: Rails, Heroku, Swagger, CloudFront, ImageFlux, Firebase, PWA, Angular, Ionic, ReactNative, Expo.io
   lang: ja
-  ama_id: null
+  ama_id: 116
   presentation_url: null
 
 ujihisa:
@@ -941,7 +941,7 @@ ujihisa:
 
     Keywords: Microservices, feature toggles, canary release, and circuit breaker
   lang: ja
-  ama_id: null
+  ama_id: 129
   presentation_url: null
 
 unak:
@@ -955,7 +955,7 @@ unak:
 
     To develop web applications, we obviously must handle many images. In this case, we are requested some processings such as scaling, format conversion, data size reduction and so on. They seem simple at first glance, but there are many pit falls. This talk will explain the internal of such image processing from technical aspect (does not treat designs).
   lang: ja
-  ama_id: null
+  ama_id: 156
   presentation_url: null
 
 upinetree:
@@ -973,7 +973,7 @@ upinetree:
 
     In this talk I consider why the such problems happen and how to make handling policies of CSS in the team. Then I describe how to deal with technical debt of CSS with case studies.
   lang: ja
-  ama_id: null
+  ama_id: 118
   presentation_url: null
 
 willnet:
@@ -990,7 +990,7 @@ willnet:
 
     2 years have passed since then, and I'm able to move "Clean Test Code" forward based on the feedbacks I've got. I hope this talk reduces the number of bad test code and increases QOLs of Rails engineers.
   lang: ja
-  ama_id: null
+  ama_id: 144
   presentation_url: null
 
 y-yagi:
@@ -1003,7 +1003,7 @@ y-yagi:
 
     I will show a web framework, "Roda". I will talk about its effective use cases for Rails developers.
   lang: ja
-  ama_id: null
+  ama_id: 148
   presentation_url: null
 
 yahonda:
@@ -1017,7 +1017,7 @@ yahonda:
 
     As a maintainer of Active Record Oracle enhanced adapter, I'll review the development history from Rails 3.2 to 5.2, and talk about the outlook toward Rails 6.
   lang: ja
-  ama_id: null
+  ama_id: 115
   presentation_url: null
 
 yancya:
@@ -1047,7 +1047,7 @@ yancya:
 
     In this session, I'd like to talk about the result of the experiment where I think about the design as if GraphQL is an extension of SQLQL.
   lang: ja
-  ama_id: null
+  ama_id: 121
   presentation_url: null
 
 yasaichi:
@@ -1065,7 +1065,7 @@ yasaichi:
 
     In this talk, I’ll try to answer this question picking up what DHH™ said in his past interviews and publications. First, I’ll reveal the problem he wanted to solve and the approach he took for the framework. Then, I’ll show you a situation the approach doesn't work well. Finally, I’ll tell you my thoughts on how to deal with it.
   lang: ja
-  ama_id: null
+  ama_id: 161
   presentation_url: null
 
 yoshuki:
@@ -1083,7 +1083,7 @@ yoshuki:
 
     Some stories are outdated since the environment has changed. I hope this story is good as a tale and useful for those who are in similar situations.
   lang: ja
-  ama_id: null
+  ama_id: 155
   presentation_url: null
 
 yoshiori:
@@ -1109,7 +1109,7 @@ yoshiori:
 
     The session will be composed of 120% of my passion for specific technologies, and it will be provided as a nonstop nerd talk. :) If you feel comfortable, join us!
   lang: ja
-  ama_id: null
+  ama_id: 114
   presentation_url: null
 
 youchan:
@@ -1127,7 +1127,7 @@ youchan:
 
     This talk introduces that frameworks.
   lang: ja
-  ama_id: null
+  ama_id: 112
   presentation_url: null
 
 yui-knk:
@@ -1141,5 +1141,5 @@ yui-knk:
 
     Recently, I have been reading the source code of PostgreSQL and implementing a small database. In this session, I will talk about the process of making a database step by step.
   lang: ja
-  ama_id: null
+  ama_id: 132
   presentation_url: null

@@ -14,9 +14,11 @@
       = simple_format session[:description]
   - if session[:ama_id] || session[:presentation_url]
     %ul.links
-      %li
-        %i.fas.fa-comment
-        = link_to "質疑応答", "https://railsdm.herokuapp.com/issues/#{session[:ama_id]}"
-      %li
-        %i.fas.fa-link
-        = link_to "講演資料", session[:presentation_url]
+      - if session[:ama_id]
+        %li
+          %i.fas.fa-comment
+          = link_to "質疑応答", "https://railsdm.herokuapp.com/issues/#{session[:ama_id]}"
+      - if session[:presentation_url]
+        %li
+          %i.fas.fa-link
+          = link_to "講演資料", session[:presentation_url]

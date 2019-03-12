@@ -15,7 +15,7 @@ takahashim:
 
     In this session, I, as a developer using Ruby since the 20th century, will talk about what are difficulties to continue to be a programmer, how to continue, whether or not should continue anyway, and what is "continuing to be a programmer" at all.
   lang: ja
-  ama_id: null
+  ama_id: 171
   presentation_url: null
 
 jeremy:
@@ -25,5 +25,5 @@ jeremy:
   description: |
     Let's preview what's new in the Rails 6 beta! We'll examine how Rails 6 makes its biggest steps forward by extracting strong patterns from mature apps and breathing new life into them: Action Text and Action Mailbox frameworks, multi-database support, parallel testing, and more.
   lang: en
-  ama_id: null
+  ama_id: 172
   presentation_url: null
