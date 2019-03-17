@@ -92,11 +92,18 @@
     DeNAはゲーム事業に加え、自動車やヘルスケア、スポーツなど様々な事業に取り組み、インターネットやAIを使った新しい挑戦をしています。
 
 - id: esm
-  label: "DAY 1: 懇親会 日本酒提供"
+  label: "DAY 1・DAY 2: 懇親会 日本酒提供"
   name: 株式会社永和システムマネジメント
   url: https://agile.esm.co.jp
   description: |
     Rubyとアジャイルの組み合わせが実現するシステム開発は「楽しさ」とビジネス価値がある――私たちはそう信じて行動を続けています。
+
+- id: clipla
+  label: "DAY 1・DAY 2: 懇親会 ワイン提供"
+  name: 株式会社クリプラ
+  url: https://clipla.jp/
+  description: |
+    クラウド型電子カルテ「CLIPLA（クリプラ）」を提供しています。最大週4日リモートワークで柔軟な勤務スタイルを実践中！
 
 - id: link_and_motivation
   label: "DAY 2: Track A 進行/ランチ提供"
@@ -167,13 +174,6 @@
   url: https://info.studyplus.co.jp/
   description: |
     スタディプラスは「学ぶ喜びをすべての人へ」 をミッションに掲げ、学習する全ての人の支援に取り組んでいます
-
-- id: clipla
-  label: "DAY 2: 懇親会 ワイン提供"
-  name: 株式会社クリプラ
-  url: https://clipla.jp/
-  description: |
-    クラウド型電子カルテ「CLIPLA（クリプラ）」を提供しています。最大週4日リモートワークで柔軟な勤務スタイルを実践中！
 
 - id: lovegraph
   label: "カンファレンス撮影協力"
