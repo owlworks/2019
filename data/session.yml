@@ -320,13 +320,13 @@ k0kubun:
 katorie:
   title:
     ユビレジのチーム開発
-    <span>Team development on Ubiregi Inc.</span>
+    <span>Team development at Ubiregi Inc.</span>
   belongs: 株式会社ユビレジ
   name: 加藤 理絵
   description: |
-    株式会社ユビレジでは主に3つのプロダクトを、すべて自社メンバーによるチームで開発・運用しています。2015年入社の私の視点から、ここ3年ほどのチームの変遷とこれからについてお話したいと思います。
+    株式会社ユビレジでは主に3つのプロダクトを、すべて自社メンバーによるチームで開発・運用しています。1年半ほど前から取り入れているスクラム開発でどんな日々を過ごしているのかお話したいと思います。
 
-    In Ubiregi Inc., we develop and run three products all by members from the company. From the point of view of me who joined in 2015, I'll talk about how our team has changed over the past three years and the future of our team.
+    We, at Ubiregi Inc., build and run three software products all by ourselves. I will talk about how our team work together, after introducting Scrum one and a half years ago.
   lang: ja
   ama_id: 131
   presentation_url: null
