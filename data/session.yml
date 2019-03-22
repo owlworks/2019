@@ -57,7 +57,7 @@ amatsuda:
     In this session, we'll explore tips and practices for designing and crafting Rails plugins through our daily application development.
   lang: ja
   ama_id: 138
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/a_matsuda/extending-rails-for-real-world-app-development
 
 banyan:
   title:
@@ -150,7 +150,7 @@ gotchane:
     In this talk, I'd like to talk about the case where we replaced with limited resources based on "making it small", that's one of the core values of SonicGarden.
   lang: ja
   ama_id: 113
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/gotchane/jquery-plus-sass-na-spa-rails-apuriwo-react-plus-css-in-js-niripuresusitahua-at-kei-p-at-gotchane-number-railsdm2019
 
 hanachin:
   title:
@@ -207,7 +207,7 @@ hsbt:
     I will describe the details of RubyGems 3.0 changes and the future plan of RubyGems 4.0.
   lang: ja
   ama_id: 117
-  presentation_url: null
+  presentation_url: https://www.slideshare.net/hsbt/whats-new-in-rubygems3
 
 idesaku:
   title:
@@ -329,7 +329,7 @@ katorie:
     We, at Ubiregi Inc., build and run three software products all by ourselves. I will talk about how our team work together, after introducting Scrum one and a half years ago.
   lang: ja
   ama_id: 131
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/katorie/team-development-at-ubiregi-inc-rails-developers-meetup-2019
 
 katsumata-ryo:
   title:
@@ -448,7 +448,7 @@ kyuden:
     In this session, I will show you a Ruby C extension implementation of a red-black tree, and talk about its performance and effective use cases.
   lang: ja
   ama_id: 135
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/kyuden/red-black-tree-for-ruby
 
 m-nakamura145:
   title:
@@ -466,7 +466,7 @@ m-nakamura145:
     In this session, I will talk about how we have thought through the system of an online reservation system, "Toreta"; the system design, the transitions, and the implementation with Ruby on Rails.
   lang: ja
   ama_id: 122
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/m_nakamura145/onrainyu-yue-che-di-jie-shuo-number-railsdm2019
 
 masa-iwasaki:
   title:
@@ -571,7 +571,7 @@ nay:
     In this talk I'm going to introduce an analysis of code review comments of those pull requests and think about the important points in learning Rails, supporting beginners and code review styles.
   lang: ja
   ama_id: 126
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/nay3/mo-xie-falserailsxin-ren-yan-xiu-falsekodorebiyukomentowofen-xi-sitemimasita
 
 onk:
   title:
@@ -619,7 +619,7 @@ ota42y:
     So this talk is for those who consider to adopt microservices or who is already adopting and facing it.
   lang: ja
   ama_id: 128
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/ota42y/how-should-we-face-with-microservices-wo-hamaikurosabisutodouxiang-kihe-ubekika
 
 owlworks:
   title:
@@ -671,7 +671,7 @@ r7kamura:
     I'd like to talk about more realistic stories about upgrading Rails versions. Main target versions are Rails 4, 5 and 6.
   lang: ja
   ama_id: 136
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/r7kamura/railsatupuguredobai-jing
 
 radioboo:
   title:
@@ -758,7 +758,7 @@ rust:
     I'll talk about our journey to modernize our service with struggles under such circumstances.
   lang: ja
   ama_id: 120
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/ogawa/talentio-wonantokasiyoutowan-zhang-tutekita18keyue-falselu-lu
 
 siman-man:
   title:
@@ -776,7 +776,7 @@ siman-man:
     In this session, I'll introduce the difference between the two, what kind of information we can get from each and how we can use them for our development.
   lang: ja
   ama_id: 140
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/siman/railsdm2019
 
 sinamon129:
   title:
@@ -862,7 +862,7 @@ takatoshi-maeda:
     In this session, I'd like to talk about how to think about hypothesis verification for creating better services and how to make company culture for it in order to make development speed faster from what I've experienced trying many things as a web service developer for over 8 years.
   lang: ja
   ama_id: 124
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/takatoshimaeda/railsdm2019
 
 takkanm:
   title:
@@ -906,7 +906,7 @@ taogawa:
     In this session, I'd like to talk about design patterns which we struggled to build when we were off of rails, including our story of successes and failures.
   lang: ja
   ama_id: 134
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/taogawa/rails-developers-meetup-2019-day1
 
 tawachan:
   title:
@@ -922,7 +922,7 @@ tawachan:
     Keywords: Rails, Heroku, Swagger, CloudFront, ImageFlux, Firebase, PWA, Angular, Ionic, ReactNative, Expo.io
   lang: ja
   ama_id: 116
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/tawachan/shao-ren-shu-desabisuwosubayakukai-fa-surutamefalserailshuo-yong-shi-li-rails-developers-meetup-2019
 
 ujihisa:
   title:
@@ -942,7 +942,7 @@ ujihisa:
     Keywords: Microservices, feature toggles, canary release, and circuit breaker
   lang: ja
   ama_id: 129
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/ujihisa/almost-microservices
 
 unak:
   title:
@@ -974,7 +974,7 @@ upinetree:
     In this talk I consider why the such problems happen and how to make handling policies of CSS in the team. Then I describe how to deal with technical debt of CSS with case studies.
   lang: ja
   ama_id: 118
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/upinetree/how-to-deal-with-technical-debt-of-css-ja
 
 willnet:
   title:
@@ -1018,7 +1018,7 @@ yahonda:
     As a maintainer of Active Record Oracle enhanced adapter, I'll review the development history from Rails 3.2 to 5.2, and talk about the outlook toward Rails 6.
   lang: ja
   ama_id: 115
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/yahonda/past-present-and-future-of-active-record-oracle-enhanced-adapter
 
 yancya:
   title:
@@ -1048,7 +1048,7 @@ yancya:
     In this session, I'd like to talk about the result of the experiment where I think about the design as if GraphQL is an extension of SQLQL.
   lang: ja
   ama_id: 121
-  presentation_url: null
+  presentation_url: https://www.slideshare.net/yancyajp/sqlql-graphql
 
 yasaichi:
   title:
@@ -1110,7 +1110,7 @@ yoshiori:
     The session will be composed of 120% of my passion for specific technologies, and it will be provided as a nonstop nerd talk. :) If you feel comfortable, join us!
   lang: ja
   ama_id: 114
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/yoshiori/devops-immutable-infrastructure-microservices-and-chaos-engineering
 
 youchan:
   title:
@@ -1128,7 +1128,7 @@ youchan:
     This talk introduces that frameworks.
   lang: ja
   ama_id: 112
-  presentation_url: null
+  presentation_url: http://youchan.org/slides/railsdm_2019/
 
 yui-knk:
   title:
@@ -1142,4 +1142,4 @@ yui-knk:
     Recently, I have been reading the source code of PostgreSQL and implementing a small database. In this session, I will talk about the process of making a database step by step.
   lang: ja
   ama_id: 132
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/yui_knk/make-and-learn-rdbms
