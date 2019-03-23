@@ -347,7 +347,7 @@ katsumata-ryo:
     今リーダーとして戦っている人、またはこれからリーダー職に就くかもしれない人のなにかヒントになることを願って話します。
   lang: ja
   ama_id: 167
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/katsumataryo/railsdm-katsumata
 
 knu:
   title:
@@ -364,7 +364,7 @@ knu:
     In this session I will talk about how Enumerator was discussed and created, how it has evolved as a framework, and how exactly we can make it even better going forward.
   lang: ja
   ama_id: 162
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/knu/evolution-of-enumerator
 
 koic:
   title:
