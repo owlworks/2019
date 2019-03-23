@@ -88,7 +88,7 @@ emorima:
     I will talk on the history and future of Rails Girls in Japan.
   lang: ja
   ama_id: 139
-  presentation_url: null
+  presentation_url: https://www.slideshare.net/MayumiEmori/rails-girls-137786740
 
 f440:
   title:
@@ -114,7 +114,7 @@ f440:
     In this session, I will talk on the basics of BiTemporal Data Model, and share our findings and stories through its employment in production.
   lang: ja
   ama_id: 154
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/f440/implementing-command-history-and-temporal-access
 
 fujimura:
   title:
@@ -132,7 +132,7 @@ fujimura:
     In this talk I’ll try to make a better understanding on name and naming things with contemporary philosophy.
   lang: ja
   ama_id: 145
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/fujimura/ru-men-ming-qian
 
 gotchane:
   title:
@@ -178,7 +178,7 @@ hanachin:
     * The decision to conduct "no code reviews".
   lang: ja
   ama_id: 166
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/hanachin/kodorebiyusinai
 
 hokaccha:
   title:
@@ -192,7 +192,7 @@ hokaccha:
     The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent ones. Various kinds of measures have been carried out to solve this issue such as reducing the lines of code and breaking the system down to smaller ones. These are now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
   lang: ja
   ama_id: 165
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/hokaccha/2019-microservices-in-cookpad
 
 hsbt:
   title:
@@ -281,7 +281,7 @@ itkrt2y:
     In this talk, I'll look back these several years of frontend development and talk about why we need to learn frontend development now and what to understand so that we can understand modern frontend development.
   lang: ja
   ama_id: 119
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/itkrt2y/sabasaidoenziniamozhi-tuteokubekihurontoendofalsejin
 
 joker1007:
   title:
@@ -302,7 +302,7 @@ joker1007:
     I talk about how we realized these feature by Rails base application and also about how our architecture has evolved (for example distributed database, data format, ETL, Generating SQL).
   lang: ja
   ama_id: 153
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/joker1007/architecture-evolution-in-repro
 
 k0kubun:
   title:
@@ -379,7 +379,7 @@ koic:
     So Ruby makes programmers happy.
   lang: ja
   ama_id: 150
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/koic/somebody-to-ruby
 
 koichiroo:
   title:
@@ -417,7 +417,7 @@ kokuyouwind:
     In this talk, I'll introduce how to work on visual test using capybara screenshot and reg-suit.
   lang: ja
   ama_id: 146
-  presentation_url: null
+  presentation_url: https://slides.com/kokuyouwind/railsdm2019#/
 
 komagata:
   title:
@@ -431,7 +431,7 @@ komagata:
     I'll talk about the difficulties I've experienced during building a programming school called Fjord Bootcamp and the future plan.
   lang: ja
   ama_id: 158
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/komagata/puroguramingusukuruwozuo-tutemita
 
 kyuden:
   title:
@@ -480,7 +480,7 @@ masa-iwasaki:
     In the early stage of web service development, you need to set up many tools to support yourselves and your services. Because this is a one of common issues among developer teams, there are many SaaS providers for the problem. Although services provided by them usually seems to be expensive, you can buy time for your team and accelerating service development. I will talk about the services I have tried and how to think about pros and cons including various costs to use them.
   lang: ja
   ama_id: 143
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/mstshiwasaki/sabisukai-fa-chu-qi-false-shi-jian-wojin-demai-u-ji-shu
 
 moro:
   title:
@@ -510,7 +510,7 @@ moro:
     In this talk, I'll talk about what I do and I'd like to do to provide values for the place where many people live as a web engineer.
   lang: ja
   ama_id: 141
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/moro/let-our-whole-system-grow
 
 Morred:
   title:
@@ -536,7 +536,7 @@ mrkn:
     I will talk about the activity in Japan to make Ruby ready-to-use in the data science field. Moreover, I'd like to introduce the impact that its achievements have on Rails applications.
   lang: ja
   ama_id: 123
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/mrkn/rubydata-and-rails
 
 mtsmfm:
   title:
@@ -553,7 +553,7 @@ mtsmfm:
     In this talk, I'd like to share the result of analyzing the build results and how to find unstable tests.
   lang: ja
   ama_id: 163
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/mtsmfm/analyze-rails-ci
 
 nay:
   title:
@@ -589,7 +589,7 @@ onk:
     The topics are such as What I thought about when I used certain technology. For example, I'll talk about how I think about CommonMark in terms of markdown and how to deal with it in Ruby, and what to care about when we implement file upload feature. You'll be able to decide everything when creating a Rails app from scratch after joining this talk.
   lang: ja
   ama_id: 111
-  presentation_url: null
+  presentation_url: https://www.slideshare.net/takafumionaka/25-137790052
 
 ota42y:
   title:
@@ -653,7 +653,7 @@ pipopotamasu:
     I introduce “medpacker” which is the frontend boilerplate for RoR. It provides RoR frontend environment without asset pipeline and webpacker. In this session, I tell you that function, how to apply your app and the motivation for development.
   lang: ja
   ama_id: 164
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/pipopotamasu/introduction-of-medpacker-ror-frontend-boilerplate
 
 r7kamura:
   title:
@@ -708,7 +708,7 @@ radioboo:
     Keywords: Ruby on Rails, Sidekiq, AWS, Microservices, ffmpeg, RSpec
   lang: ja
   ama_id: 151
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/_atsushisakai/transcoder
 
 risacan:
   title:
@@ -790,7 +790,7 @@ sinamon129:
     I joined as a first backend engineer and replaced the system build with WordPress with Ruby on Rails and GCP(GKE). I'd like to mainly talk about the strategy of technology selection, our system structure, pros/cons after the replacement and the improvements done after the new team member joined, and also about the struggle in a startup crossing job fields.
   lang: ja
   ama_id: 160
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/sinamon129/gatisutatoatupu1ren-mu-falsebatukuendoenziniafalseriarunazhan-lue-tofen-dou-number-railsdm2019-number-railsdm2019b-at-sinamon129
 
 sinsoku:
   title:
@@ -826,7 +826,7 @@ sinsoku:
     The talk will be focused not on Rails applications but on their surrounding world.
   lang: ja
   ama_id: 170
-  presentation_url: null
+  presentation_url: https://twitter.com/sinsoku_listy/status/1109389919183474688
 
 taiki-t:
   title:
@@ -884,7 +884,7 @@ takkanm:
     I'd like to show you a part of a Rails consulting company.
   lang: ja
   ama_id: 127
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/takkanm/what-i-do-in-a-rails-consulting-company
 
 taogawa:
   title:
@@ -991,7 +991,7 @@ willnet:
     2 years have passed since then, and I'm able to move "Clean Test Code" forward based on the feedbacks I've got. I hope this talk reduces the number of bad test code and increases QOLs of Rails engineers.
   lang: ja
   ama_id: 144
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/willnet/clean-test-code-revised
 
 y-yagi:
   title:
@@ -1004,7 +1004,7 @@ y-yagi:
     I will show a web framework, "Roda". I will talk about its effective use cases for Rails developers.
   lang: ja
   ama_id: 148
-  presentation_url: null
+  presentation_url: https://docs.google.com/presentation/d/1DYs4sNFBPVCqwE6FpE8_DK6ENrQNii7zHFbMqYf_dhA/edit#slide=id.4ed31880-4c2c-11e9-97e2-a3f217c9afd3
 
 yahonda:
   title:
@@ -1066,7 +1066,7 @@ yasaichi:
     In this talk, I’ll try to answer this question picking up what DHH™ said in his past interviews and publications. First, I’ll reveal the problem he wanted to solve and the approach he took for the framework. Then, I’ll show you a situation the approach doesn't work well. Finally, I’ll tell you my thoughts on how to deal with it.
   lang: ja
   ama_id: 161
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/yasaichi/what-is-ruby-on-rails-and-how-to-deal-with-it
 
 yoshuki:
   title:
