@@ -16,7 +16,7 @@ takahashim:
     In this session, I, as a developer using Ruby since the 20th century, will talk about what are difficulties to continue to be a programmer, how to continue, whether or not should continue anyway, and what is "continuing to be a programmer" at all.
   lang: ja
   ama_id: 171
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/takahashim/railsdm-2019
 
 jeremy:
   title: Rails 6, Progress and Maturity

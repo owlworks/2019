@@ -39,7 +39,7 @@ aeroastro:
     In this session, the effectiveness of Schema First Development will be presented. Also, as an example of its application in game development, we will take a look at Rails with Protocol Buffers.
   lang: ja
   ama_id: 133
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/aeroastro/rails-meets-protocol-buffers-for-schema-first-development
 
 amatsuda:
   title:
@@ -257,7 +257,7 @@ ikedaosushi:
     In this session, I’m going to talk about practice and techniques to get good insight from access logs based on our experience.
   lang: ja
   ama_id: 157
-  presentation_url: null
+  presentation_url: https://speakerdeck.com/ikedaosushi/practices-to-utilize-access-logs
 
 itkrt2y:
   title:
@@ -826,7 +826,7 @@ sinsoku:
     The talk will be focused not on Rails applications but on their surrounding world.
   lang: ja
   ama_id: 170
-  presentation_url: https://twitter.com/sinsoku_listy/status/1109389919183474688
+  presentation_url: https://www.slideshare.net/sinsoku/self-healing-infrastructure
 
 taiki-t:
   title:
